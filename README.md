@@ -108,3 +108,8 @@
 - Thought = pensei / reflexao / consideraçao
 - Throughout = ao longo
 - (Pronoun) Which = que
+- Poor = pobre
+- Bathtub = banheira
+- Shower = chuveiro
+- Bathroom (Usually includes a bathtub or shower) / Restroom = banheiro
+- rice = arroz
