@@ -1,45 +1,61 @@
-# Section 2: Greetings
-## 9. Greetings
-- Formal expressions
-  - Good morning
-  - Good afternoon
-  - Good evening
-  - Good night
+# English study <!-- omit in toc -->
 
-- Informal expressions
-  - Hi
-  - Hello
+## Contents <!-- omit in toc -->
+
+- [1. Greetings](#1-greetings)
+  - [1.1. Introducing yourself](#11-introducing-yourself)
+- [2. Speeling](#2-speeling)
+- [3. Asking personal information](#3-asking-personal-information)
+  - [3.1. Asking personal information](#31-asking-personal-information)
+  - [3.2. a / an vs one](#32-a--an-vs-one)
+- [4. To remenber / memorize](#4-to-remenber--memorize)
+
+# 1. Greetings
+
+- Formal expressions:
+
+  - Good morning.
+  - Good afternoon.
+  - Good evening.
+  - Good night.
+
+- Informal expressions:
+  - Hi.
+  - Hello.
   - How are you?
-    - I'm ok / I'm great
-    - I'm good / I'm well
-    - I'm fine # This expression conveys an idea before you were bad and now you are better
+    - I'm ok / I'm great.
+    - I'm good / I'm well.
+    - I'm fine # This expression conveys an idea before you were bad and now you are better.
   - And you?
-  - I'm fine too, thank you
+  - I'm fine too, thank you.
   - How are you doing?
   - How is it going?
   - Hi, how is it doing?
-  - Hey, what's up
+  - Hey, what's up.
 
-## 10. Introduction Yourself
-- My name is Jefté
-- Nice to meet you
-- Nice to meet you too
-  - I'm glad to know you
-- Hi, my name is Jefté
+## 1.1. Introducing yourself
+
+- My name is Jefté.
+- Nice to meet you.
+- Nice to meet you too.
+  - I'm glad to know you.
+- Hi, my name is Jefté.
 - What's your name?
 - What's your first name?
 - What's your last name?
 - What's your full name?
 - What's your middle name?
 
-# Section 5: Speeling
-## 13. Spelling
-- What's your name
-- How do you spell that?
+# 2. Speeling
+
+- What's your name.
+  - How do you spell that?
 - a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z
 
-# Section 6: Asking personal information
-## 14. Asking personal information
+# 3. Asking personal information
+
+## 3.1. Asking personal information
+
 - What's your first name?
   - It's Jefté
   - My first name is Jefté
@@ -61,10 +77,11 @@
 - Bye
 - See you
 
-## 15. a / an vs one
-- 
+## 3.2. a / an vs one
 
-# To remenber / memorize
+-
+
+# 4. To remenber / memorize
 
 - Accomplishes = realiza
 - Are = Estão / Estava / Estar
@@ -94,7 +111,7 @@
 - Hunk = pedaço
 - Indeed = na verdade, certamente
 - Lead = liderar / persuadir
-- Must =  deve
+- Must = deve
 - Floor = Chão / Piso
 - Shelf = Prateleira
 - Toilet seat = Vaso sanitário
@@ -112,4 +129,5 @@
 - Bathtub = banheira
 - Shower = chuveiro
 - Bathroom (Usually includes a bathtub or shower) / Restroom = banheiro
-- rice = arroz
+- Rice = arroz
+- Bundle = agrupar
