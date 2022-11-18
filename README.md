@@ -81,7 +81,7 @@
 
 -
 
-# 4. To remenber / memorize
+# 4. To remember / memorize
 
 - Accomplishes = realiza
 - Are = Estão / Estava / Estar
