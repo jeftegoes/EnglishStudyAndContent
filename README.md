@@ -8,7 +8,12 @@
 - [3. Asking personal information](#3-asking-personal-information)
   - [3.1. Asking personal information](#31-asking-personal-information)
   - [3.2. a / an vs one](#32-a--an-vs-one)
-- [4. To remenber / memorize](#4-to-remenber--memorize)
+- [4. Verb To Be](#4-verb-to-be)
+  - [4.1. Examples](#41-examples)
+    - [4.1.1. Contractions forms](#411-contractions-forms)
+    - [Negative forms](#negative-forms)
+    - [Contractions with negative forms](#contractions-with-negative-forms)
+- [5. To remenber / memorize](#5-to-remenber--memorize)
 
 # 1. Greetings
 
@@ -79,9 +84,63 @@
 
 ## 3.2. a / an vs one
 
--
+# 4. Verb To Be
 
-# 4. To remenber / memorize
+| Subejct | Verb |
+| ------- | ---- |
+| I       | am   |
+| He      | is   |
+| She     | is   |
+| It      | is   |
+| We      | are  |
+| You     | are  |
+| They    | are  |
+
+- Is -> Singular
+- Are -> Plural
+
+## 4.1. Examples
+
+- I **am** your teacher.
+- He **is** my father.
+- She **is** my sister.
+- It **is** a Dog.
+- It **is** Hot/Cold.
+- We **are** here.
+- You **are** at home.
+- They **are** at the university.
+
+### 4.1.1. Contractions forms
+
+- I'm your teacher.
+- He's my father
+- She's my sister.
+- It's hot/cold.
+- We're here.
+- You're at home.
+- They're at the university.
+
+### Negative forms
+
+- I'm **not** your teacher.
+- He's **not** my father.
+- She's **not** my sister.
+- It's **not** hot/cold
+- We're **not** here.
+- You're **not** at home.
+- They're **not** at the university.
+
+### Contractions with negative forms
+
+- I'm not your teacher.
+- He isn't my father.
+- She ins't my sister.
+- It isn't hot/cold.
+- We aren't here.
+- You aren't at home.
+- They aren't at the university.
+
+# 5. To remenber / memorize
 
 - Accomplishes = realiza
 - Are = Estão / Estava / Estar
