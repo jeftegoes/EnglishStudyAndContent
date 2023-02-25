@@ -9,11 +9,21 @@
   - [3.1. Asking personal information](#31-asking-personal-information)
   - [3.2. a / an vs one](#32-a--an-vs-one)
 - [4. Verb To Be](#4-verb-to-be)
-  - [4.1. Examples](#41-examples)
-    - [4.1.1. Contractions forms](#411-contractions-forms)
-    - [Negative forms](#negative-forms)
-    - [Contractions with negative forms](#contractions-with-negative-forms)
-- [5. To remenber / memorize](#5-to-remenber--memorize)
+  - [4.1. Afirmative form](#41-afirmative-form)
+  - [4.2. Contractions form](#42-contractions-form)
+  - [4.3. Negative form](#43-negative-form)
+    - [4.3.1. Contractions with negative form](#431-contractions-with-negative-form)
+  - [4.4. Question form](#44-question-form)
+    - [4.4.1. Question with negative and contractions form](#441-question-with-negative-and-contractions-form)
+  - [4.5. Questions and answers](#45-questions-and-answers)
+- [5. Articles](#5-articles)
+  - [5.1. Definite](#51-definite)
+  - [5.2. Indefinite](#52-indefinite)
+- [6. Can, Could and Be able to](#6-can-could-and-be-able-to)
+  - [6.1. Can](#61-can)
+    - [6.1.1. Example with 5 (five) senses](#611-example-with-5-five-senses)
+  - [6.2. Could](#62-could)
+- [7. To remenber / memorize](#7-to-remenber--memorize)
 
 # 1. Greetings
 
@@ -99,7 +109,7 @@
 - Is -> Singular
 - Are -> Plural
 
-## 4.1. Examples
+## 4.1. Afirmative form
 
 - I **am** your teacher.
 - He **is** my father.
@@ -110,7 +120,7 @@
 - You **are** at home.
 - They **are** at the university.
 
-### 4.1.1. Contractions forms
+## 4.2. Contractions form
 
 - I'm your teacher.
 - He's my father
@@ -120,7 +130,7 @@
 - You're at home.
 - They're at the university.
 
-### Negative forms
+## 4.3. Negative form
 
 - I'm **not** your teacher.
 - He's **not** my father.
@@ -130,7 +140,7 @@
 - You're **not** at home.
 - They're **not** at the university.
 
-### Contractions with negative forms
+### 4.3.1. Contractions with negative form
 
 - I'm not your teacher.
 - He isn't my father.
@@ -140,7 +150,172 @@
 - You aren't at home.
 - They aren't at the university.
 
-# 5. To remenber / memorize
+## 4.4. Question form
+
+- **Am** I your teacher?
+- **Is** he my father?
+- **Is** she my sister?
+- **Is** it a dog?
+- **Is** it a hot/cold?
+- **Are** we here?
+- **Are** you at home?
+- **Are** they at the university?
+
+### 4.4.1. Question with negative and contractions form
+
+- **Am** i not your teacher?
+- Isn't he my father?
+- Isn't she my sister?
+- Isn't it hot/cold?
+- Aren't we here?
+- Aren't you at home?
+- Aren't they at the university?
+
+## 4.5. Questions and answers
+
+- Are you my teacher?
+  - Yes, i am.
+  - No, i'm not.
+- Isn't she my sister?
+  - Yes, she is.
+  - No, she isn't.
+- Aren't they at home?
+  - Yes, they are.
+  - No, they aren't
+
+# 5. Articles
+
+## 5.1. Definite
+
+- They are used when we are referring to a **specific thing** or **quantity**.
+- The definite article (the) is used before a noun to indicate that the identity of the noun is known to the reader.
+
+- Before a singular or plural noun.
+  - Examples:
+    - **The** toy.
+    - **The** book.
+    - **The** house.
+    - **The** operation.
+    - **The** idea.
+    - **The** apple.
+
+## 5.2. Indefinite
+
+- They are used when we are referring to an **unespecified** thing or quantity.
+- The article (a, an) is used before a **noun** that is general or when its identity is not known.
+
+- **A** = Before a singular noun beginning with a **consonant sound**.
+  - **A** toy.
+  - **A** book.
+  - **A** house.
+  - **A** hamburguer.
+  - **A** heavy music.
+  - **A** hungry man.
+  - **A** university.
+  - **A** union.
+  - **A** European hotel.
+  - **A** small theater.
+- **An** = Before a singular noun beginning with a **vowel sound**.
+  - **An** operation.
+  - **An** ideia.
+  - **An** apple.
+  - **An** honest mistake
+  - **An** unhappy person.
+
+# 6. Can, Could and Be able to
+
+- Can = Present
+  - Be able to -> Alternative
+- Could = Past
+
+## 6.1. Can
+
+- **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
+
+| Subject       | Modal Verb CAN | Main Verb           |
+| ------------- | -------------- | ------------------- |
+| I             | can            | play tennis.        |
+| You           | can't          | drive a truck.      |
+| He / She / It | cannot         | read very fast.     |
+| We            | can            | ride our bikes.     |
+| They          | can't          | wear jeans at work. |
+
+- **Can** + **person** + **main verb**
+- Ability (Present)
+  - I **can** speak 2 languages.
+- Offer
+  - **Can** I help you?
+- Possibility (Present)
+  - Smoking **can** cause diseases.
+- Request
+  - **Can** you lend me a a pen?
+- Permission
+  - **Can** I go to the mall with my frind?
+- Examples:
+  - I **can** swim.
+  - She **can't** speak chinese.
+  - We **can't** wear jeans at work.
+  - **Can** you ride a bike?
+    - Yes, I **can**.
+    - No, I **can't**.
+  - My school isn't far, I **can** walk.
+  - The letters are too small. I **can't** read.
+
+### 6.1.1. Example with 5 (five) senses
+
+- Feel
+- Hear
+- See
+- Smell
+- Taste
+
+- I **can** hear music.
+- **Can** you help me?
+  - Yes, I can
+  - No, I can't
+- I **can't** remember her name.
+- She **can't** understand this kind of things.
+
+## 6.2. Could
+
+- Could is also a modal auxiliary verb. Its structure consists on:
+
+| Subject       | Modal Verb COULD | Main Verb           |
+| ------------- | ---------------- | ------------------- |
+| I             | could            | play tennis.        |
+| You           | couldn't         | drive a truck.      |
+| He / She / It | could not        | read very fast.     |
+| We            | could            | ride our bikes.     |
+| They          | couldn't         | wear jeans at work. |
+
+- **Could** + **person** + **main verb**
+- Ability (Past)
+  - I **could** speak 2 languages in the past.
+- Suggestion
+  - You **could** write a letter to your crush. (+ Polite)
+- Possibility
+  - He **could** be the assassin.
+- Request
+  - **Could** I barrow your eraser? (+ Polite)
+- Permission
+  - **Could** I ask you a personal question.
+- Examples:
+  - I **can** swim.
+  - She **can't** speak chinese.
+  - We **can't** wear jeans at work.
+  - **Can** you ride a bike?
+    - Yes, I **can**.
+    - No, I **can't**.
+  - My school isn't far, I **can** walk.
+  - The letters are too small. I **can't** read.
+
+Examples
+
+- We **can** see the lake from our hotel.
+  - We be able to see the lake from our hotel.
+- As soon as walked into the room, i **could** smell gas.
+
+# 7. To remenber / memorize
 
 - Accomplishes = realiza
 - Are = Estão / Estava / Estar
@@ -157,6 +332,7 @@
 - Concern = Preocupação
 - Coverage = cobertura
 - Dangling = pendurado/pendente
+- Noun = Substantivo / nome
 - Edge = borda / aresta
 - Exchange = troca / cambio
 - Wardrobe = armário
@@ -171,10 +347,12 @@
 - Indeed = na verdade, certamente
 - Lead = liderar / persuadir
 - Must = deve
+- Soon = Breve / Assim que
 - Floor = Chão / Piso
 - Shelf = Prateleira
 - Toilet seat = Vaso sanitário
 - Painting = Quadro de pintura
+- Kind = Coisa
 - Nutshell = Em resumo / Em suma
 - Shift = mudança
 - (Verb) Should = deve
