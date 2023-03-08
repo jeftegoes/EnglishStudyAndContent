@@ -5,25 +5,27 @@
 - [1. Greetings](#1-greetings)
   - [1.1. Introducing yourself](#11-introducing-yourself)
 - [2. Speeling](#2-speeling)
-- [3. Asking personal information](#3-asking-personal-information)
-  - [3.1. Asking personal information](#31-asking-personal-information)
-  - [3.2. a / an vs one](#32-a--an-vs-one)
-- [4. Verb To Be](#4-verb-to-be)
-  - [4.1. Afirmative form](#41-afirmative-form)
-  - [4.2. Contractions form](#42-contractions-form)
-  - [4.3. Negative form](#43-negative-form)
-    - [4.3.1. Contractions with negative form](#431-contractions-with-negative-form)
-  - [4.4. Question form](#44-question-form)
-    - [4.4.1. Question with negative and contractions form](#441-question-with-negative-and-contractions-form)
-  - [4.5. Questions and answers](#45-questions-and-answers)
-- [5. Articles](#5-articles)
-  - [5.1. Definite](#51-definite)
-  - [5.2. Indefinite](#52-indefinite)
-- [6. Can, Could and Be able to](#6-can-could-and-be-able-to)
-  - [6.1. Can](#61-can)
-    - [6.1.1. Example with 5 (five) senses](#611-example-with-5-five-senses)
-  - [6.2. Could](#62-could)
-- [7. To remenber / memorize](#7-to-remenber--memorize)
+- [3. Subject Pronouns](#3-subject-pronouns)
+- [4. Numbers](#4-numbers)
+- [5. Asking personal information](#5-asking-personal-information)
+  - [5.1. Asking personal information](#51-asking-personal-information)
+  - [5.2. a / an vs one](#52-a--an-vs-one)
+- [6. Verb To Be Present](#6-verb-to-be-present)
+  - [6.1. Afirmative form](#61-afirmative-form)
+  - [6.2. Contractions form](#62-contractions-form)
+  - [6.3. Negative form](#63-negative-form)
+    - [6.3.1. Contractions with negative form](#631-contractions-with-negative-form)
+  - [6.4. Question form](#64-question-form)
+    - [6.4.1. Question with negative and contractions form](#641-question-with-negative-and-contractions-form)
+  - [6.5. Questions and answers](#65-questions-and-answers)
+- [7. Articles](#7-articles)
+  - [7.1. Definite](#71-definite)
+  - [7.2. Indefinite](#72-indefinite)
+- [8. Can, Could and Be able to](#8-can-could-and-be-able-to)
+  - [8.1. Can](#81-can)
+    - [8.1.1. Example with 5 (five) senses](#811-example-with-5-five-senses)
+  - [8.2. Could](#82-could)
+- [9. To remenber / memorize](#9-to-remenber--memorize)
 
 # 1. Greetings
 
@@ -67,9 +69,53 @@
   - How do you spell that?
 - a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z
 
-# 3. Asking personal information
+# 3. Subject Pronouns
 
-## 3.1. Asking personal information
+- I
+- He
+- She
+- It
+- We
+- You
+- They
+
+# 4. Numbers
+
+- 0 = Zero
+- 1 = One
+- 2 = Two
+- 3 = Three
+- 4 = Four
+- 5 = Five
+- 6 = Six
+- 7 = Seven
+- 8 = Eight
+- 9 = Nine
+- 10 = Ten
+- 11 = Eleven
+- 12 = Twelve
+- "Teen"
+  - 13 = Thirteen
+  - 14 = Fourteen
+  - 15 = Fifteen
+  - 16 = Sixteen
+  - 17 = Seventeen
+  - 18 = Eighteen
+  - 19 = Nineteen
+- "Ty"
+  - 20 = Twenty
+    - 21 = Twenty one
+    - 22 = Twenty two
+    - 23 = Twenty three
+  - (...)
+- 30 = Thirty
+- 31 = Thirty one
+- 32 = Thirty two
+- 33 = Thirty three
+
+# 5. Asking personal information
+
+## 5.1. Asking personal information
 
 - What's your first name?
   - It's Jefté
@@ -92,9 +138,9 @@
 - Bye
 - See you
 
-## 3.2. a / an vs one
+## 5.2. a / an vs one
 
-# 4. Verb To Be
+# 6. Verb To Be Present
 
 | Subejct | Verb |
 | ------- | ---- |
@@ -109,7 +155,7 @@
 - Is -> Singular
 - Are -> Plural
 
-## 4.1. Afirmative form
+## 6.1. Afirmative form
 
 - I **am** your teacher.
 - He **is** my father.
@@ -120,17 +166,17 @@
 - You **are** at home.
 - They **are** at the university.
 
-## 4.2. Contractions form
+## 6.2. Contractions form
 
-- I'm your teacher.
-- He's my father
-- She's my sister.
-- It's hot/cold.
-- We're here.
-- You're at home.
-- They're at the university.
+- **I'm** your teacher.
+- **He's** my father
+- **She's** my sister.
+- **It's** hot/cold.
+- **We're** here.
+- **You're** at home.
+- **They're** at the university.
 
-## 4.3. Negative form
+## 6.3. Negative form
 
 - I'm **not** your teacher.
 - He's **not** my father.
@@ -140,7 +186,7 @@
 - You're **not** at home.
 - They're **not** at the university.
 
-### 4.3.1. Contractions with negative form
+### 6.3.1. Contractions with negative form
 
 - I'm not your teacher.
 - He isn't my father.
@@ -150,7 +196,7 @@
 - You aren't at home.
 - They aren't at the university.
 
-## 4.4. Question form
+## 6.4. Question form
 
 - **Am** I your teacher?
 - **Is** he my father?
@@ -161,17 +207,17 @@
 - **Are** you at home?
 - **Are** they at the university?
 
-### 4.4.1. Question with negative and contractions form
+### 6.4.1. Question with negative and contractions form
 
 - **Am** i not your teacher?
-- Isn't he my father?
-- Isn't she my sister?
-- Isn't it hot/cold?
-- Aren't we here?
-- Aren't you at home?
-- Aren't they at the university?
+- **Isn't** he my father?
+- **Isn't** she my sister?
+- **Isn't** it hot/cold?
+- **Aren't** we here?
+- **Aren't** you at home?
+- **Aren't** they at the university?
 
-## 4.5. Questions and answers
+## 6.5. Questions and answers
 
 - Are you my teacher?
   - Yes, i am.
@@ -183,9 +229,9 @@
   - Yes, they are.
   - No, they aren't
 
-# 5. Articles
+# 7. Articles
 
-## 5.1. Definite
+## 7.1. Definite
 
 - They are used when we are referring to a **specific thing** or **quantity**.
 - The definite article (the) is used before a noun to indicate that the identity of the noun is known to the reader.
@@ -199,7 +245,7 @@
     - **The** idea.
     - **The** apple.
 
-## 5.2. Indefinite
+## 7.2. Indefinite
 
 - They are used when we are referring to an **unespecified** thing or quantity.
 - The article (a, an) is used before a **noun** that is general or when its identity is not known.
@@ -222,13 +268,13 @@
   - **An** honest mistake
   - **An** unhappy person.
 
-# 6. Can, Could and Be able to
+# 8. Can, Could and Be able to
 
 - Can = Present
   - Be able to -> Alternative
 - Could = Past
 
-## 6.1. Can
+## 8.1. Can
 
 - **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
 
@@ -261,7 +307,7 @@
   - My school isn't far, I **can** walk.
   - The letters are too small. I **can't** read.
 
-### 6.1.1. Example with 5 (five) senses
+### 8.1.1. Example with 5 (five) senses
 
 - Feel
 - Hear
@@ -276,7 +322,7 @@
 - I **can't** remember her name.
 - She **can't** understand this kind of things.
 
-## 6.2. Could
+## 8.2. Could
 
 - Could is also a modal auxiliary verb. Its structure consists on:
 
@@ -300,6 +346,7 @@
 - Permission
   - **Could** I ask you a personal question.
 - Examples:
+
   - I **can** swim.
   - She **can't** speak chinese.
   - We **can't** wear jeans at work.
@@ -309,13 +356,12 @@
   - My school isn't far, I **can** walk.
   - The letters are too small. I **can't** read.
 
-Examples
+- Examples
+  - We **can** see the lake from our hotel.
+    - We be able to see the lake from our hotel.
+  - As soon as walked into the room, i **could** smell gas.
 
-- We **can** see the lake from our hotel.
-  - We be able to see the lake from our hotel.
-- As soon as walked into the room, i **could** smell gas.
-
-# 7. To remenber / memorize
+# 9. To remenber / memorize
 
 - Accomplishes = realiza
 - Are = Estão / Estava / Estar
@@ -368,3 +414,4 @@ Examples
 - Bathroom (Usually includes a bathtub or shower) / Restroom = banheiro
 - Rice = arroz
 - Bundle = agrupar
+- As soon as = Assim que
