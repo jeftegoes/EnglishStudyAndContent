@@ -5,7 +5,7 @@
 - [1. Greetings](#1-greetings)
   - [1.1. Introducing yourself](#11-introducing-yourself)
 - [2. Speeling](#2-speeling)
-- [3. Subject Pronouns](#3-subject-pronouns)
+- [3. Subject Pronouns and Possessives](#3-subject-pronouns-and-possessives)
 - [4. Numbers](#4-numbers)
 - [5. Asking personal information](#5-asking-personal-information)
   - [5.1. Asking personal information](#51-asking-personal-information)
@@ -69,15 +69,17 @@
   - How do you spell that?
 - a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z
 
-# 3. Subject Pronouns
+# 3. Subject Pronouns and Possessives
 
-- I
-- He
-- She
-- It
-- We
-- You
-- They
+| Subject Pronouns | Possessives |
+| ---------------- | ----------- |
+| I                | My          |
+| He               | His         |
+| She              | Her         |
+| It               | Its         |
+| We               | Our         |
+| You              | Your        |
+| They             | Their       |
 
 # 4. Numbers
 
