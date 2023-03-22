@@ -6,26 +6,28 @@
   - [1.1. Introducing yourself](#11-introducing-yourself)
 - [2. Speeling](#2-speeling)
 - [3. Subject Pronouns and Possessives](#3-subject-pronouns-and-possessives)
-- [4. Numbers](#4-numbers)
-- [5. Asking personal information](#5-asking-personal-information)
-  - [5.1. Asking personal information](#51-asking-personal-information)
-  - [5.2. a / an vs one](#52-a--an-vs-one)
-- [6. Verb To Be Present](#6-verb-to-be-present)
-  - [6.1. Afirmative form](#61-afirmative-form)
-  - [6.2. Contractions form](#62-contractions-form)
-  - [6.3. Negative form](#63-negative-form)
-    - [6.3.1. Contractions with negative form](#631-contractions-with-negative-form)
-  - [6.4. Question form](#64-question-form)
-    - [6.4.1. Question with negative and contractions form](#641-question-with-negative-and-contractions-form)
-  - [6.5. Questions and answers](#65-questions-and-answers)
-- [7. Articles](#7-articles)
-  - [7.1. Definite](#71-definite)
-  - [7.2. Indefinite](#72-indefinite)
-- [8. Can, Could and Be able to](#8-can-could-and-be-able-to)
-  - [8.1. Can](#81-can)
-    - [8.1.1. Example with 5 (five) senses](#811-example-with-5-five-senses)
-  - [8.2. Could](#82-could)
-- [9. To remenber / memorize](#9-to-remenber--memorize)
+- [4. Demonstrative Pronouns](#4-demonstrative-pronouns)
+- [5. Personal characteristics](#5-personal-characteristics)
+- [6. Numbers](#6-numbers)
+- [7. Asking personal information](#7-asking-personal-information)
+  - [7.1. Asking personal information](#71-asking-personal-information)
+  - [7.2. a / an vs one](#72-a--an-vs-one)
+- [8. Verb To Be Present](#8-verb-to-be-present)
+  - [8.1. Afirmative form](#81-afirmative-form)
+  - [8.2. Contractions form](#82-contractions-form)
+  - [8.3. Negative form](#83-negative-form)
+    - [8.3.1. Contractions with negative form](#831-contractions-with-negative-form)
+  - [8.4. Question form](#84-question-form)
+    - [8.4.1. Question with negative and contractions form](#841-question-with-negative-and-contractions-form)
+  - [8.5. Questions and answers](#85-questions-and-answers)
+- [9. Articles](#9-articles)
+  - [9.1. Definite](#91-definite)
+  - [9.2. Indefinite](#92-indefinite)
+- [10. Can, Could and Be able to](#10-can-could-and-be-able-to)
+  - [10.1. Can](#101-can)
+    - [10.1.1. Example with 5 (five) senses](#1011-example-with-5-five-senses)
+  - [10.2. Could](#102-could)
+- [11. To remenber / memorize](#11-to-remenber--memorize)
 
 # 1. Greetings
 
@@ -81,7 +83,60 @@
 | You              | Your        |
 | They             | Their       |
 
-# 4. Numbers
+- Example:
+  - **My** car is red.
+  - **His** house is big.
+  - **Her** skirt is green.
+  - **Its** food is tasty.
+  - **Our** cats are not at home.
+  - **Their** t-shirts aren't black.
+  - **Your** parents are in the church.
+
+# 4. Demonstrative Pronouns
+
+| Singular (Near) | Plural (Far) |
+| --------------- | ------------ |
+| This            | That         |
+| These           | Those        |
+
+- Examples:
+  - **This** is my car.
+  - **Those** are his brothers.
+  - **This** is my wife:
+    - She is a dentist.
+- **That** is our mother:
+  - She is a doctor.
+- **These** are her cousins, they are lawyers.
+- **This** is their son.
+- Those are his parents:
+  - They are managers.
+- **This** book is old.
+- **That** movie isn't very good.
+- **These** pens are very cheap.
+- **This** table isn't very expensive.
+- **Those** streets are very dangerous.
+- What's **that**?
+- What's **this**?
+- **That's** it.
+
+# 5. Personal characteristics
+
+- Is your brother **tall**?
+- My siste isn't **short**.
+- Their husbands are **handsome**.
+- His wife is **chubby**.
+- His mother is **beautiful**.
+- Our cousins aren't **smart**.
+- His mother is **thin**.
+- Are their girlfriends **pretty**?
+- Are their girlfriends **ugly**?
+- Her boyfriend isn't **ugly**.
+- Tips:
+  - Man = Handsome.
+  - Woman = Pretty.
+  - Man and Woman = Beautiful.
+
+# 6. Numbers
 
 - 0 = Zero
 - 1 = One
@@ -115,9 +170,9 @@
 - 32 = Thirty two
 - 33 = Thirty three
 
-# 5. Asking personal information
+# 7. Asking personal information
 
-## 5.1. Asking personal information
+## 7.1. Asking personal information
 
 - What's your first name?
   - It's Jefté
@@ -140,9 +195,9 @@
 - Bye
 - See you
 
-## 5.2. a / an vs one
+## 7.2. a / an vs one
 
-# 6. Verb To Be Present
+# 8. Verb To Be Present
 
 | Subejct | Verb |
 | ------- | ---- |
@@ -157,7 +212,7 @@
 - Is -> Singular
 - Are -> Plural
 
-## 6.1. Afirmative form
+## 8.1. Afirmative form
 
 - I **am** your teacher.
 - He **is** my father.
@@ -168,7 +223,7 @@
 - You **are** at home.
 - They **are** at the university.
 
-## 6.2. Contractions form
+## 8.2. Contractions form
 
 - **I'm** your teacher.
 - **He's** my father
@@ -178,7 +233,7 @@
 - **You're** at home.
 - **They're** at the university.
 
-## 6.3. Negative form
+## 8.3. Negative form
 
 - I'm **not** your teacher.
 - He's **not** my father.
@@ -188,7 +243,7 @@
 - You're **not** at home.
 - They're **not** at the university.
 
-### 6.3.1. Contractions with negative form
+### 8.3.1. Contractions with negative form
 
 - I'm not your teacher.
 - He isn't my father.
@@ -198,7 +253,7 @@
 - You aren't at home.
 - They aren't at the university.
 
-## 6.4. Question form
+## 8.4. Question form
 
 - **Am** I your teacher?
 - **Is** he my father?
@@ -209,7 +264,7 @@
 - **Are** you at home?
 - **Are** they at the university?
 
-### 6.4.1. Question with negative and contractions form
+### 8.4.1. Question with negative and contractions form
 
 - **Am** i not your teacher?
 - **Isn't** he my father?
@@ -219,7 +274,7 @@
 - **Aren't** you at home?
 - **Aren't** they at the university?
 
-## 6.5. Questions and answers
+## 8.5. Questions and answers
 
 - Are you my teacher?
   - Yes, i am.
@@ -231,9 +286,9 @@
   - Yes, they are.
   - No, they aren't
 
-# 7. Articles
+# 9. Articles
 
-## 7.1. Definite
+## 9.1. Definite
 
 - They are used when we are referring to a **specific thing** or **quantity**.
 - The definite article (the) is used before a noun to indicate that the identity of the noun is known to the reader.
@@ -247,7 +302,7 @@
     - **The** idea.
     - **The** apple.
 
-## 7.2. Indefinite
+## 9.2. Indefinite
 
 - They are used when we are referring to an **unespecified** thing or quantity.
 - The article (a, an) is used before a **noun** that is general or when its identity is not known.
@@ -270,13 +325,13 @@
   - **An** honest mistake
   - **An** unhappy person.
 
-# 8. Can, Could and Be able to
+# 10. Can, Could and Be able to
 
 - Can = Present
   - Be able to -> Alternative
 - Could = Past
 
-## 8.1. Can
+## 10.1. Can
 
 - **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
 
@@ -309,7 +364,7 @@
   - My school isn't far, I **can** walk.
   - The letters are too small. I **can't** read.
 
-### 8.1.1. Example with 5 (five) senses
+### 10.1.1. Example with 5 (five) senses
 
 - Feel
 - Hear
@@ -324,7 +379,7 @@
 - I **can't** remember her name.
 - She **can't** understand this kind of things.
 
-## 8.2. Could
+## 10.2. Could
 
 - Could is also a modal auxiliary verb. Its structure consists on:
 
@@ -363,15 +418,11 @@
     - We be able to see the lake from our hotel.
   - As soon as walked into the room, i **could** smell gas.
 
-# 9. To remenber / memorize
+# 11. To remenber / memorize
 
 - Accomplishes = realiza
-- Are = Estão / Estava / Estar
-- Also = Também
 - As a reminder = um lembrete
-- Assert = afirmação
 - Assessment = avaliação
-- Avoid = evitar
 - Bed = Cama
 - Belong = pertencer
 - Broker = agente/ negociador / intermediário
@@ -414,6 +465,5 @@
 - Bathtub = banheira
 - Shower = chuveiro
 - Bathroom (Usually includes a bathtub or shower) / Restroom = banheiro
-- Rice = arroz
 - Bundle = agrupar
 - As soon as = Assim que
