@@ -11,7 +11,6 @@
 - [6. Numbers](#6-numbers)
 - [7. Asking personal information](#7-asking-personal-information)
   - [7.1. Asking personal information](#71-asking-personal-information)
-  - [7.2. a / an vs one](#72-a--an-vs-one)
 - [8. Verb To Be Present](#8-verb-to-be-present)
   - [8.1. Afirmative form](#81-afirmative-form)
   - [8.2. Contractions form](#82-contractions-form)
@@ -23,11 +22,17 @@
 - [9. Articles](#9-articles)
   - [9.1. Definite](#91-definite)
   - [9.2. Indefinite](#92-indefinite)
-- [10. Can, Could and Be able to](#10-can-could-and-be-able-to)
-  - [10.1. Can](#101-can)
-    - [10.1.1. Example with 5 (five) senses](#1011-example-with-5-five-senses)
-  - [10.2. Could](#102-could)
-- [11. To remenber / memorize](#11-to-remenber--memorize)
+- [10. Present simple](#10-present-simple)
+  - [10.1. Afirmative form](#101-afirmative-form)
+  - [10.2. Question form](#102-question-form)
+  - [10.3. Negative forms](#103-negative-forms)
+  - [10.4. Question with negative form](#104-question-with-negative-form)
+  - [Extra](#extra)
+- [11. Can, Could and Be able to](#11-can-could-and-be-able-to)
+  - [11.1. Can](#111-can)
+    - [11.1.1. Example with 5 (five) senses](#1111-example-with-5-five-senses)
+  - [11.2. Could](#112-could)
+- [12. To remenber / memorize](#12-to-remenber--memorize)
 
 # 1. Greetings
 
@@ -195,8 +200,6 @@
 - Bye
 - See you
 
-## 7.2. a / an vs one
-
 # 8. Verb To Be Present
 
 | Subejct | Verb |
@@ -325,13 +328,72 @@
   - **An** honest mistake
   - **An** unhappy person.
 
-# 10. Can, Could and Be able to
+# 10. Present simple
+
+## 10.1. Afirmative form
+
+- I **play** soccer every day.
+- We **work** here.
+- They **live** in that house.
+- You **lie** a lot.
+- He / She / It -> +s / +es
+  - He like**s** movies.
+  - She need**s** our documents.
+  - It live**s** on a tree
+- My / Her / his -> +s / +es
+  - My sister play**s** voleyball.
+  - Her husband know**s** you father.
+  - His sister need**s** money.
+  - His sister **has** money.
+
+## 10.2. Question form
+
+- Don't = do + not.
+  - Do you **play** volleyball?
+    - Yes, I do.
+    - No, I don't.
+  - Do they **know** your father?
+    - Yes, they do.
+    - No, they don't.
+  - Do we **need** money?
+    - Yes, we do.
+    - No, we don't
+- Does he like movies?
+- Does it live on a tree?
+- Does she need our documents?
+
+## 10.3. Negative forms
+
+- Don't = do + not.
+  - They don't play play volleyball.
+  - I don't know your father.
+  - You don't need money.
+- Doesn't = does not
+  - Anna doestn't play volleyball.
+  - Peter doesn't know your father.
+  - My lawyer doesn't have money.
+
+## 10.4. Question with negative form
+
+- Don't you like movies?
+- Don't they live there?
+- Don't we need our documents?
+
+## Extra
+
+- Do = does.
+- Make = makes.
+- Have = has.
+- Study = studies.
+- Duck = ducks.
+
+# 11. Can, Could and Be able to
 
 - Can = Present
   - Be able to -> Alternative
 - Could = Past
 
-## 10.1. Can
+## 11.1. Can
 
 - **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
 
@@ -348,12 +410,18 @@
   - I **can** speak 2 languages.
 - Offer
   - **Can** I help you?
+    - Yes, you can.
+    - No, you can't
 - Possibility (Present)
   - Smoking **can** cause diseases.
 - Request
-  - **Can** you lend me a a pen?
+  - **Can** you lend me a pen?
+    - Yes, I can.
+    - No, I can't.
 - Permission
   - **Can** I go to the mall with my frind?
+    - Yes, you can.
+    - No, you can't.
 - Examples:
   - I **can** swim.
   - She **can't** speak chinese.
@@ -364,7 +432,7 @@
   - My school isn't far, I **can** walk.
   - The letters are too small. I **can't** read.
 
-### 10.1.1. Example with 5 (five) senses
+### 11.1.1. Example with 5 (five) senses
 
 - Feel
 - Hear
@@ -379,7 +447,7 @@
 - I **can't** remember her name.
 - She **can't** understand this kind of things.
 
-## 10.2. Could
+## 11.2. Could
 
 - Could is also a modal auxiliary verb. Its structure consists on:
 
@@ -418,13 +486,11 @@
     - We be able to see the lake from our hotel.
   - As soon as walked into the room, i **could** smell gas.
 
-# 11. To remenber / memorize
+# 12. To remenber / memorize
 
 - Accomplishes = realiza
 - As a reminder = um lembrete
 - Assessment = avaliação
-- Bed = Cama
-- Belong = pertencer
 - Broker = agente/ negociador / intermediário
 - Ceiling = Teto
 - Chair = Cadeira
