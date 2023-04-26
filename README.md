@@ -4,30 +4,38 @@
 
 - [1. Greetings](#1-greetings)
   - [1.1. Introducing yourself](#11-introducing-yourself)
+  - [1.2. Asking personal information](#12-asking-personal-information)
+    - [1.2.1. Name](#121-name)
+    - [1.2.2. Age](#122-age)
+    - [1.2.3. Job / Occupation](#123-job--occupation)
+    - [1.2.4. Family members](#124-family-members)
+    - [1.2.5. Hometown / Country / Nationality](#125-hometown--country--nationality)
+    - [1.2.6. Hobbies](#126-hobbies)
+    - [1.2.7. Favorite TV Shows / Movies](#127-favorite-tv-shows--movies)
+    - [1.2.8. Others](#128-others)
 - [2. Speeling](#2-speeling)
 - [3. Subject Pronouns and Possessives](#3-subject-pronouns-and-possessives)
 - [4. Demonstrative Pronouns](#4-demonstrative-pronouns)
 - [5. Personal characteristics](#5-personal-characteristics)
 - [6. Numbers](#6-numbers)
-- [7. Asking personal information](#7-asking-personal-information)
-  - [7.1. Asking personal information](#71-asking-personal-information)
-- [8. Verb To Be Present](#8-verb-to-be-present)
-  - [8.1. Afirmative form](#81-afirmative-form)
-  - [8.2. Contractions form](#82-contractions-form)
-  - [8.3. Negative form](#83-negative-form)
-    - [8.3.1. Contractions with negative form](#831-contractions-with-negative-form)
-  - [8.4. Question form](#84-question-form)
-    - [8.4.1. Question with negative and contractions form](#841-question-with-negative-and-contractions-form)
-  - [8.5. Questions and answers](#85-questions-and-answers)
-- [9. Articles](#9-articles)
-  - [9.1. Definite](#91-definite)
-  - [9.2. Indefinite](#92-indefinite)
-- [10. Present simple](#10-present-simple)
-  - [10.1. Afirmative form](#101-afirmative-form)
-  - [10.2. Question form](#102-question-form)
-  - [10.3. Negative forms](#103-negative-forms)
-  - [10.4. Question with negative form](#104-question-with-negative-form)
-  - [Extra](#extra)
+- [7. Verb To Be Present](#7-verb-to-be-present)
+  - [7.1. Afirmative form](#71-afirmative-form)
+  - [7.2. Contractions form](#72-contractions-form)
+  - [7.3. Negative form](#73-negative-form)
+    - [7.3.1. Contractions with negative form](#731-contractions-with-negative-form)
+  - [7.4. Question form](#74-question-form)
+    - [7.4.1. Question with negative and contractions form](#741-question-with-negative-and-contractions-form)
+  - [7.5. Questions and answers](#75-questions-and-answers)
+- [8. Articles](#8-articles)
+  - [8.1. Definite](#81-definite)
+  - [8.2. Indefinite](#82-indefinite)
+- [9. Present simple](#9-present-simple)
+  - [9.1. Afirmative form](#91-afirmative-form)
+  - [9.2. Question form](#92-question-form)
+  - [9.3. Negative forms](#93-negative-forms)
+  - [9.4. Question with negative form](#94-question-with-negative-form)
+  - [9.5. Extra](#95-extra)
+- [10. Habits / Routine](#10-habits--routine)
 - [11. Can, Could and Be able to](#11-can-could-and-be-able-to)
   - [11.1. Can](#111-can)
     - [11.1.1. Example with 5 (five) senses](#1111-example-with-5-five-senses)
@@ -37,12 +45,11 @@
 # 1. Greetings
 
 - Formal expressions:
-
-  - Good morning.
-  - Good afternoon.
-  - Good evening.
-  - Good night.
-
+  - Parts of the day:
+    - Good morning.
+    - Good afternoon.
+    - Good evening.
+    - Good night.
 - Informal expressions:
   - Hi.
   - Hello.
@@ -70,11 +77,88 @@
 - What's your full name?
 - What's your middle name?
 
+## 1.2. Asking personal information
+
+### 1.2.1. Name
+
+| Question            | Answer             |
+| ------------------- | ------------------ |
+| What's your name?   | My name is Jefté.  |
+| How are you called? | I am called Jefté. |
+
+### 1.2.2. Age
+
+| Question            | Answer             |
+| ------------------- | ------------------ |
+| What's your age?    | My age is 22.      |
+| How old are you?    | I am 22 years old. |
+| When were you born? | I am born in 1991. |
+
+### 1.2.3. Job / Occupation
+
+| Question                | Answer                                  |
+| ----------------------- | --------------------------------------- |
+| What's your job?        | I am a Software Engineer.               |
+| What's your occupation? | My job/occupation is Software Engineer. |
+| Where do you work?      | I work at Disney.                       |
+
+### 1.2.4. Family members
+
+| Question                               | Answer                                                |
+| -------------------------------------- | ----------------------------------------------------- |
+| Who are your family members/relatives? | My family members/relatives are João, Maria and José. |
+
+### 1.2.5. Hometown / Country / Nationality
+
+| Question                                  | Answer                                                        |
+| ----------------------------------------- | ------------------------------------------------------------- |
+| Where are you from?                       | I am from Salvador.                                           |
+| What's your hometown/country/nationality? | My hometown/country/nationality is Salvador/Brazil/Brazilian. |
+
+### 1.2.6. Hobbies
+
+| Question                        | Answer                                            |
+| ------------------------------- | ------------------------------------------------- |
+| What are your hobbies?          | My hobbies are study and play video games.        |
+| What do you like doing for fun? | I like read technical books and play video games. |
+
+### 1.2.7. Favorite TV Shows / Movies
+
+| Question                                                  | Answer                                |
+| --------------------------------------------------------- | ------------------------------------- |
+| What are your favorite TV shows and movies?               | What do you like watching?            |
+| My favorite TV shows and movies are Mr. Robot and Dexter. | I like watching Mr. Robot and Dexter. |
+
+### 1.2.8. Others
+
+- What's your first name?
+  - It's Jefté
+  - My first name is Jefté
+- What's your first name?
+- What's your full name?
+- What's your last name?
+- What's your middle name?
+- What's your phone number?
+  - It's 1234567
+- What's your address?
+  - It's is Bahia, 321
+- What's your email?
+  - jefte.goes@hotmail.com
+    - . = dot
+    - @ = at
+- Where are you from?
+  - I'm from Brazil
+  - I'm Brazilian
+- Bye
+- See you
+
 # 2. Speeling
 
 - What's your name.
   - How do you spell that?
-- a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z
+    - J E F T E
+- Alphabet
+  - a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z
 
 # 3. Subject Pronouns and Possessives
 
@@ -99,10 +183,13 @@
 
 # 4. Demonstrative Pronouns
 
-| Singular (Near) | Plural (Far) |
-| --------------- | ------------ |
-| This            | That         |
-| These           | Those        |
+| Singular (Near) | Singular (Far) |
+| --------------- | -------------- |
+| This            | That           |
+
+| Plural (Near) | Plural (Far) |
+| ------------- | ------------ |
+| These         | Those        |
 
 - Examples:
   - **This** is my car.
@@ -175,32 +262,7 @@
 - 32 = Thirty two
 - 33 = Thirty three
 
-# 7. Asking personal information
-
-## 7.1. Asking personal information
-
-- What's your first name?
-  - It's Jefté
-  - My first name is Jefté
-- What's your first name?
-- What's your full name?
-- What's your last name?
-- What's your middle name?
-- What's your phone number?
-  - It's 1234567
-- What's your address?
-  - It's is Bahia, 321
-- What's your email?
-  - jefte.goes@hotmail.com
-    - . = dot
-    - @ = at
-- Where are you from?
-  - I'm from Brazil
-  - I'm Brazilian
-- Bye
-- See you
-
-# 8. Verb To Be Present
+# 7. Verb To Be Present
 
 | Subejct | Verb |
 | ------- | ---- |
@@ -215,7 +277,7 @@
 - Is -> Singular
 - Are -> Plural
 
-## 8.1. Afirmative form
+## 7.1. Afirmative form
 
 - I **am** your teacher.
 - He **is** my father.
@@ -226,7 +288,7 @@
 - You **are** at home.
 - They **are** at the university.
 
-## 8.2. Contractions form
+## 7.2. Contractions form
 
 - **I'm** your teacher.
 - **He's** my father
@@ -236,7 +298,7 @@
 - **You're** at home.
 - **They're** at the university.
 
-## 8.3. Negative form
+## 7.3. Negative form
 
 - I'm **not** your teacher.
 - He's **not** my father.
@@ -246,7 +308,7 @@
 - You're **not** at home.
 - They're **not** at the university.
 
-### 8.3.1. Contractions with negative form
+### 7.3.1. Contractions with negative form
 
 - I'm not your teacher.
 - He isn't my father.
@@ -256,7 +318,7 @@
 - You aren't at home.
 - They aren't at the university.
 
-## 8.4. Question form
+## 7.4. Question form
 
 - **Am** I your teacher?
 - **Is** he my father?
@@ -267,7 +329,7 @@
 - **Are** you at home?
 - **Are** they at the university?
 
-### 8.4.1. Question with negative and contractions form
+### 7.4.1. Question with negative and contractions form
 
 - **Am** i not your teacher?
 - **Isn't** he my father?
@@ -277,7 +339,7 @@
 - **Aren't** you at home?
 - **Aren't** they at the university?
 
-## 8.5. Questions and answers
+## 7.5. Questions and answers
 
 - Are you my teacher?
   - Yes, i am.
@@ -289,9 +351,9 @@
   - Yes, they are.
   - No, they aren't
 
-# 9. Articles
+# 8. Articles
 
-## 9.1. Definite
+## 8.1. Definite
 
 - They are used when we are referring to a **specific thing** or **quantity**.
 - The definite article (the) is used before a noun to indicate that the identity of the noun is known to the reader.
@@ -305,7 +367,7 @@
     - **The** idea.
     - **The** apple.
 
-## 9.2. Indefinite
+## 8.2. Indefinite
 
 - They are used when we are referring to an **unespecified** thing or quantity.
 - The article (a, an) is used before a **noun** that is general or when its identity is not known.
@@ -328,9 +390,9 @@
   - **An** honest mistake
   - **An** unhappy person.
 
-# 10. Present simple
+# 9. Present simple
 
-## 10.1. Afirmative form
+## 9.1. Afirmative form
 
 - I **play** soccer every day.
 - We **work** here.
@@ -346,7 +408,7 @@
   - His sister need**s** money.
   - His sister **has** money.
 
-## 10.2. Question form
+## 9.2. Question form
 
 - Don't = do + not.
   - Do you **play** volleyball?
@@ -362,7 +424,7 @@
 - Does it live on a tree?
 - Does she need our documents?
 
-## 10.3. Negative forms
+## 9.3. Negative forms
 
 - Don't = do + not.
   - They don't play play volleyball.
@@ -373,19 +435,31 @@
   - Peter doesn't know your father.
   - My lawyer doesn't have money.
 
-## 10.4. Question with negative form
+## 9.4. Question with negative form
 
 - Don't you like movies?
 - Don't they live there?
 - Don't we need our documents?
 
-## Extra
+## 9.5. Extra
 
 - Do = does.
 - Make = makes.
 - Have = has.
 - Study = studies.
 - Duck = ducks.
+
+# 10. Habits / Routine
+
+- Usually.
+- Rarely.
+- Never.
+- Always.
+
+- Examples:
+  - I usually take the bus to school.
+  - She rarely forgets to do her homework.
+  - He never washes the dishes.
 
 # 11. Can, Could and Be able to
 
