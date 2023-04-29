@@ -15,32 +15,40 @@
     - [1.2.8. Others](#128-others)
 - [2. Speeling](#2-speeling)
 - [3. Subject Pronouns and Possessives](#3-subject-pronouns-and-possessives)
+  - [3.1. Possessives 's](#31-possessives-s)
 - [4. Demonstrative Pronouns](#4-demonstrative-pronouns)
 - [5. Personal characteristics](#5-personal-characteristics)
 - [6. Numbers](#6-numbers)
-- [7. Verb To Be Present](#7-verb-to-be-present)
-  - [7.1. Afirmative form](#71-afirmative-form)
-  - [7.2. Contractions form](#72-contractions-form)
-  - [7.3. Negative form](#73-negative-form)
-    - [7.3.1. Contractions with negative form](#731-contractions-with-negative-form)
-  - [7.4. Question form](#74-question-form)
-    - [7.4.1. Question with negative and contractions form](#741-question-with-negative-and-contractions-form)
-  - [7.5. Questions and answers](#75-questions-and-answers)
-- [8. Articles](#8-articles)
-  - [8.1. Definite](#81-definite)
-  - [8.2. Indefinite](#82-indefinite)
-- [9. Present simple](#9-present-simple)
-  - [9.1. Afirmative form](#91-afirmative-form)
-  - [9.2. Question form](#92-question-form)
-  - [9.3. Negative forms](#93-negative-forms)
-  - [9.4. Question with negative form](#94-question-with-negative-form)
-  - [9.5. Extra](#95-extra)
-- [10. Habits / Routine](#10-habits--routine)
-- [11. Can, Could and Be able to](#11-can-could-and-be-able-to)
-  - [11.1. Can](#111-can)
-    - [11.1.1. Example with 5 (five) senses](#1111-example-with-5-five-senses)
-  - [11.2. Could](#112-could)
-- [12. To remenber / memorize](#12-to-remenber--memorize)
+- [7. Verb To Be](#7-verb-to-be)
+  - [7.1. Past](#71-past)
+  - [7.2. Present](#72-present)
+    - [7.2.1. Afirmative form](#721-afirmative-form)
+    - [7.2.2. Contractions form](#722-contractions-form)
+    - [7.2.3. Negative form](#723-negative-form)
+      - [7.2.3.1. Contractions with negative form](#7231-contractions-with-negative-form)
+    - [7.2.4. Question form](#724-question-form)
+      - [7.2.4.1. Question with negative and contractions form](#7241-question-with-negative-and-contractions-form)
+    - [7.2.5. Questions and answers](#725-questions-and-answers)
+- [8. There + to be](#8-there--to-be)
+- [9. Articles](#9-articles)
+  - [9.1. Definite](#91-definite)
+  - [9.2. Indefinite](#92-indefinite)
+- [10. Present simple](#10-present-simple)
+  - [10.1. Afirmative form](#101-afirmative-form)
+  - [10.2. Question form](#102-question-form)
+  - [10.3. Negative forms](#103-negative-forms)
+  - [10.4. Question with negative form](#104-question-with-negative-form)
+  - [10.5. Extra](#105-extra)
+- [11. Habits / Routine](#11-habits--routine)
+- [12. Time](#12-time)
+  - [12.1. Days of The Week](#121-days-of-the-week)
+  - [12.2. Months](#122-months)
+  - [12.3. Time](#123-time)
+- [13. Can, Could and Be able to](#13-can-could-and-be-able-to)
+  - [13.1. Can](#131-can)
+    - [13.1.1. Example with 5 (five) senses](#1311-example-with-5-five-senses)
+  - [13.2. Could](#132-could)
+- [14. To remenber / memorize](#14-to-remenber--memorize)
 
 # 1. Greetings
 
@@ -181,6 +189,17 @@
   - **Their** t-shirts aren't black.
   - **Your** parents are in the church.
 
+## 3.1. Possessives 's
+
+- Examples:
+  - Paul's camera.
+  - Bob's car.
+  - I go to my mother's house on weekends.
+  - I don't like Ana's mother.
+  - My son's friend is my lawyer.
+  - Her boyfriend's mother lives in my building.
+  - This is São Paulo's best restaurant.
+
 # 4. Demonstrative Pronouns
 
 | Singular (Near) | Singular (Far) |
@@ -258,11 +277,32 @@
     - 23 = Twenty three
   - (...)
 - 30 = Thirty
-- 31 = Thirty one
-- 32 = Thirty two
-- 33 = Thirty three
+  - 31 = Thirty one
+  - 32 = Thirty two
+  - 33 = Thirty three
+  - (...)
+- 40 = Forty
+- 50 = Fifty
+- 60 = Sixty
+- 70 = Seventy
+- 80 = Eighty
+- 90 = Ninety
+- 100 = One hundred / A hundred
+  - 101 = One hundred and one
+  - 102 = One hundred two
+- 200 = Two hundred
+- 1,000 = One thousand
+- 2,000 = Two thousand
 
-# 7. Verb To Be Present
+# 7. Verb To Be
+
+## 7.1. Past
+
+- Examples
+  - I was here yesterday.
+  - They were my friends.
+
+## 7.2. Present
 
 | Subejct | Verb |
 | ------- | ---- |
@@ -277,7 +317,7 @@
 - Is -> Singular
 - Are -> Plural
 
-## 7.1. Afirmative form
+### 7.2.1. Afirmative form
 
 - I **am** your teacher.
 - He **is** my father.
@@ -288,7 +328,7 @@
 - You **are** at home.
 - They **are** at the university.
 
-## 7.2. Contractions form
+### 7.2.2. Contractions form
 
 - **I'm** your teacher.
 - **He's** my father
@@ -298,7 +338,7 @@
 - **You're** at home.
 - **They're** at the university.
 
-## 7.3. Negative form
+### 7.2.3. Negative form
 
 - I'm **not** your teacher.
 - He's **not** my father.
@@ -308,7 +348,7 @@
 - You're **not** at home.
 - They're **not** at the university.
 
-### 7.3.1. Contractions with negative form
+#### 7.2.3.1. Contractions with negative form
 
 - I'm not your teacher.
 - He isn't my father.
@@ -318,7 +358,7 @@
 - You aren't at home.
 - They aren't at the university.
 
-## 7.4. Question form
+### 7.2.4. Question form
 
 - **Am** I your teacher?
 - **Is** he my father?
@@ -329,7 +369,7 @@
 - **Are** you at home?
 - **Are** they at the university?
 
-### 7.4.1. Question with negative and contractions form
+#### 7.2.4.1. Question with negative and contractions form
 
 - **Am** i not your teacher?
 - **Isn't** he my father?
@@ -339,7 +379,7 @@
 - **Aren't** you at home?
 - **Aren't** they at the university?
 
-## 7.5. Questions and answers
+### 7.2.5. Questions and answers
 
 - Are you my teacher?
   - Yes, i am.
@@ -351,9 +391,21 @@
   - Yes, they are.
   - No, they aren't
 
-# 8. Articles
+# 8. There + to be
 
-## 8.1. Definite
+- Examples:
+  - There is a book on the table.
+  - There are five chairs in the room.
+  - Is there a bus stop around here?
+  - Are there any restaurants in the mall?
+  - There isn't a pool in my house.
+  - There aren't children in my neighbourhood.
+  - Isn't there a chair i can use?
+  - Aren't there trees in your city?
+
+# 9. Articles
+
+## 9.1. Definite
 
 - They are used when we are referring to a **specific thing** or **quantity**.
 - The definite article (the) is used before a noun to indicate that the identity of the noun is known to the reader.
@@ -367,7 +419,7 @@
     - **The** idea.
     - **The** apple.
 
-## 8.2. Indefinite
+## 9.2. Indefinite
 
 - They are used when we are referring to an **unespecified** thing or quantity.
 - The article (a, an) is used before a **noun** that is general or when its identity is not known.
@@ -390,9 +442,9 @@
   - **An** honest mistake
   - **An** unhappy person.
 
-# 9. Present simple
+# 10. Present simple
 
-## 9.1. Afirmative form
+## 10.1. Afirmative form
 
 - I **play** soccer every day.
 - We **work** here.
@@ -402,13 +454,13 @@
   - He like**s** movies.
   - She need**s** our documents.
   - It live**s** on a tree
-- My / Her / his -> +s / +es
+- My / Her / His -> +s / +es
   - My sister play**s** voleyball.
   - Her husband know**s** you father.
   - His sister need**s** money.
   - His sister **has** money.
 
-## 9.2. Question form
+## 10.2. Question form
 
 - Don't = do + not.
   - Do you **play** volleyball?
@@ -424,7 +476,7 @@
 - Does it live on a tree?
 - Does she need our documents?
 
-## 9.3. Negative forms
+## 10.3. Negative forms
 
 - Don't = do + not.
   - They don't play play volleyball.
@@ -435,13 +487,13 @@
   - Peter doesn't know your father.
   - My lawyer doesn't have money.
 
-## 9.4. Question with negative form
+## 10.4. Question with negative form
 
 - Don't you like movies?
 - Don't they live there?
 - Don't we need our documents?
 
-## 9.5. Extra
+## 10.5. Extra
 
 - Do = does.
 - Make = makes.
@@ -449,7 +501,7 @@
 - Study = studies.
 - Duck = ducks.
 
-# 10. Habits / Routine
+# 11. Habits / Routine
 
 - Usually.
 - Rarely.
@@ -457,17 +509,86 @@
 - Always.
 
 - Examples:
-  - I usually take the bus to school.
-  - She rarely forgets to do her homework.
-  - He never washes the dishes.
+  - I **usually** take the bus to school.
+  - She **rarely** forgets to do her homework.
+  - He **never** washes the dishes.
+  - We **always** play soccer on sundays.
+  - They don't work every day.
+  - Her son almost **never** plays with the dog.
+  - His sister **always** wears a hat.
+  - Their daughter **never** goes to the market.
+  - That waiter Waiter works on tuesdays afternoons.
+  - Your manager **rarely** reads books and magazines.
+  - Are you **usually** on time for school?
+    - Yes, I'm.
+    - No, I'm not.
+  - What time do you wake up?
+    - I **usually** wake up at 08 am.
+  - What time do you go to bed?
+    - I go to bed at 10 pm.
+  - Where do you have lunch?
+    - I have lunch at home.
 
-# 11. Can, Could and Be able to
+# 12. Time
+
+## 12.1. Days of The Week
+
+| Day of the week | Abbreviation |
+| --------------- | ------------ |
+| Sunday          | Sun.         |
+| Monday          | Mon.         |
+| Tuesday         | Tue.         |
+| Wednesday       | Wed.         |
+| Thursday        | Thu.         |
+| Friday          | Thu.         |
+| Saturday        | Sat.         |
+
+- Examples:
+  - What do you do on mondays?
+  - How often do you go to the movies?
+  - She goes to the movies once a month.
+  - Her brother swims twice a week.
+
+## 12.2. Months
+
+|     | Month     | Short form |
+| --- | --------- | ---------- |
+| 1   | January   | Jan.       |
+| 2   | February  | Feb.       |
+| 3   | March     | Mar.       |
+| 4   | April     | Mar.       |
+| 5   | May       | May        |
+| 6   | June      | Jun.       |
+| 7   | July      | Jul.       |
+| 8   | August    | Aug.       |
+| 9   | September | Sep.       |
+| 10  | October   | Oct.       |
+| 11  | November  | Nov.       |
+| 12  | December  | Dec.       |
+
+- Examples:
+  - We usually travel to my father's farm in april.
+  - I never have vacations in july.
+
+## 12.3. Time
+
+- What time is it?
+  - It's 09 am.
+- What time does she go to school?
+  - She goes to school at 07 am.
+- 09:15 = Nine - Fifteen.
+- 08:20 = Eight - Twenty.
+- 03:30 = Three - Thirty or half past three.
+- 12:00 pm = Midnight
+- 12:00 am = Midday
+
+# 13. Can, Could and Be able to
 
 - Can = Present
   - Be able to -> Alternative
 - Could = Past
 
-## 11.1. Can
+## 13.1. Can
 
 - **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
 
@@ -506,7 +627,7 @@
   - My school isn't far, I **can** walk.
   - The letters are too small. I **can't** read.
 
-### 11.1.1. Example with 5 (five) senses
+### 13.1.1. Example with 5 (five) senses
 
 - Feel
 - Hear
@@ -521,7 +642,7 @@
 - I **can't** remember her name.
 - She **can't** understand this kind of things.
 
-## 11.2. Could
+## 13.2. Could
 
 - Could is also a modal auxiliary verb. Its structure consists on:
 
@@ -560,7 +681,7 @@
     - We be able to see the lake from our hotel.
   - As soon as walked into the room, i **could** smell gas.
 
-# 12. To remenber / memorize
+# 14. To remenber / memorize
 
 - Accomplishes = realiza
 - As a reminder = um lembrete
@@ -591,7 +712,6 @@
 - Shelf = Prateleira
 - Toilet seat = Vaso sanitário
 - Painting = Quadro de pintura
-- Kind = Coisa
 - Nutshell = Em resumo / Em suma
 - Shift = mudança
 - (Verb) Should = deve
@@ -603,7 +723,7 @@
 - (Pronoun) Which = que
 - Poor = pobre
 - Bathtub = banheira
-- Shower = chuveiro
 - Bathroom (Usually includes a bathtub or shower) / Restroom = banheiro
 - Bundle = agrupar
 - As soon as = Assim que
+- Waiter = Garçon
