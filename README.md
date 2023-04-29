@@ -19,36 +19,40 @@
 - [4. Demonstrative Pronouns](#4-demonstrative-pronouns)
 - [5. Personal characteristics](#5-personal-characteristics)
 - [6. Numbers](#6-numbers)
+  - [6.1. Cardinal](#61-cardinal)
+  - [6.2. Other forget who.....](#62-other-forget-who)
 - [7. Verb To Be](#7-verb-to-be)
-  - [7.1. Past](#71-past)
-  - [7.2. Present](#72-present)
-    - [7.2.1. Afirmative form](#721-afirmative-form)
-    - [7.2.2. Contractions form](#722-contractions-form)
-    - [7.2.3. Negative form](#723-negative-form)
-      - [7.2.3.1. Contractions with negative form](#7231-contractions-with-negative-form)
-    - [7.2.4. Question form](#724-question-form)
-      - [7.2.4.1. Question with negative and contractions form](#7241-question-with-negative-and-contractions-form)
-    - [7.2.5. Questions and answers](#725-questions-and-answers)
+  - [7.1. Present](#71-present)
+    - [7.1.1. Afirmative form](#711-afirmative-form)
+    - [7.1.2. Contractions form](#712-contractions-form)
+    - [7.1.3. Negative form](#713-negative-form)
+      - [7.1.3.1. Contractions with negative form](#7131-contractions-with-negative-form)
+    - [7.1.4. Question form](#714-question-form)
+      - [7.1.4.1. Question with negative and contractions form](#7141-question-with-negative-and-contractions-form)
+    - [7.1.5. Questions and answers](#715-questions-and-answers)
+  - [7.2. Past](#72-past)
 - [8. There + to be](#8-there--to-be)
-- [9. Articles](#9-articles)
-  - [9.1. Definite](#91-definite)
-  - [9.2. Indefinite](#92-indefinite)
-- [10. Present simple](#10-present-simple)
-  - [10.1. Afirmative form](#101-afirmative-form)
-  - [10.2. Question form](#102-question-form)
-  - [10.3. Negative forms](#103-negative-forms)
-  - [10.4. Question with negative form](#104-question-with-negative-form)
-  - [10.5. Extra](#105-extra)
-- [11. Habits / Routine](#11-habits--routine)
-- [12. Time](#12-time)
-  - [12.1. Days of The Week](#121-days-of-the-week)
-  - [12.2. Months](#122-months)
-  - [12.3. Time](#123-time)
-- [13. Can, Could and Be able to](#13-can-could-and-be-able-to)
-  - [13.1. Can](#131-can)
-    - [13.1.1. Example with 5 (five) senses](#1311-example-with-5-five-senses)
-  - [13.2. Could](#132-could)
-- [14. To remenber / memorize](#14-to-remenber--memorize)
+- [9. Adjectives](#9-adjectives)
+- [10. Articles](#10-articles)
+  - [10.1. Definite](#101-definite)
+  - [10.2. Indefinite](#102-indefinite)
+- [11. Present simple](#11-present-simple)
+  - [11.1. Afirmative form](#111-afirmative-form)
+  - [11.2. Question form](#112-question-form)
+  - [11.3. Negative forms](#113-negative-forms)
+  - [11.4. Question with negative form](#114-question-with-negative-form)
+  - [11.5. Extra](#115-extra)
+- [12. Habits / Routine](#12-habits--routine)
+  - [12.1. Daily routine](#121-daily-routine)
+- [13. Date and Time](#13-date-and-time)
+  - [13.1. Days of The Week](#131-days-of-the-week)
+  - [13.2. Months](#132-months)
+  - [13.3. Time](#133-time)
+- [14. Can, Could and Be able to](#14-can-could-and-be-able-to)
+  - [14.1. Can](#141-can)
+    - [14.1.1. Example with 5 (five) senses](#1411-example-with-5-five-senses)
+  - [14.2. Could](#142-could)
+- [15. To remenber / memorize](#15-to-remenber--memorize)
 
 # 1. Greetings
 
@@ -249,6 +253,8 @@
 
 # 6. Numbers
 
+## 6.1. Cardinal
+
 - 0 = Zero
 - 1 = One
 - 2 = Two
@@ -294,15 +300,15 @@
 - 1,000 = One thousand
 - 2,000 = Two thousand
 
+## 6.2. Other forget who.....
+
 # 7. Verb To Be
 
-## 7.1. Past
+- The **To Be** verb is used to describe or tell us the condition of people, things places and ideas. For example, they could tell us the subject's **age, nationality, job** or other information.
 
-- Examples
-  - I was here yesterday.
-  - They were my friends.
+## 7.1. Present
 
-## 7.2. Present
+- This is the structure of the To Be verb in the Present Tense:
 
 | Subejct | Verb |
 | ------- | ---- |
@@ -317,7 +323,7 @@
 - Is -> Singular
 - Are -> Plural
 
-### 7.2.1. Afirmative form
+### 7.1.1. Afirmative form
 
 - I **am** your teacher.
 - He **is** my father.
@@ -328,7 +334,7 @@
 - You **are** at home.
 - They **are** at the university.
 
-### 7.2.2. Contractions form
+### 7.1.2. Contractions form
 
 - **I'm** your teacher.
 - **He's** my father
@@ -338,7 +344,7 @@
 - **You're** at home.
 - **They're** at the university.
 
-### 7.2.3. Negative form
+### 7.1.3. Negative form
 
 - I'm **not** your teacher.
 - He's **not** my father.
@@ -348,7 +354,7 @@
 - You're **not** at home.
 - They're **not** at the university.
 
-#### 7.2.3.1. Contractions with negative form
+#### 7.1.3.1. Contractions with negative form
 
 - I'm not your teacher.
 - He isn't my father.
@@ -358,7 +364,7 @@
 - You aren't at home.
 - They aren't at the university.
 
-### 7.2.4. Question form
+### 7.1.4. Question form
 
 - **Am** I your teacher?
 - **Is** he my father?
@@ -369,7 +375,7 @@
 - **Are** you at home?
 - **Are** they at the university?
 
-#### 7.2.4.1. Question with negative and contractions form
+#### 7.1.4.1. Question with negative and contractions form
 
 - **Am** i not your teacher?
 - **Isn't** he my father?
@@ -379,7 +385,7 @@
 - **Aren't** you at home?
 - **Aren't** they at the university?
 
-### 7.2.5. Questions and answers
+### 7.1.5. Questions and answers
 
 - Are you my teacher?
   - Yes, i am.
@@ -390,6 +396,28 @@
 - Aren't they at home?
   - Yes, they are.
   - No, they aren't
+
+## 7.2. Past
+
+- This is the structure of the To be verb in the Past Tense:
+
+| Subject | Afirmative     | Negative          | Interrogative  |
+| ------- | -------------- | ----------------- | -------------- |
+| I       | subject + was  | subject + wasn't  | was + subject  |
+| He      | subject + was  | subject + wasn't  | was + subject  |
+| She     | subject + was  | subject + wasn't  | was + subject  |
+| It      | subject + was  | subject + wasn't  | was + subject  |
+| We      | subject + were | subject + weren't | were + subject |
+| You     | subject + were | subject + weren't | were + subject |
+| They    | subject + were | subject + weren't | were + subject |
+
+- Examples
+  - I was here yesterday.
+  - They were my friends.
+  - She was his girlfriend.
+  - There was an accident at the corner.
+  - Se went home.
+  - They went to the school.
 
 # 8. There + to be
 
@@ -403,9 +431,24 @@
   - Isn't there a chair i can use?
   - Aren't there trees in your city?
 
-# 9. Articles
+# 9. Adjectives
 
-## 9.1. Definite
+- The adjectives are usually placed **before** the noun that they describe.
+- Examples:
+  - We have good students here.
+  - English is an international language.
+  - He is a Peruvian journalist.
+  - Ugly apartment.
+- In sentences with the **TO BE verb**, we place the adjective **after** the verb.
+- Examples:
+  - Messi is Argentinian.
+  - Shakira is Colombian.
+  - This hotel is very big.
+  - This apartment is nice.
+
+# 10. Articles
+
+## 10.1. Definite
 
 - They are used when we are referring to a **specific thing** or **quantity**.
 - The definite article (the) is used before a noun to indicate that the identity of the noun is known to the reader.
@@ -419,7 +462,7 @@
     - **The** idea.
     - **The** apple.
 
-## 9.2. Indefinite
+## 10.2. Indefinite
 
 - They are used when we are referring to an **unespecified** thing or quantity.
 - The article (a, an) is used before a **noun** that is general or when its identity is not known.
@@ -442,9 +485,9 @@
   - **An** honest mistake
   - **An** unhappy person.
 
-# 10. Present simple
+# 11. Present simple
 
-## 10.1. Afirmative form
+## 11.1. Afirmative form
 
 - I **play** soccer every day.
 - We **work** here.
@@ -460,7 +503,7 @@
   - His sister need**s** money.
   - His sister **has** money.
 
-## 10.2. Question form
+## 11.2. Question form
 
 - Don't = do + not.
   - Do you **play** volleyball?
@@ -476,7 +519,7 @@
 - Does it live on a tree?
 - Does she need our documents?
 
-## 10.3. Negative forms
+## 11.3. Negative forms
 
 - Don't = do + not.
   - They don't play play volleyball.
@@ -487,13 +530,13 @@
   - Peter doesn't know your father.
   - My lawyer doesn't have money.
 
-## 10.4. Question with negative form
+## 11.4. Question with negative form
 
 - Don't you like movies?
 - Don't they live there?
 - Don't we need our documents?
 
-## 10.5. Extra
+## 11.5. Extra
 
 - Do = does.
 - Make = makes.
@@ -501,7 +544,7 @@
 - Study = studies.
 - Duck = ducks.
 
-# 11. Habits / Routine
+# 12. Habits / Routine
 
 - Usually.
 - Rarely.
@@ -529,9 +572,45 @@
   - Where do you have lunch?
     - I have lunch at home.
 
-# 12. Time
+## 12.1. Daily routine
 
-## 12.1. Days of The Week
+- Everyday verbs:
+  - Go to Bed.
+  - Have / Eat breakfest.
+  - Do the homework
+  - Take a shower.
+  - Take the bus.
+  - Cook.
+  - Clean the house.
+  - Wake up.
+  - Brush my teeth.
+  - Get dressed.
+  - Go to work/college.
+  - Study / Read.
+
+# 13. Date and Time
+
+- Writing and saying the date in English
+  - We ask the date or about dates in several ways, for example:
+    - What date is it?
+    - What's the date today?
+    - What's today's date?
+- There are two ways of saying the date based on British and American English:
+
+  |           | British                                | American                  |
+  | --------- | -------------------------------------- | ------------------------- |
+  | Rule      | DAY/MONTH/YEAR                         | MONTH/DAY/YEAR            |
+  | You write | 1st January, 2010                      | January, 1st, 2010        |
+  | You say   | The first of january, two thousand ten | January (the) first, 2010 |
+
+- Year normally divided into two parts.
+  - 1984 = 19 = nineteen - 84 = Eighty four
+- **Exception:** For the years from 2000 to 2010, we normally say **two thousand and + number**
+  - Examples:
+    - 2006 = Two thousand and six.
+    - 2010 = Two thousand and ten.
+
+## 13.1. Days of The Week
 
 | Day of the week | Abbreviation |
 | --------------- | ------------ |
@@ -549,7 +628,7 @@
   - She goes to the movies once a month.
   - Her brother swims twice a week.
 
-## 12.2. Months
+## 13.2. Months
 
 |     | Month     | Short form |
 | --- | --------- | ---------- |
@@ -570,25 +649,36 @@
   - We usually travel to my father's farm in april.
   - I never have vacations in july.
 
-## 12.3. Time
+## 13.3. Time
 
-- What time is it?
-  - It's 09 am.
-- What time does she go to school?
-  - She goes to school at 07 am.
-- 09:15 = Nine - Fifteen.
-- 08:20 = Eight - Twenty.
-- 03:30 = Three - Thirty or half past three.
+- a.m. = ante meridiem (Before midday / noon).
+- p.m. = post meridiem (After midday / noon).
+- The common question forms we use to ask for the time right now are:
+  - What time is it?
+    - It's nine o'clock (09:00 am).
+    - It's two forty pm (02:40 pm).
+  - What is the time?
+  - Could you tell me the time?
+- We use the structure AT + TIME when giving the time of a specific event:
+  - Examples:
+    - What time does she go to school?
+      - She goes to school at seven o'clock = 07:00 am.
+    - I am excited for tonight, the convert starts at nine thirty = 09:30 pm.
+    - The teacher always arrives at midday/noon = 12:00 am.
+    - You are a child! You can't sleep at elven o'clock = 07:00 pm.
+- 09:15 = Nine fifteen.
+- 08:20 = Eight twenty.
+- 03:30 = Three thirty or half past three.
 - 12:00 pm = Midnight
 - 12:00 am = Midday
 
-# 13. Can, Could and Be able to
+# 14. Can, Could and Be able to
 
 - Can = Present
   - Be able to -> Alternative
 - Could = Past
 
-## 13.1. Can
+## 14.1. Can
 
 - **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
 
@@ -627,7 +717,7 @@
   - My school isn't far, I **can** walk.
   - The letters are too small. I **can't** read.
 
-### 13.1.1. Example with 5 (five) senses
+### 14.1.1. Example with 5 (five) senses
 
 - Feel
 - Hear
@@ -642,7 +732,7 @@
 - I **can't** remember her name.
 - She **can't** understand this kind of things.
 
-## 13.2. Could
+## 14.2. Could
 
 - Could is also a modal auxiliary verb. Its structure consists on:
 
@@ -681,7 +771,7 @@
     - We be able to see the lake from our hotel.
   - As soon as walked into the room, i **could** smell gas.
 
-# 14. To remenber / memorize
+# 15. To remenber / memorize
 
 - Accomplishes = realiza
 - As a reminder = um lembrete
