@@ -23,7 +23,7 @@
   - [6.2. Other forget who.....](#62-other-forget-who)
 - [7. Verb To Be](#7-verb-to-be)
   - [7.1. Present](#71-present)
-    - [7.1.1. Afirmative form](#711-afirmative-form)
+    - [7.1.1. Affirmative form](#711-affirmative-form)
     - [7.1.2. Contractions form](#712-contractions-form)
     - [7.1.3. Negative form](#713-negative-form)
       - [7.1.3.1. Contractions with negative form](#7131-contractions-with-negative-form)
@@ -31,13 +31,16 @@
       - [7.1.4.1. Question with negative and contractions form](#7141-question-with-negative-and-contractions-form)
     - [7.1.5. Questions and answers](#715-questions-and-answers)
   - [7.2. Past](#72-past)
-- [8. There + to be](#8-there--to-be)
+    - [7.2.1. Question form](#721-question-form)
+    - [7.2.2. Negative form](#722-negative-form)
+- [8. There + to be (There be)](#8-there--to-be-there-be)
+  - [8.1. Contractions](#81-contractions)
 - [9. Adjectives](#9-adjectives)
 - [10. Articles](#10-articles)
   - [10.1. Definite](#101-definite)
   - [10.2. Indefinite](#102-indefinite)
 - [11. Present simple](#11-present-simple)
-  - [11.1. Afirmative form](#111-afirmative-form)
+  - [11.1. Affirmative form](#111-affirmative-form)
   - [11.2. Question form](#112-question-form)
   - [11.3. Negative forms](#113-negative-forms)
   - [11.4. Question with negative form](#114-question-with-negative-form)
@@ -323,7 +326,7 @@
 - Is -> Singular
 - Are -> Plural
 
-### 7.1.1. Afirmative form
+### 7.1.1. Affirmative form
 
 - I **am** your teacher.
 - He **is** my father.
@@ -358,7 +361,7 @@
 
 - I'm not your teacher.
 - He isn't my father.
-- She ins't my sister.
+- She isn't my sister.
 - It isn't hot/cold.
 - We aren't here.
 - You aren't at home.
@@ -401,7 +404,7 @@
 
 - This is the structure of the To be verb in the Past Tense:
 
-| Subject | Afirmative     | Negative          | Interrogative  |
+| Subject | Affirmative    | Negative          | Interrogative  |
 | ------- | -------------- | ----------------- | -------------- |
 | I       | subject + was  | subject + wasn't  | was + subject  |
 | He      | subject + was  | subject + wasn't  | was + subject  |
@@ -412,16 +415,41 @@
 | They    | subject + were | subject + weren't | were + subject |
 
 - Examples
-  - I was here yesterday.
-  - They were my friends.
-  - She was his girlfriend.
-  - There was an accident at the corner.
-  - Se went home.
-  - They went to the school.
+  - I **was** here yesterday.
+  - They **were** my friends.
+  - She **was** his girlfriend.
+  - There **was** an accident at the corner.
+  - We **were** at school last Saturday.
+  - Tina **was** at home yesterday.
+  - Robert and Stan **were** Garry's friend.
+  - You **were** very busy on Friday.
 
-# 8. There + to be
+### 7.2.1. Question form
 
-- Examples:
+- **Was** he here last week?
+- **Were** you sick yesterday?
+- **Was** there an accident at the corner?
+- Where **were** you yesterday?
+
+### 7.2.2. Negative form
+
+- They **weren't** at the party.
+- She **wasn't** my teacher.
+
+# 8. There + to be (There be)
+
+- To say that somenthing exists (or does not exist):
+  | | Affirmative | Negative | Interrogative |
+  | ------- | ---------------------- | ------------------------------------------------- | ------------------------ |
+  | Present | There is / There are | There is not (isn't) / There are not (aren't) | Is there? / Are there? |
+  | Past | There was / There were | There was not (wasn't) / There were not (weren't) | Was there? / Were there? |
+- We also use **There is** with uncountable nouns:
+  - There is milk in the fridge.
+  - There is some sugar on the table.
+- When we want to indicate that a zero quantity of something exists we use **There aren't any**:
+  - There aren't any trees in my street.
+  - There aren't any people at the party.
+- Another examples:
   - There is a book on the table.
   - There are five chairs in the room.
   - Is there a bus stop around here?
@@ -430,6 +458,18 @@
   - There aren't children in my neighbourhood.
   - Isn't there a chair i can use?
   - Aren't there trees in your city?
+  - There is a spider in the bathroom!
+  - There was a big rat under the sofa yesterday.
+  - There are many people at the bus stop.
+  - Is there a car in the street?
+  - Are there two notebooks in my bag?
+  - There were many people at the party, I couldn't see Carol.
+  - There's a good song on the radio.
+
+## 8.1. Contractions
+
+- There is -> There's
+- There are -> XXXXXXX
 
 # 9. Adjectives
 
@@ -487,7 +527,7 @@
 
 # 11. Present simple
 
-## 11.1. Afirmative form
+## 11.1. Affirmative form
 
 - I **play** soccer every day.
 - We **work** here.
