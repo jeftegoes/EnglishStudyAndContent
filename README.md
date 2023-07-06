@@ -55,7 +55,9 @@
   - [14.1. Can](#141-can)
     - [14.1.1. Example with 5 (five) senses](#1411-example-with-5-five-senses)
   - [14.2. Could](#142-could)
-- [15. To remenber / memorize](#15-to-remenber--memorize)
+- [15. Like / Dislikes](#15-like--dislikes)
+- [16. Relative time](#16-relative-time)
+- [17. To remenber / memorize](#17-to-remenber--memorize)
 
 # 1. Greetings
 
@@ -132,10 +134,10 @@
 
 ### 1.2.6. Hobbies
 
-| Question                        | Answer                                            |
-| ------------------------------- | ------------------------------------------------- |
-| What are your hobbies?          | My hobbies are study and play video games.        |
-| What do you like doing for fun? | I like read technical books and play video games. |
+| Question                        | Answer                                               |
+| ------------------------------- | ---------------------------------------------------- |
+| What are your hobbies?          | My hobbies are study and play video games.           |
+| What do you like doing for fun? | I like to read technical books and play video games. |
 
 ### 1.2.7. Favorite TV Shows / Movies
 
@@ -197,6 +199,21 @@
   - **Your** parents are in the church.
 
 ## 3.1. Possessives 's
+
+- The genitive case is when we add apostrophe S ('s) to show possession, that something belongs to another or a **type of relationship** between things.
+- We normally use the 's with people, animals though it can also be used with places, organizations and companies (which suggest a group of people).
+- It's not common to use the 's with non-living things.
+- With non-living things we say:
+  - The pages of the book.
+  - The arm of the sofa.
+  - The tip of a pen.
+
+|          | Noun + 's or s' | noun    |
+| -------- | --------------- | ------- |
+| Singular | Sam's           | bicycle |
+| Plural   | Sam and Emma's  | house   |
+|          | my parents'     | friends |
+|          | my children's   | toys    |
 
 - Examples:
   - Paul's camera.
@@ -811,7 +828,33 @@
     - We be able to see the lake from our hotel.
   - As soon as walked into the room, i **could** smell gas.
 
-# 15. To remenber / memorize
+# 15. Like / Dislikes
+
+- I like to watch movies.
+- She likes to read books.
+- They don't like to study.
+- He doesn't like to eat out
+- Do you like to drive?
+- Does your wife like to cook?
+- Does her teacher like to work here? / Does her teacher like working here?
+- What do you like to do in your freetime?
+
+# 16. Relative time
+
+- I worked **last** sunday.
+- She has a meeting **this** afternoon.
+- My boss will travel **next** wednesday.
+- Charlie practices the guitar **every** morning.
+- Danny works from monday **to** friday **from** 9:00 am to 5:00 pm.
+- Peter usually reads **until** very late at night.
+- **Since** last year.
+- My aunt stayed with us **for** 3 days.
+- She likes to read **before** the goes to bed.
+- He doesn't shower **after** he wakes up.
+- I don't like to work **during** the day.
+- I **always** sing while I'm in the shower.
+
+# 17. To remenber / memorize
 
 - Accomplishes = realiza
 - As a reminder = um lembrete
