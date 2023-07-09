@@ -39,25 +39,39 @@
 - [10. Articles](#10-articles)
   - [10.1. Definite](#101-definite)
   - [10.2. Indefinite](#102-indefinite)
-- [11. Present simple](#11-present-simple)
-  - [11.1. Affirmative form](#111-affirmative-form)
-  - [11.2. Question form](#112-question-form)
-  - [11.3. Negative forms](#113-negative-forms)
-  - [11.4. Question with negative form](#114-question-with-negative-form)
-  - [11.5. Extra](#115-extra)
-- [12. Habits / Routine](#12-habits--routine)
-  - [12.1. Daily routine](#121-daily-routine)
-- [13. Date and Time](#13-date-and-time)
-  - [13.1. Days of The Week](#131-days-of-the-week)
-  - [13.2. Months](#132-months)
-  - [13.3. Time](#133-time)
-- [14. Can, Could and Be able to](#14-can-could-and-be-able-to)
-  - [14.1. Can](#141-can)
-    - [14.1.1. Example with 5 (five) senses](#1411-example-with-5-five-senses)
-  - [14.2. Could](#142-could)
-- [15. Like / Dislikes](#15-like--dislikes)
-- [16. Relative time](#16-relative-time)
-- [17. To remenber / memorize](#17-to-remenber--memorize)
+- [11. Simple past](#11-simple-past)
+- [12. Present simple](#12-present-simple)
+  - [12.1. Affirmative form](#121-affirmative-form)
+  - [12.2. Question form](#122-question-form)
+  - [12.3. Negative forms](#123-negative-forms)
+  - [12.4. Question with negative form](#124-question-with-negative-form)
+  - [12.5. Extra](#125-extra)
+- [13. Habits / Routine](#13-habits--routine)
+  - [13.1. Daily routine](#131-daily-routine)
+- [14. Date and Time](#14-date-and-time)
+  - [14.1. Days of The Week](#141-days-of-the-week)
+  - [14.2. Months](#142-months)
+  - [14.3. Time](#143-time)
+- [15. Can, Could and Be able to](#15-can-could-and-be-able-to)
+  - [15.1. Can](#151-can)
+    - [15.1.1. Example with 5 (five) senses](#1511-example-with-5-five-senses)
+  - [15.2. Could](#152-could)
+- [16. Like / Dislikes](#16-like--dislikes)
+- [17. Relative time](#17-relative-time)
+- [18. Preposition of Time and Place](#18-preposition-of-time-and-place)
+  - [18.1. In](#181-in)
+  - [18.2. At](#182-at)
+  - [18.3. On](#183-on)
+- [19. Do vs Make](#19-do-vs-make)
+  - [19.1. Do](#191-do)
+  - [19.2. Make](#192-make)
+- [20. Making assumptions](#20-making-assumptions)
+  - [20.1. Comparative](#201-comparative)
+  - [20.2. Equality](#202-equality)
+  - [20.3. Inferiority](#203-inferiority)
+  - [20.4. Superiority](#204-superiority)
+- [21. To remenber / memorize](#21-to-remenber--memorize)
+- [](#)
 
 # 1. Greetings
 
@@ -542,9 +556,11 @@
   - **An** honest mistake
   - **An** unhappy person.
 
-# 11. Present simple
+# 11. Simple past
 
-## 11.1. Affirmative form
+# 12. Present simple
+
+## 12.1. Affirmative form
 
 - I **play** soccer every day.
 - We **work** here.
@@ -560,7 +576,7 @@
   - His sister need**s** money.
   - His sister **has** money.
 
-## 11.2. Question form
+## 12.2. Question form
 
 - Don't = do + not.
   - Do you **play** volleyball?
@@ -576,7 +592,7 @@
 - Does it live on a tree?
 - Does she need our documents?
 
-## 11.3. Negative forms
+## 12.3. Negative forms
 
 - Don't = do + not.
   - They don't play play volleyball.
@@ -587,13 +603,13 @@
   - Peter doesn't know your father.
   - My lawyer doesn't have money.
 
-## 11.4. Question with negative form
+## 12.4. Question with negative form
 
 - Don't you like movies?
 - Don't they live there?
 - Don't we need our documents?
 
-## 11.5. Extra
+## 12.5. Extra
 
 - Do = does.
 - Make = makes.
@@ -601,7 +617,7 @@
 - Study = studies.
 - Duck = ducks.
 
-# 12. Habits / Routine
+# 13. Habits / Routine
 
 - Usually.
 - Rarely.
@@ -629,7 +645,7 @@
   - Where do you have lunch?
     - I have lunch at home.
 
-## 12.1. Daily routine
+## 13.1. Daily routine
 
 - Everyday verbs:
   - Go to Bed.
@@ -645,7 +661,7 @@
   - Go to work/college.
   - Study / Read.
 
-# 13. Date and Time
+# 14. Date and Time
 
 - Writing and saying the date in English
   - We ask the date or about dates in several ways, for example:
@@ -667,7 +683,7 @@
     - 2006 = Two thousand and six.
     - 2010 = Two thousand and ten.
 
-## 13.1. Days of The Week
+## 14.1. Days of The Week
 
 | Day of the week | Abbreviation |
 | --------------- | ------------ |
@@ -685,7 +701,7 @@
   - She goes to the movies once a month.
   - Her brother swims twice a week.
 
-## 13.2. Months
+## 14.2. Months
 
 |     | Month     | Short form |
 | --- | --------- | ---------- |
@@ -706,7 +722,7 @@
   - We usually travel to my father's farm in april.
   - I never have vacations in july.
 
-## 13.3. Time
+## 14.3. Time
 
 - a.m. = ante meridiem (Before midday / noon).
 - p.m. = post meridiem (After midday / noon).
@@ -729,13 +745,13 @@
 - 12:00 pm = Midnight
 - 12:00 am = Midday
 
-# 14. Can, Could and Be able to
+# 15. Can, Could and Be able to
 
 - Can = Present
   - Be able to -> Alternative
 - Could = Past
 
-## 14.1. Can
+## 15.1. Can
 
 - **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
 
@@ -774,7 +790,7 @@
   - My school isn't far, I **can** walk.
   - The letters are too small. I **can't** read.
 
-### 14.1.1. Example with 5 (five) senses
+### 15.1.1. Example with 5 (five) senses
 
 - Feel
 - Hear
@@ -789,7 +805,7 @@
 - I **can't** remember her name.
 - She **can't** understand this kind of things.
 
-## 14.2. Could
+## 15.2. Could
 
 - Could is also a modal auxiliary verb. Its structure consists on:
 
@@ -828,7 +844,7 @@
     - We be able to see the lake from our hotel.
   - As soon as walked into the room, i **could** smell gas.
 
-# 15. Like / Dislikes
+# 16. Like / Dislikes
 
 - I like to watch movies.
 - She likes to read books.
@@ -839,7 +855,7 @@
 - Does her teacher like to work here? / Does her teacher like working here?
 - What do you like to do in your freetime?
 
-# 16. Relative time
+# 17. Relative time
 
 - I worked **last** sunday.
 - She has a meeting **this** afternoon.
@@ -854,18 +870,133 @@
 - I don't like to work **during** the day.
 - I **always** sing while I'm in the shower.
 
-# 17. To remenber / memorize
+# 18. Preposition of Time and Place
+
+## 18.1. In
+
+- Examples:
+  - The bags are in the car.
+  - Her notebook is in her room.
+  - My brother like to swim in the river.
+  - His mon is in france.
+  - Their father lives in a small city.
+
+## 18.2. At
+
+- Examples:
+  - She is at the door.
+  - His house is at the end of the street.
+  - My friends are at the bus stop.
+  - Your father is at the table.
+  - The car is at the traffic lights.
+
+## 18.3. On
+
+- Examples:
+  - The book is on the table.
+  - Don't step on the grass.
+  - Your money is on your desk.
+  - Mike lies on the floor.
+
+# 19. Do vs Make
+
+## 19.1. Do
+
+- Work
+- Service
+- Task
+  - Examples:
+    - Do your homework.
+    - He does a dangerous job.
+    - Have thinds to do.
+    - I don't do anything on sundays.
+    - I need to do the dishes.
+    - Help me do my hair, please.
+
+## 19.2. Make
+
+- Build
+- Produce
+- Create
+  - Examples:
+    - Omelete is made of eggs.
+    - Wine is made from grapes.
+- Action/Reactions
+  - You make me happy.
+  - Onions make you cry.
+
+# 20. Making assumptions
+
+## 20.1. Comparative
+
+- Comparative adjectives are used to compare differences between the two objects they modify (large, smaller, etc).
+- They are used in sentences where two nouns are compared.
+
+## 20.2. Equality
+
+- Subject + verb + **AS** + adjective + **AS** + object.
+- Examples:
+  - He's **as** tall **as** his father now.
+  - Bogota is **as** interesting **as** Buenos Aires.
+  - My smartphone isn't **as** expensive **as** Michael's.
+  - My dog is **as** more prettier **as** my cat.
+  - My son is as smart as his father.
+
+## 20.3. Inferiority
+
+- Subject + verb + **less** + adjective + **than** + object.
+- Examples:
+  - Lucy is **less** excited for the party **than** her brother.
+  - My grades were **less** worring **than** yours.
+  - Jefté is **less** tall **than** his wife.
+  - Android is **less** intuitive **than** IOs.
+  - My sister is **less** smart **than** me.
+
+## 20.4. Superiority
+
+|                          | Adjective          | Comparative                          |
+| ------------------------ | ------------------ | ------------------------------------ |
+| ONE syllable             | fast / yound       | fast**er** / young                   |
+| ONE syllable (CVC)       | big / hot          | bigg**er** / hott**er**              |
+| TWO syllable ending in-Y | happy / crazy      | happ**ier** / craz**ier**            |
+| TWO or MORE syllables    | famous / beautiful | **more** famous / **more** beautiful |
+| Exceptions               | good / bad / far   | **better** / **worse** / **further** |
+
+- Subject + verb + **more** + adjective + **than** + object.
+- Examples:
+  - Ferrari is **more** expensive **than** fusca.
+  - My father is **more** intelligent **than** yours.
+  - Kristen Bell is **more** beautiful **than** Angelina Jolie.
+  - A rabbit is fast**er** **than** a turtle.
+  - His wife is short**er** **than** mine.
+  - Their dog is **bigger** **than** ours.
+  - Our sister is **prettier** **than** theirs.
+  - That book is **better** **than** this.
+  - This movie is **worse** **than** that one.
+  - Brazil is larg**er** **than** England.
+  - It was cheap**er** **than** I was expecting.
+  - "Harry Potter" books are **more** interesting **than** this.
+- Others adjectives:
+  - Clean = cleaner.
+  - Cold = colder.
+  - Small = smaller.
+  - Old - older.
+  - Tall = taller.
+- There are a few adjectives that we have to use **more** or **most** with even though they only have one syllable. We can't add **er**:
+  - Fun = more fun.
+  - Real = more real.
+  - Right = more right.
+  - Wrong - more wrong.
+
+# 21. To remenber / memorize
 
 - Accomplishes = realiza
 - As a reminder = um lembrete
 - Assessment = avaliação
 - Broker = agente/ negociador / intermediário
 - Ceiling = Teto
-- Chair = Cadeira
 - Concern = Preocupação
-- Coverage = cobertura
 - Dangling = pendurado/pendente
-- Noun = Substantivo / nome
 - Edge = borda / aresta
 - Exchange = troca / cambio
 - Wardrobe = armário
@@ -881,7 +1012,6 @@
 - Lead = liderar / persuadir
 - Must = deve
 - Soon = Breve / Assim que
-- Floor = Chão / Piso
 - Shelf = Prateleira
 - Toilet seat = Vaso sanitário
 - Painting = Quadro de pintura
@@ -900,3 +1030,20 @@
 - Bundle = agrupar
 - As soon as = Assim que
 - Waiter = Garçon
+- Tin = Lata
+- Hop = Saltar
+- Hip = Quadril
+- Mood = Humor
+- Mud = Lama
+- Sake = Interesse
+- Pat = Tapinha
+- Postpone = Postergar
+
+#
+
+| Past  | Present  |
+| ----- | -------- |
+| Could | Can      |
+| Ate   | Eat      |
+| Had   | Have/Has |
+| Did   | Do       |
