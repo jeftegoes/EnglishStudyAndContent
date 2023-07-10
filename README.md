@@ -33,45 +33,50 @@
   - [7.2. Past](#72-past)
     - [7.2.1. Question form](#721-question-form)
     - [7.2.2. Negative form](#722-negative-form)
-- [8. There + to be (There be)](#8-there--to-be-there-be)
-  - [8.1. Contractions](#81-contractions)
-- [9. Adjectives](#9-adjectives)
-- [10. Articles](#10-articles)
-  - [10.1. Definite](#101-definite)
-  - [10.2. Indefinite](#102-indefinite)
-- [11. Simple past](#11-simple-past)
-- [12. Present simple](#12-present-simple)
-  - [12.1. Affirmative form](#121-affirmative-form)
-  - [12.2. Question form](#122-question-form)
-  - [12.3. Negative forms](#123-negative-forms)
-  - [12.4. Question with negative form](#124-question-with-negative-form)
-  - [12.5. Extra](#125-extra)
-- [13. Habits / Routine](#13-habits--routine)
-  - [13.1. Daily routine](#131-daily-routine)
-- [14. Date and Time](#14-date-and-time)
-  - [14.1. Days of The Week](#141-days-of-the-week)
-  - [14.2. Months](#142-months)
-  - [14.3. Time](#143-time)
-- [15. Can, Could and Be able to](#15-can-could-and-be-able-to)
-  - [15.1. Can](#151-can)
-    - [15.1.1. Example with 5 (five) senses](#1511-example-with-5-five-senses)
-  - [15.2. Could](#152-could)
-- [16. Like / Dislikes](#16-like--dislikes)
-- [17. Relative time](#17-relative-time)
-- [18. Preposition of Time and Place](#18-preposition-of-time-and-place)
-  - [18.1. In](#181-in)
-  - [18.2. At](#182-at)
-  - [18.3. On](#183-on)
-- [19. Do vs Make](#19-do-vs-make)
-  - [19.1. Do](#191-do)
-  - [19.2. Make](#192-make)
-- [20. Making assumptions](#20-making-assumptions)
-  - [20.1. Comparative](#201-comparative)
-  - [20.2. Equality](#202-equality)
-  - [20.3. Inferiority](#203-inferiority)
-  - [20.4. Superiority](#204-superiority)
-- [21. To remenber / memorize](#21-to-remenber--memorize)
-- [](#)
+- [8. It / Subjectless](#8-it--subjectless)
+- [9. There + to be (There be)](#9-there--to-be-there-be)
+  - [9.1. Contractions](#91-contractions)
+- [10. Adjectives](#10-adjectives)
+- [11. Articles](#11-articles)
+  - [11.1. Definite](#111-definite)
+  - [11.2. Indefinite](#112-indefinite)
+- [12. Simple past](#12-simple-past)
+- [13. Simple present](#13-simple-present)
+  - [13.1. Affirmative form](#131-affirmative-form)
+  - [13.2. Question form](#132-question-form)
+  - [13.3. Negative forms](#133-negative-forms)
+  - [13.4. Question with negative form](#134-question-with-negative-form)
+  - [13.5. Extra](#135-extra)
+- [14. Adverbs of frequency / Habits / Routine](#14-adverbs-of-frequency--habits--routine)
+  - [14.1. Daily routine](#141-daily-routine)
+- [15. Date and Time](#15-date-and-time)
+  - [15.1. Days of The Week](#151-days-of-the-week)
+  - [15.2. Months](#152-months)
+  - [15.3. Time](#153-time)
+- [16. Can, Could and Be able to](#16-can-could-and-be-able-to)
+  - [16.1. Can](#161-can)
+    - [16.1.1. Example with 5 (five) senses](#1611-example-with-5-five-senses)
+  - [16.2. Could](#162-could)
+- [17. Should](#17-should)
+- [18. Like / Dislikes](#18-like--dislikes)
+- [19. Relative time](#19-relative-time)
+- [20. Preposition of Time and Place](#20-preposition-of-time-and-place)
+  - [20.1. In](#201-in)
+  - [20.2. At](#202-at)
+  - [20.3. On](#203-on)
+- [21. Do vs Make](#21-do-vs-make)
+  - [21.1. Do](#211-do)
+  - [21.2. Make](#212-make)
+- [22. Making assumptions](#22-making-assumptions)
+  - [22.1. Comparative](#221-comparative)
+    - [22.1.1. Equality](#2211-equality)
+    - [22.1.2. Inferiority](#2212-inferiority)
+    - [22.1.3. Superiority](#2213-superiority)
+  - [22.2. Superlative](#222-superlative)
+    - [22.2.1. Inferiority](#2221-inferiority)
+    - [22.2.2. Superiority](#2222-superiority)
+- [24. To remenber / memorize](#24-to-remenber--memorize)
+- [25. Irregular verbs](#25-irregular-verbs)
 
 # 1. Greetings
 
@@ -467,7 +472,21 @@
 - They **weren't** at the party.
 - She **wasn't** my teacher.
 
-# 8. There + to be (There be)
+# 8. It / Subjectless
+
+- What time is it?
+- It's late.
+- It's thursday.
+- It was my birthday yesterday.
+- It's three kilometers from our house to downtown.
+- How far is it from here to the gas station?
+- It's a long way to the school.
+- It rains a lot in the winter.
+- There is a lot of rain in the winter.
+- It was very windy.
+- There was a strong wind yesterday.
+
+# 9. There + to be (There be)
 
 - To say that somenthing exists (or does not exist):
   | | Affirmative | Negative | Interrogative |
@@ -497,12 +516,12 @@
   - There were many people at the party, I couldn't see Carol.
   - There's a good song on the radio.
 
-## 8.1. Contractions
+## 9.1. Contractions
 
 - There is -> There's
 - There are -> XXXXXXX
 
-# 9. Adjectives
+# 10. Adjectives
 
 - The adjectives are usually placed **before** the noun that they describe.
 - Examples:
@@ -517,9 +536,9 @@
   - This hotel is very big.
   - This apartment is nice.
 
-# 10. Articles
+# 11. Articles
 
-## 10.1. Definite
+## 11.1. Definite
 
 - They are used when we are referring to a **specific thing** or **quantity**.
 - The definite article (the) is used before a noun to indicate that the identity of the noun is known to the reader.
@@ -533,7 +552,7 @@
     - **The** idea.
     - **The** apple.
 
-## 10.2. Indefinite
+## 11.2. Indefinite
 
 - They are used when we are referring to an **unespecified** thing or quantity.
 - The article (a, an) is used before a **noun** that is general or when its identity is not known.
@@ -556,11 +575,24 @@
   - **An** honest mistake
   - **An** unhappy person.
 
-# 11. Simple past
+# 12. Simple past
 
-# 12. Present simple
+# 13. Simple present
 
-## 12.1. Affirmative form
+- We use **Do** and **Does** as auxiliary verbs to make questions in the Simple Present tense. It is normally put at the beginning of the question (before the subject).
+- We don't use **Do** or **Does** in questions that have the verb **TO BE** or **MODAL VERBS** (can, should, might, could, etc.).
+
+| Singular  | Affirmative                            | Singular  | Negative                                                    | Singular  | Interrogative                                      |
+| --------- | -------------------------------------- | --------- | ----------------------------------------------------------- | --------- | -------------------------------------------------- |
+| 1° person | I speak                                | 1° person | I don't speak                                               | 1° person | Do I speak?                                        |
+| 2° person | You speak                              | 2° person | You don't speak                                             | 2° person | Do you speak?                                      |
+| 3° person | **He speaks / She speaks / It speaks** | 3° person | **He doesn't speak / She doesn't speak / It doesn't speak** | 3° person | **Does he speak / Does she speak / Does it speak** |
+| Plural    |                                        | Plural    |                                                             | Plural    |                                                    |
+| 1° person | We speak                               | 1° person | We don't speak                                              | 1° person | Do we speak?                                       |
+| 2° person | You speak                              | 2° person | You don't speak                                             | 2° person | Do you speak?                                      |
+| 3° person | They speak                             | 3° person | They don't speak                                            | 3° person | Do they speak?                                     |
+
+## 13.1. Affirmative form
 
 - I **play** soccer every day.
 - We **work** here.
@@ -576,7 +608,7 @@
   - His sister need**s** money.
   - His sister **has** money.
 
-## 12.2. Question form
+## 13.2. Question form
 
 - Don't = do + not.
   - Do you **play** volleyball?
@@ -592,7 +624,7 @@
 - Does it live on a tree?
 - Does she need our documents?
 
-## 12.3. Negative forms
+## 13.3. Negative forms
 
 - Don't = do + not.
   - They don't play play volleyball.
@@ -603,13 +635,13 @@
   - Peter doesn't know your father.
   - My lawyer doesn't have money.
 
-## 12.4. Question with negative form
+## 13.4. Question with negative form
 
 - Don't you like movies?
 - Don't they live there?
 - Don't we need our documents?
 
-## 12.5. Extra
+## 13.5. Extra
 
 - Do = does.
 - Make = makes.
@@ -617,12 +649,17 @@
 - Study = studies.
 - Duck = ducks.
 
-# 13. Habits / Routine
+# 14. Adverbs of frequency / Habits / Routine
 
-- Usually.
-- Rarely.
-- Never.
-- Always.
+- An adverb of frequency describes how often an action happens. There are six main adverbs of frequency that we use in English: always, usually (or normally), often, sometimes, rarely, and never.
+- Adverbs:
+  - Always - 100%
+  - Usually - 80%
+  - Often - 70%
+  - Sometimes - 50%
+  - Rarely - 20%
+  - Never - 0%
+- **The most common position for adverbs of frequency is between the subject and the verb. As is often the case in English, there are variations to this rule. For example, it's possible to put the adverbs "sometimes" and "usually" at the beginning of a sentence.**
 
 - Examples:
   - I **usually** take the bus to school.
@@ -640,13 +677,17 @@
     - No, I'm not.
   - What time do you wake up?
     - I **usually** wake up at 08 am.
-  - What time do you go to bed?
-    - I go to bed at 10 pm.
-  - Where do you have lunch?
-    - I have lunch at home.
+  - Sarah always goes out on Sunday evenings.
+  - Ben and Emma often go for lunch together.
+  - Sometimes she does her homework with friends.
+  - Usually they study on their own.
 
-## 13.1. Daily routine
+## 14.1. Daily routine
 
+- What time do you go to bed?
+  - I go to bed at 10 pm.
+- Where do you have lunch?
+  - I have lunch at home.
 - Everyday verbs:
   - Go to Bed.
   - Have / Eat breakfest.
@@ -661,7 +702,7 @@
   - Go to work/college.
   - Study / Read.
 
-# 14. Date and Time
+# 15. Date and Time
 
 - Writing and saying the date in English
   - We ask the date or about dates in several ways, for example:
@@ -683,7 +724,7 @@
     - 2006 = Two thousand and six.
     - 2010 = Two thousand and ten.
 
-## 14.1. Days of The Week
+## 15.1. Days of The Week
 
 | Day of the week | Abbreviation |
 | --------------- | ------------ |
@@ -695,13 +736,14 @@
 | Friday          | Thu.         |
 | Saturday        | Sat.         |
 
+- Before days -> **ON**.
 - Examples:
   - What do you do on mondays?
   - How often do you go to the movies?
   - She goes to the movies once a month.
   - Her brother swims twice a week.
 
-## 14.2. Months
+## 15.2. Months
 
 |     | Month     | Short form |
 | --- | --------- | ---------- |
@@ -718,11 +760,12 @@
 | 11  | November  | Nov.       |
 | 12  | December  | Dec.       |
 
+- Before months -> **ON**.
 - Examples:
   - We usually travel to my father's farm in april.
   - I never have vacations in july.
 
-## 14.3. Time
+## 15.3. Time
 
 - a.m. = ante meridiem (Before midday / noon).
 - p.m. = post meridiem (After midday / noon).
@@ -745,13 +788,13 @@
 - 12:00 pm = Midnight
 - 12:00 am = Midday
 
-# 15. Can, Could and Be able to
+# 16. Can, Could and Be able to
 
 - Can = Present
   - Be able to -> Alternative
 - Could = Past
 
-## 15.1. Can
+## 16.1. Can
 
 - **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
 
@@ -790,7 +833,7 @@
   - My school isn't far, I **can** walk.
   - The letters are too small. I **can't** read.
 
-### 15.1.1. Example with 5 (five) senses
+### 16.1.1. Example with 5 (five) senses
 
 - Feel
 - Hear
@@ -805,7 +848,7 @@
 - I **can't** remember her name.
 - She **can't** understand this kind of things.
 
-## 15.2. Could
+## 16.2. Could
 
 - Could is also a modal auxiliary verb. Its structure consists on:
 
@@ -844,7 +887,26 @@
     - We be able to see the lake from our hotel.
   - As soon as walked into the room, i **could** smell gas.
 
-# 16. Like / Dislikes
+# 17. Should
+
+- I'm pretty sure my neighbour has illegal animals at home.
+  - What should I do?
+- Steve has a lot of trouble understanding math.
+  - What do you think he should do?
+- How often should I drink this medicine?
+- Maybe you should talk to him.
+- You should call the police.
+- I think steve should study more.
+- Steve should pay more attention during class.
+- Maybe we should help him.
+- You should drink it every 3 hours twice a day.
+- Children shouldn't stay up till late.
+- People shouldn't drink and drive.
+- Your father shouldn't talk to your mom like that.
+- Shouldn't you be at school?
+- I should be studying now.
+
+# 18. Like / Dislikes
 
 - I like to watch movies.
 - She likes to read books.
@@ -855,7 +917,7 @@
 - Does her teacher like to work here? / Does her teacher like working here?
 - What do you like to do in your freetime?
 
-# 17. Relative time
+# 19. Relative time
 
 - I worked **last** sunday.
 - She has a meeting **this** afternoon.
@@ -870,9 +932,9 @@
 - I don't like to work **during** the day.
 - I **always** sing while I'm in the shower.
 
-# 18. Preposition of Time and Place
+# 20. Preposition of Time and Place
 
-## 18.1. In
+## 20.1. In
 
 - Examples:
   - The bags are in the car.
@@ -881,7 +943,7 @@
   - His mon is in france.
   - Their father lives in a small city.
 
-## 18.2. At
+## 20.2. At
 
 - Examples:
   - She is at the door.
@@ -890,7 +952,7 @@
   - Your father is at the table.
   - The car is at the traffic lights.
 
-## 18.3. On
+## 20.3. On
 
 - Examples:
   - The book is on the table.
@@ -898,9 +960,9 @@
   - Your money is on your desk.
   - Mike lies on the floor.
 
-# 19. Do vs Make
+# 21. Do vs Make
 
-## 19.1. Do
+## 21.1. Do
 
 - Work
 - Service
@@ -913,7 +975,7 @@
     - I need to do the dishes.
     - Help me do my hair, please.
 
-## 19.2. Make
+## 21.2. Make
 
 - Build
 - Produce
@@ -925,14 +987,14 @@
   - You make me happy.
   - Onions make you cry.
 
-# 20. Making assumptions
+# 22. Making assumptions
 
-## 20.1. Comparative
+## 22.1. Comparative
 
 - Comparative adjectives are used to compare differences between the two objects they modify (large, smaller, etc).
 - They are used in sentences where two nouns are compared.
 
-## 20.2. Equality
+### 22.1.1. Equality
 
 - Subject + verb + **AS** + adjective + **AS** + object.
 - Examples:
@@ -940,9 +1002,9 @@
   - Bogota is **as** interesting **as** Buenos Aires.
   - My smartphone isn't **as** expensive **as** Michael's.
   - My dog is **as** more prettier **as** my cat.
-  - My son is as smart as his father.
+  - My son is **as** smart **as** his father.
 
-## 20.3. Inferiority
+### 22.1.2. Inferiority
 
 - Subject + verb + **less** + adjective + **than** + object.
 - Examples:
@@ -952,7 +1014,7 @@
   - Android is **less** intuitive **than** IOs.
   - My sister is **less** smart **than** me.
 
-## 20.4. Superiority
+### 22.1.3. Superiority
 
 |                          | Adjective          | Comparative                          |
 | ------------------------ | ------------------ | ------------------------------------ |
@@ -988,7 +1050,45 @@
   - Right = more right.
   - Wrong - more wrong.
 
-# 21. To remenber / memorize
+## 22.2. Superlative
+
+- For comparisons in larger groups, you must use the **superlative**. The superlative designates extremes: The best, the first, the worst, the last, etc.
+
+### 22.2.1. Inferiority
+
+- Subject + verb + **the least** + adjective.
+- Examples:
+  - Who is **the least** organized person that you know?
+  - I am **the least** crazy of my entire family.
+  - I am **the least** beautiful of the party.
+  - She is **the least** tall of her friends.
+
+### 22.2.2. Superiority
+
+|                          | Adjective          | Superlative                                  |
+| ------------------------ | ------------------ | -------------------------------------------- |
+| ONE syllable             | fast / yound       | fast**est** / young**est**                   |
+| ONE syllable (CVC)       | big / hot          | big**gest** / hot**test**                    |
+| TWO syllable ending in-Y | happy / crazy      | happ**iest** / craz**iest**                  |
+| TWO or MORE syllables    | famous / beautiful | **the most** famous / **the most** beautiful |
+| Exceptions               | good / bad         | **best** / **worst**                         |
+
+- Subject + verb + **the most** + adjective.
+- Examples:
+  - Who's the tall**est** person in this room?
+  - 1+1 is the easi**est** math problem I have seen.
+  - She always reads **the most** interesting books.
+  - Kristen bell is **the most** beautiful.
+  - Ferrari is **the most** expensive car there is.
+  - Sarah is **the most** intelligent girl in my classroom.
+  - Toby is the tall**est** boy I know.
+  - "Musashi" is the long**est** book I own.
+  - "Los pollos hermanos" is the cheap**est** restaurant in town.
+  - Hanks are the fast**est** birds.
+  - "The Matrix" is the **best** movie ever.
+  - "Senhora" is the **worst** book I've read.
+
+# 24. To remenber / memorize
 
 - Accomplishes = realiza
 - As a reminder = um lembrete
@@ -1039,11 +1139,12 @@
 - Pat = Tapinha
 - Postpone = Postergar
 
-#
+# 25. Irregular verbs
 
-| Past  | Present  |
-| ----- | -------- |
-| Could | Can      |
-| Ate   | Eat      |
-| Had   | Have/Has |
-| Did   | Do       |
+| Past  | Base form |
+| ----- | --------- |
+| Could | Can       |
+| Ate   | Eat       |
+| Had   | Have/Has  |
+| Did   | Do        |
+| Knew  | Know      |
