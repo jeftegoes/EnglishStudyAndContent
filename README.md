@@ -75,8 +75,10 @@
   - [22.2. Superlative](#222-superlative)
     - [22.2.1. Inferiority](#2221-inferiority)
     - [22.2.2. Superiority](#2222-superiority)
-- [24. To remenber / memorize](#24-to-remenber--memorize)
-- [25. Irregular verbs](#25-irregular-verbs)
+- [23. Questions words](#23-questions-words)
+  - [23.1. Embedded questions](#231-embedded-questions)
+- [24. Irregular verbs](#24-irregular-verbs)
+- [25. To remenber / memorize](#25-to-remenber--memorize)
 
 # 1. Greetings
 
@@ -1088,7 +1090,59 @@
   - "The Matrix" is the **best** movie ever.
   - "Senhora" is the **worst** book I've read.
 
-# 24. To remenber / memorize
+# 23. Questions words
+
+- We use question words to ask certain types of questions, expecting specific answers.
+- We often refer to these words as **WH** words because the majority of them include the letters **WH** at the beginning.
+
+|       | Description                                      | Examples                                |
+| ----- | ------------------------------------------------ | --------------------------------------- |
+| What  | Asking for repetition or confirmation.           | What were you saying? I can't hear you. |
+| When  | Asking about time.                               | When does he leave work.                |
+| Where | Asking in or at what place of position.          | Where do they live?                     |
+| Which | Asking about choice.                             | Which colour do you want?               |
+| Who   | Asking what or which person or people (subject). | Who is the new teacher?                 |
+| Why   | Asking for reason, asking what...for.            | Why do you say that?                    |
+| Whose | Asking about ownership.                          | Whose are these notebooks?              |
+| How   | Asking about manner / condition / quality.       | How does this game work?                |
+
+## 23.1. Embedded questions
+
+- Examples:
+  - **Where** has Peter gone?
+    - Do you know where Peter has gone?
+  - **What** time is it?
+    - Do you know what time it is?
+  - **Who** are those people?
+    - I don't know who those people are.
+  - **How** long will it take?
+    - I don't know how long it will take.
+  - **When** does she arrive?
+    - Can you tell me when she arrives?
+  - **What** time does the game start?
+    - Do you know what time the game starts?
+  - **Why** did she leave so early?
+    - I wonder why she left so early.
+  - **What** do you mean?
+    - Please explain what you mean.
+  - **Why** did she leave so early?
+    - I wonder why she left so early.
+  - **What** do you mean?
+    - Please explain what you mean.
+  - **What** do you do on Sundays?
+    - Tell us what you do on Sundays?
+
+# 24. Irregular verbs
+
+| Past  | Base form |
+| ----- | --------- |
+| Could | Can       |
+| Ate   | Eat       |
+| Had   | Have/Has  |
+| Did   | Do        |
+| Knew  | Know      |
+
+# 25. To remenber / memorize
 
 - Accomplishes = realiza
 - As a reminder = um lembrete
@@ -1138,13 +1192,4 @@
 - Sake = Interesse
 - Pat = Tapinha
 - Postpone = Postergar
-
-# 25. Irregular verbs
-
-| Past  | Base form |
-| ----- | --------- |
-| Could | Can       |
-| Ate   | Eat       |
-| Had   | Have/Has  |
-| Did   | Do        |
-| Knew  | Know      |
+- Manner =- Maneira
