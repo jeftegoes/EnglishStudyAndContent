@@ -77,8 +77,12 @@
     - [22.2.2. Superiority](#2222-superiority)
 - [23. Questions words](#23-questions-words)
   - [23.1. Embedded questions](#231-embedded-questions)
-- [24. Irregular verbs](#24-irregular-verbs)
-- [25. To remenber / memorize](#25-to-remenber--memorize)
+- [24. Present and Past continuous](#24-present-and-past-continuous)
+  - [24.1. Past continuous (ING) / Past progressive](#241-past-continuous-ing--past-progressive)
+    - [24.1.1. Negative](#2411-negative)
+  - [24.2. Present continuous (ING) / Present progressive](#242-present-continuous-ing--present-progressive)
+- [25. Irregular verbs](#25-irregular-verbs)
+- [26. To remenber / memorize](#26-to-remenber--memorize)
 
 # 1. Greetings
 
@@ -1132,7 +1136,57 @@
   - **What** do you do on Sundays?
     - Tell us what you do on Sundays?
 
-# 24. Irregular verbs
+# 24. Present and Past continuous
+
+- The present continuous and past continuous tenses (also called present progressive and past progressive) are used when we are describing actions that continue for a period of time in the present or in the past.
+  - **Subject** + **present/past tense of the verb to be** + **main verb in the present participle**.
+
+## 24.1. Past continuous (ING) / Past progressive
+
+- The past continuous is used for **a continuous action in the past**.
+- Examples:
+  - They were always arguing.
+  - Everyone was shouting.
+  - I was leaving work.
+  - They were studying right.
+  - I was working.
+  - Why were you wearing a hat?
+  - What were you doing?
+  - Was she studyng?
+  - They were not watching TV.
+  - Was it raining?
+    - Yes, it was / No, It wasn't.
+  - What were you doing yesterday?
+    - I was watching tv.
+  - We were studying.
+  - This morning, i wasn't home.
+    - I was swimming at the club.
+  - Last night, they were cooking for their kids.
+
+### 24.1.1. Negative
+
+- I wasn't talking to you.
+- They weren't paying attention to the class.
+- Were you playing soccer with your friends.
+- Was she sleeping at the couch?
+- Weren't you driving without a seat belt?
+- Wasn't she working at the same company as you?
+
+## 24.2. Present continuous (ING) / Present progressive
+
+- The present continuous tense is used to describe an action **that is happening at the moment of speaking**.
+- Examples:
+  - I am leaving work.
+  - They are studying right now.
+  - I am working now.
+  - Why are you wearing a hat?
+  - What are you doing?
+  - Is she studyng now?
+  - They're not watching TV.
+  - Is it raining?
+    - Yes, it is / No, It isn't.
+
+# 25. Irregular verbs
 
 | Past  | Base form |
 | ----- | --------- |
@@ -1142,7 +1196,7 @@
 | Did   | Do        |
 | Knew  | Know      |
 
-# 25. To remenber / memorize
+# 26. To remenber / memorize
 
 - Accomplishes = realiza
 - As a reminder = um lembrete
