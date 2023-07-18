@@ -19,8 +19,8 @@
 - [4. Demonstrative Pronouns](#4-demonstrative-pronouns)
 - [5. Personal characteristics](#5-personal-characteristics)
 - [6. Numbers](#6-numbers)
-  - [6.1. Cardinal](#61-cardinal)
-  - [6.2. Other forget who.....](#62-other-forget-who)
+  - [6.1. Cardinal (Quantity)](#61-cardinal-quantity)
+  - [6.2. Ordinal (Position / Rank / Dates)](#62-ordinal-position--rank--dates)
 - [7. Verb To Be](#7-verb-to-be)
   - [7.1. Present](#71-present)
     - [7.1.1. Affirmative form](#711-affirmative-form)
@@ -41,12 +41,16 @@
   - [11.1. Definite](#111-definite)
   - [11.2. Indefinite](#112-indefinite)
 - [12. Simple past](#12-simple-past)
-- [13. Simple present](#13-simple-present)
-  - [13.1. Affirmative form](#131-affirmative-form)
-  - [13.2. Question form](#132-question-form)
-  - [13.3. Negative forms](#133-negative-forms)
-  - [13.4. Question with negative form](#134-question-with-negative-form)
-  - [13.5. Extra](#135-extra)
+- [13. Present simple](#13-present-simple)
+  - [13.1. Positive](#131-positive)
+  - [13.3. Negative](#133-negative)
+  - [13.2. Question](#132-question)
+  - [13.4. Question with negative](#134-question-with-negative)
+  - [13.5. Irregular verbs](#135-irregular-verbs)
+- [24. Present and Past continuous](#24-present-and-past-continuous)
+  - [24.1. Past continuous (ING) / Past progressive](#241-past-continuous-ing--past-progressive)
+    - [24.1.1. Negative](#2411-negative)
+  - [24.2. Present continuous (ING) / Present progressive](#242-present-continuous-ing--present-progressive)
 - [14. Adverbs of frequency / Habits / Routine](#14-adverbs-of-frequency--habits--routine)
   - [14.1. Daily routine](#141-daily-routine)
 - [15. Date and Time](#15-date-and-time)
@@ -77,10 +81,6 @@
     - [22.2.2. Superiority](#2222-superiority)
 - [23. Questions words](#23-questions-words)
   - [23.1. Embedded questions](#231-embedded-questions)
-- [24. Present and Past continuous](#24-present-and-past-continuous)
-  - [24.1. Past continuous (ING) / Past progressive](#241-past-continuous-ing--past-progressive)
-    - [24.1.1. Negative](#2411-negative)
-  - [24.2. Present continuous (ING) / Present progressive](#242-present-continuous-ing--present-progressive)
 - [25. Irregular verbs](#25-irregular-verbs)
 - [26. To remenber / memorize](#26-to-remenber--memorize)
 
@@ -298,54 +298,79 @@
 
 # 6. Numbers
 
-## 6.1. Cardinal
+## 6.1. Cardinal (Quantity)
 
-- 0 = Zero
-- 1 = One
-- 2 = Two
-- 3 = Three
-- 4 = Four
-- 5 = Five
-- 6 = Six
-- 7 = Seven
-- 8 = Eight
-- 9 = Nine
-- 10 = Ten
-- 11 = Eleven
-- 12 = Twelve
-- "Teen"
-  - 13 = Thirteen
-  - 14 = Fourteen
-  - 15 = Fifteen
-  - 16 = Sixteen
-  - 17 = Seventeen
-  - 18 = Eighteen
-  - 19 = Nineteen
-- "Ty"
-  - 20 = Twenty
-    - 21 = Twenty one
-    - 22 = Twenty two
-    - 23 = Twenty three
+- 0 -> Zero.
+- 1 -> One.
+- 2 -> Two.
+- 3 -> Three.
+- 4 -> Four.
+- 5 -> Five.
+- 6 -> Six.
+- 7 -> Seven.
+- 8 -> Eight.
+- 9 -> Nine.
+- 10 -> Ten.
+- 11 -> Eleven.
+- 12 -> Twelve.
+- "Teen":
+  - 13 -> Thirteen.
+  - 14 -> Fourteen.
+  - 15 -> Fifteen.
+  - 16 -> Sixteen.
+  - 17 -> Seventeen.
+  - 18 -> Eighteen.
+  - 19 -> Nineteen.
+- "Ty":
+  - 20 -> Twenty.
+    - 21 -> Twenty one.
+    - 22 -> Twenty two.
+    - 23 -> Twenty three.
   - (...)
-- 30 = Thirty
-  - 31 = Thirty one
-  - 32 = Thirty two
-  - 33 = Thirty three
-  - (...)
-- 40 = Forty
-- 50 = Fifty
-- 60 = Sixty
-- 70 = Seventy
-- 80 = Eighty
-- 90 = Ninety
-- 100 = One hundred / A hundred
-  - 101 = One hundred and one
-  - 102 = One hundred two
-- 200 = Two hundred
-- 1,000 = One thousand
-- 2,000 = Two thousand
+  - 30 -> Thirty.
+    - 31 -> Thirty one.
+    - 32 -> Thirty two.
+    - 33 -> Thirty three.
+    - (...)
+  - 40 -> Forty.
+  - 50 -> Fifty.
+  - 60 -> Sixty.
+  - 70 -> Seventy.
+  - 80 -> Eighty.
+  - 90 -> Ninety.
+- 100 -> One hundred / A hundred.
+  - 101 -> One hundred and one.
+  - 102 -> One hundred two.
+- 200 -> Two hundred.
+- 1,000 -> One thousand.
+- 2,000 -> Two thousand.
+- Examples:
+  - I have 2 (two) sisters.
+  - She is 14 (fourteen) years old.
+  - He has 1 (one) Blue-Ray player.
 
-## 6.2. Other forget who.....
+## 6.2. Ordinal (Position / Rank / Dates)
+
+- 1st -> First.
+- 2nd -> Second.
+- 3rd -> Third.
+- 4th -> Fourth.
+- 5th -> Fifth.
+- 6th -> Sixth.
+- 7th -> Seventh.
+- 8th -> Eighth.
+- 9th -> Ninth.
+- 10th -> Tenth.
+- 11th -> Eleventh.
+- 12th -> Twelfth.
+- 13th -> Thirteenth.
+- 14th -> Fourteenth.
+- 26th -> Twenty sixth.
+- Examples:
+  - He finished 6th in the race.
+  - Today is December 26th.
+  - I'm the 4th person in line.
+  - The 2nd reason is the best one.
 
 # 7. Verb To Be
 
@@ -583,10 +608,23 @@
 
 # 12. Simple past
 
-# 13. Simple present
+# 13. Present simple
 
-- We use **Do** and **Does** as auxiliary verbs to make questions in the Simple Present tense. It is normally put at the beginning of the question (before the subject).
+- We use **Do** and **Does** as auxiliary verbs to make questions in the Present simple tense.
+  - It is normally put at the beginning of the question (before the subject).
 - We don't use **Do** or **Does** in questions that have the verb **TO BE** or **MODAL VERBS** (can, should, might, could, etc.).
+- We use Present simple for action that happen regularly or are always true.
+- With **he/she/it** we add ending **-s** to the verbs.
+- When the verb ends in **-ch, -ss, -sh, -x or -zz, we** add **-es**.
+  - wash = wash**es**
+- When the verb ends in a **consonant** + **-y** we change **y** to **i** and add **-es**.
+  - study = studi**es**
+- But when the verb ends in a **vowel** + **-y** we just add **-s**.
+  - enjoy = enjoy**s**
+- In questions we use:
+  - **Do** with I, you, we they.
+  - **Does** with he, she, it.
+- **NEVER SAY: Does he works...?**
 
 | Singular  | Affirmative                            | Singular  | Negative                                                    | Singular  | Interrogative                                      |
 | --------- | -------------------------------------- | --------- | ----------------------------------------------------------- | --------- | -------------------------------------------------- |
@@ -598,25 +636,46 @@
 | 2° person | You speak                              | 2° person | You don't speak                                             | 2° person | Do you speak?                                      |
 | 3° person | They speak                             | 3° person | They don't speak                                            | 3° person | Do they speak?                                     |
 
-## 13.1. Affirmative form
+## 13.1. Positive
 
-- I **play** soccer every day.
-- We **work** here.
-- They **live** in that house.
-- You **lie** a lot.
-- He / She / It -> +s / +es
-  - He like**s** movies.
-  - She need**s** our documents.
-  - It live**s** on a tree
-- My / Her / His -> +s / +es
-  - My sister play**s** voleyball.
-  - Her husband know**s** you father.
-  - His sister need**s** money.
-  - His sister **has** money.
+- Examples:
+  - I **play** soccer every day.
+  - I **wake** up at 6:00.
+  - I **go** to sleep at 11:00.
+  - We **work** here.
+  - We **live** in Brazil.
+  - They **live** in that house.
+  - You **lie** a lot.
+  - He / She / It -> +s
+    - He like**s** movies.
+    - She need**s** our documents.
+    - She always **takes** the bus.
+    - It live**s** on a tree
+    - He work**s** at a bank.
+    - The sun **rises** in the east.
+    - Our class **starts** at 09:00.
+  - My / Her / His -> +s
+    - My sister play**s** voleyball.
+    - Her husband know**s** you father.
+    - His sister need**s** money.
+    - His sister **has** money.
+  - The flight **leaves** at noon.
 
-## 13.2. Question form
+## 13.3. Negative
 
-- Don't = do + not.
+- Examples:
+  - **Don't** = **do** + **not**.
+    - They **don't** play play volleyball.
+    - I **don't** know your father.
+    - You **don't** need money.
+  - **Doesn't** = **does** + **not**
+    - Anna **doesn't** play volleyball.
+    - Peter **doesn't** know your father.
+    - My lawyer **doesn't** have money.
+
+## 13.2. Question
+
+- Examples:
   - Do you **play** volleyball?
     - Yes, I do.
     - No, I don't.
@@ -626,34 +685,86 @@
   - Do we **need** money?
     - Yes, we do.
     - No, we don't
-- Does he like movies?
-- Does it live on a tree?
-- Does she need our documents?
+  - Do they **need** help?
+    - Yes, they do.
+    - No, they don't.
+  - Does he **speak** French?
+    - Yes, he does.
+    - No, he doesn't.
+  - Do you **like** this song?
+    - Yes, I do.
+    - No, I don't.
+  - Does he **like** movies?
+    - Yes, he does.
+    - No, he don't.
+  - Does it **live** on a tree?
+    - Yes, it does.
+    - No, it doesn't.
+  - Does she **need** our documents?
+    - Yes, she does.
+    - No, she don't.
 
-## 13.3. Negative forms
-
-- Don't = do + not.
-  - They don't play play volleyball.
-  - I don't know your father.
-  - You don't need money.
-- Doesn't = does not
-  - Anna doestn't play volleyball.
-  - Peter doesn't know your father.
-  - My lawyer doesn't have money.
-
-## 13.4. Question with negative form
+## 13.4. Question with negative
 
 - Don't you like movies?
 - Don't they live there?
 - Don't we need our documents?
 
-## 13.5. Extra
+## 13.5. Irregular verbs
 
-- Do = does.
-- Make = makes.
-- Have = has.
-- Study = studies.
-- Duck = ducks.
+- Go -> Goes
+- Do -> Does.
+- Have -> Has.
+
+# 24. Present and Past continuous
+
+- The present continuous and past continuous tenses (also called present progressive and past progressive) are used when we are describing actions that continue for a period of time in the present or in the past.
+  - **Subject** + **present/past tense of the verb to be** + **main verb in the present participle**.
+
+## 24.1. Past continuous (ING) / Past progressive
+
+- The past continuous is used for **a continuous action in the past**.
+- Examples:
+  - They were always arguing.
+  - Everyone was shouting.
+  - I was leaving work.
+  - They were studying right.
+  - I was working.
+  - Why were you wearing a hat?
+  - What were you doing?
+  - Was she studyng?
+  - They were not watching TV.
+  - Was it raining?
+    - Yes, it was / No, It wasn't.
+  - What were you doing yesterday?
+    - I was watching tv.
+  - We were studying.
+  - This morning, i wasn't home.
+    - I was swimming at the club.
+  - Last night, they were cooking for their kids.
+
+### 24.1.1. Negative
+
+- I wasn't talking to you.
+- They weren't paying attention to the class.
+- Were you playing soccer with your friends.
+- Was she sleeping at the couch?
+- Weren't you driving without a seat belt?
+- Wasn't she working at the same company as you?
+
+## 24.2. Present continuous (ING) / Present progressive
+
+- The present continuous tense is used to describe an action **that is happening at the moment of speaking**.
+- Examples:
+  - I am leaving work.
+  - They are studying right now.
+  - I am working now.
+  - Why are you wearing a hat?
+  - What are you doing?
+  - Is she studyng now?
+  - They're not watching TV.
+  - Is it raining?
+    - Yes, it is / No, It isn't.
 
 # 14. Adverbs of frequency / Habits / Routine
 
@@ -1024,7 +1135,7 @@
 
 |                          | Adjective          | Comparative                          |
 | ------------------------ | ------------------ | ------------------------------------ |
-| ONE syllable             | fast / yound       | fast**er** / young                   |
+| ONE syllable             | fast / yound       | fast**er** / young**er**             |
 | ONE syllable (CVC)       | big / hot          | bigg**er** / hott**er**              |
 | TWO syllable ending in-Y | happy / crazy      | happ**ier** / craz**ier**            |
 | TWO or MORE syllables    | famous / beautiful | **more** famous / **more** beautiful |
@@ -1136,56 +1247,6 @@
   - **What** do you do on Sundays?
     - Tell us what you do on Sundays?
 
-# 24. Present and Past continuous
-
-- The present continuous and past continuous tenses (also called present progressive and past progressive) are used when we are describing actions that continue for a period of time in the present or in the past.
-  - **Subject** + **present/past tense of the verb to be** + **main verb in the present participle**.
-
-## 24.1. Past continuous (ING) / Past progressive
-
-- The past continuous is used for **a continuous action in the past**.
-- Examples:
-  - They were always arguing.
-  - Everyone was shouting.
-  - I was leaving work.
-  - They were studying right.
-  - I was working.
-  - Why were you wearing a hat?
-  - What were you doing?
-  - Was she studyng?
-  - They were not watching TV.
-  - Was it raining?
-    - Yes, it was / No, It wasn't.
-  - What were you doing yesterday?
-    - I was watching tv.
-  - We were studying.
-  - This morning, i wasn't home.
-    - I was swimming at the club.
-  - Last night, they were cooking for their kids.
-
-### 24.1.1. Negative
-
-- I wasn't talking to you.
-- They weren't paying attention to the class.
-- Were you playing soccer with your friends.
-- Was she sleeping at the couch?
-- Weren't you driving without a seat belt?
-- Wasn't she working at the same company as you?
-
-## 24.2. Present continuous (ING) / Present progressive
-
-- The present continuous tense is used to describe an action **that is happening at the moment of speaking**.
-- Examples:
-  - I am leaving work.
-  - They are studying right now.
-  - I am working now.
-  - Why are you wearing a hat?
-  - What are you doing?
-  - Is she studyng now?
-  - They're not watching TV.
-  - Is it raining?
-    - Yes, it is / No, It isn't.
-
 # 25. Irregular verbs
 
 | Past  | Base form |
@@ -1246,4 +1307,9 @@
 - Sake = Interesse
 - Pat = Tapinha
 - Postpone = Postergar
-- Manner =- Maneira
+- Manner = Maneira
+- Shin = Canela
+- Chin = Queixo
+- Pan = Frigideira / Panela
+- Rays = Raios
+- Lays = Coloca
