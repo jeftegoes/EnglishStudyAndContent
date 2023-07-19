@@ -14,8 +14,10 @@
     - [1.2.7. Favorite TV Shows / Movies](#127-favorite-tv-shows--movies)
     - [1.2.8. Others](#128-others)
 - [2. Speeling](#2-speeling)
-- [3. Subject Pronouns and Possessives](#3-subject-pronouns-and-possessives)
-  - [3.1. Possessives 's](#31-possessives-s)
+- [3. Personal and Possessives pronouns](#3-personal-and-possessives-pronouns)
+  - [3.1. Personal](#31-personal)
+  - [3.2. Possessive](#32-possessive)
+  - [3.3. Possessives 's](#33-possessives-s)
 - [4. Demonstrative Pronouns](#4-demonstrative-pronouns)
 - [5. Personal characteristics](#5-personal-characteristics)
 - [6. Numbers](#6-numbers)
@@ -43,46 +45,47 @@
 - [12. Simple past](#12-simple-past)
 - [13. Present simple](#13-present-simple)
   - [13.1. Positive](#131-positive)
-  - [13.3. Negative](#133-negative)
-  - [13.2. Question](#132-question)
+  - [13.2. Negative](#132-negative)
+  - [13.3. Question](#133-question)
   - [13.4. Question with negative](#134-question-with-negative)
   - [13.5. Irregular verbs](#135-irregular-verbs)
-- [24. Present and Past continuous](#24-present-and-past-continuous)
-  - [24.1. Past continuous (ING) / Past progressive](#241-past-continuous-ing--past-progressive)
-    - [24.1.1. Negative](#2411-negative)
-  - [24.2. Present continuous (ING) / Present progressive](#242-present-continuous-ing--present-progressive)
-- [14. Adverbs of frequency / Habits / Routine](#14-adverbs-of-frequency--habits--routine)
-  - [14.1. Daily routine](#141-daily-routine)
-- [15. Date and Time](#15-date-and-time)
-  - [15.1. Days of The Week](#151-days-of-the-week)
-  - [15.2. Months](#152-months)
-  - [15.3. Time](#153-time)
-- [16. Can, Could and Be able to](#16-can-could-and-be-able-to)
-  - [16.1. Can](#161-can)
-    - [16.1.1. Example with 5 (five) senses](#1611-example-with-5-five-senses)
-  - [16.2. Could](#162-could)
-- [17. Should](#17-should)
-- [18. Like / Dislikes](#18-like--dislikes)
-- [19. Relative time](#19-relative-time)
-- [20. Preposition of Time and Place](#20-preposition-of-time-and-place)
-  - [20.1. In](#201-in)
-  - [20.2. At](#202-at)
-  - [20.3. On](#203-on)
-- [21. Do vs Make](#21-do-vs-make)
-  - [21.1. Do](#211-do)
-  - [21.2. Make](#212-make)
-- [22. Making assumptions](#22-making-assumptions)
-  - [22.1. Comparative](#221-comparative)
-    - [22.1.1. Equality](#2211-equality)
-    - [22.1.2. Inferiority](#2212-inferiority)
-    - [22.1.3. Superiority](#2213-superiority)
-  - [22.2. Superlative](#222-superlative)
-    - [22.2.1. Inferiority](#2221-inferiority)
-    - [22.2.2. Superiority](#2222-superiority)
-- [23. Questions words](#23-questions-words)
-  - [23.1. Embedded questions](#231-embedded-questions)
-- [25. Irregular verbs](#25-irregular-verbs)
-- [26. To remenber / memorize](#26-to-remenber--memorize)
+- [14. Present and Past continuous](#14-present-and-past-continuous)
+  - [14.1. Past continuous (ING) / Past progressive](#141-past-continuous-ing--past-progressive)
+    - [14.1.1. Negative](#1411-negative)
+  - [14.2. Present continuous (ING) / Present progressive](#142-present-continuous-ing--present-progressive)
+- [15. Adverbs of frequency / Habits / Routine](#15-adverbs-of-frequency--habits--routine)
+  - [15.1. Daily routine](#151-daily-routine)
+- [16. Date and Time](#16-date-and-time)
+  - [16.1. Days of The Week](#161-days-of-the-week)
+  - [16.2. Months](#162-months)
+  - [16.3. Time](#163-time)
+- [17. Can, Could and Be able to](#17-can-could-and-be-able-to)
+  - [17.1. Can](#171-can)
+    - [17.1.1. Example with 5 (five) senses](#1711-example-with-5-five-senses)
+  - [17.2. Could](#172-could)
+- [18. Should](#18-should)
+- [19. Like / Dislikes](#19-like--dislikes)
+- [20. Relative time](#20-relative-time)
+- [21. Preposition of Time and Place](#21-preposition-of-time-and-place)
+  - [21.1. In](#211-in)
+  - [21.2. At](#212-at)
+  - [21.3. On](#213-on)
+- [22. Do vs Make](#22-do-vs-make)
+  - [22.1. Do](#221-do)
+  - [22.2. Make](#222-make)
+- [23. Making assumptions](#23-making-assumptions)
+  - [23.1. Comparative](#231-comparative)
+    - [23.1.1. Equality](#2311-equality)
+    - [23.1.2. Inferiority](#2312-inferiority)
+    - [23.1.3. Superiority](#2313-superiority)
+  - [23.2. Superlative](#232-superlative)
+    - [23.2.1. Inferiority](#2321-inferiority)
+    - [23.2.2. Superiority](#2322-superiority)
+- [24. Questions words](#24-questions-words)
+  - [24.1. Embedded questions](#241-embedded-questions)
+- [25. Countries and nationalities](#25-countries-and-nationalities)
+- [26. Irregular verbs](#26-irregular-verbs)
+- [27. To remenber / memorize](#27-to-remenber--memorize)
 
 # 1. Greetings
 
@@ -202,18 +205,45 @@
 - Alphabet
   - a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z
 
-# 3. Subject Pronouns and Possessives
+# 3. Personal and Possessives pronouns
 
-| Subject Pronouns | Possessives |
-| ---------------- | ----------- |
-| I                | My          |
-| He               | His         |
-| She              | Her         |
-| It               | Its         |
-| We               | Our         |
-| You              | Your        |
-| They             | Their       |
+| Subject | Object | Dependent | Independent |
+| ------- | ------ | --------- | ----------- |
+| I       | Me     | My        | Mine        |
+| He      | His    | His       | His         |
+| She     | Her    | Her       | Hers        |
+| It      | It     | Its       | Its         |
+| We      | Us     | Our       | Ours        |
+| You     | You    | Your      | Yours       |
+| They    | Then   | Their     | Theirs      |
 
+## 3.1. Personal
+
+- Use the **subject** pronoun when acts as the subject of the clause.
+- Use the **object** pronoun when it is the object of a verb to receive the action.
+
+| Subject | Object |
+| ------- | ------ |
+| I       | Me     |
+| We      | Us     |
+| He      | Hin    |
+| She     | Her    |
+| They    | Them   |
+| You     | You    |
+| It      | It     |
+
+- Examples:
+
+  - **I** gave **him** a pen.
+  - **She** told **me** the news.
+  - **They** took **us** to the park.
+  - You helped **them** with homework?
+
+## 3.2. Possessive
+
+- Dependent / Independent possessive pronouns:
+  - A dependent possessive pronoun needs to be used with a noun.
+  - An independent possessive does not need a noun (it takes the place of a noun and add possession).
 - Example:
   - **My** car is red.
   - **His** house is big.
@@ -222,8 +252,12 @@
   - **Our** cats are not at home.
   - **Their** t-shirts aren't black.
   - **Your** parents are in the church.
+  - This is **my** pen.
+  - Is that bag **hers**.
+  - Which one of these is **yours**?
+  - I completely forgot **our** keys.
 
-## 3.1. Possessives 's
+## 3.3. Possessives 's
 
 - The genitive case is when we add apostrophe S ('s) to show possession, that something belongs to another or a **type of relationship** between things.
 - We normally use the 's with people, animals though it can also be used with places, organizations and companies (which suggest a group of people).
@@ -661,7 +695,7 @@
     - His sister **has** money.
   - The flight **leaves** at noon.
 
-## 13.3. Negative
+## 13.2. Negative
 
 - Examples:
   - **Don't** = **do** + **not**.
@@ -673,7 +707,7 @@
     - Peter **doesn't** know your father.
     - My lawyer **doesn't** have money.
 
-## 13.2. Question
+## 13.3. Question
 
 - Examples:
   - Do you **play** volleyball?
@@ -716,12 +750,12 @@
 - Do -> Does.
 - Have -> Has.
 
-# 24. Present and Past continuous
+# 14. Present and Past continuous
 
 - The present continuous and past continuous tenses (also called present progressive and past progressive) are used when we are describing actions that continue for a period of time in the present or in the past.
   - **Subject** + **present/past tense of the verb to be** + **main verb in the present participle**.
 
-## 24.1. Past continuous (ING) / Past progressive
+## 14.1. Past continuous (ING) / Past progressive
 
 - The past continuous is used for **a continuous action in the past**.
 - Examples:
@@ -743,7 +777,7 @@
     - I was swimming at the club.
   - Last night, they were cooking for their kids.
 
-### 24.1.1. Negative
+### 14.1.1. Negative
 
 - I wasn't talking to you.
 - They weren't paying attention to the class.
@@ -752,7 +786,7 @@
 - Weren't you driving without a seat belt?
 - Wasn't she working at the same company as you?
 
-## 24.2. Present continuous (ING) / Present progressive
+## 14.2. Present continuous (ING) / Present progressive
 
 - The present continuous tense is used to describe an action **that is happening at the moment of speaking**.
 - Examples:
@@ -766,7 +800,7 @@
   - Is it raining?
     - Yes, it is / No, It isn't.
 
-# 14. Adverbs of frequency / Habits / Routine
+# 15. Adverbs of frequency / Habits / Routine
 
 - An adverb of frequency describes how often an action happens. There are six main adverbs of frequency that we use in English: always, usually (or normally), often, sometimes, rarely, and never.
 - Adverbs:
@@ -799,7 +833,7 @@
   - Sometimes she does her homework with friends.
   - Usually they study on their own.
 
-## 14.1. Daily routine
+## 15.1. Daily routine
 
 - What time do you go to bed?
   - I go to bed at 10 pm.
@@ -819,7 +853,7 @@
   - Go to work/college.
   - Study / Read.
 
-# 15. Date and Time
+# 16. Date and Time
 
 - Writing and saying the date in English
   - We ask the date or about dates in several ways, for example:
@@ -841,7 +875,7 @@
     - 2006 = Two thousand and six.
     - 2010 = Two thousand and ten.
 
-## 15.1. Days of The Week
+## 16.1. Days of The Week
 
 | Day of the week | Abbreviation |
 | --------------- | ------------ |
@@ -860,7 +894,7 @@
   - She goes to the movies once a month.
   - Her brother swims twice a week.
 
-## 15.2. Months
+## 16.2. Months
 
 |     | Month     | Short form |
 | --- | --------- | ---------- |
@@ -882,7 +916,7 @@
   - We usually travel to my father's farm in april.
   - I never have vacations in july.
 
-## 15.3. Time
+## 16.3. Time
 
 - a.m. = ante meridiem (Before midday / noon).
 - p.m. = post meridiem (After midday / noon).
@@ -905,13 +939,13 @@
 - 12:00 pm = Midnight
 - 12:00 am = Midday
 
-# 16. Can, Could and Be able to
+# 17. Can, Could and Be able to
 
 - Can = Present
   - Be able to -> Alternative
 - Could = Past
 
-## 16.1. Can
+## 17.1. Can
 
 - **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
 
@@ -950,7 +984,7 @@
   - My school isn't far, I **can** walk.
   - The letters are too small. I **can't** read.
 
-### 16.1.1. Example with 5 (five) senses
+### 17.1.1. Example with 5 (five) senses
 
 - Feel
 - Hear
@@ -965,7 +999,7 @@
 - I **can't** remember her name.
 - She **can't** understand this kind of things.
 
-## 16.2. Could
+## 17.2. Could
 
 - Could is also a modal auxiliary verb. Its structure consists on:
 
@@ -1004,7 +1038,7 @@
     - We be able to see the lake from our hotel.
   - As soon as walked into the room, i **could** smell gas.
 
-# 17. Should
+# 18. Should
 
 - I'm pretty sure my neighbour has illegal animals at home.
   - What should I do?
@@ -1023,7 +1057,7 @@
 - Shouldn't you be at school?
 - I should be studying now.
 
-# 18. Like / Dislikes
+# 19. Like / Dislikes
 
 - I like to watch movies.
 - She likes to read books.
@@ -1034,7 +1068,7 @@
 - Does her teacher like to work here? / Does her teacher like working here?
 - What do you like to do in your freetime?
 
-# 19. Relative time
+# 20. Relative time
 
 - I worked **last** sunday.
 - She has a meeting **this** afternoon.
@@ -1049,9 +1083,9 @@
 - I don't like to work **during** the day.
 - I **always** sing while I'm in the shower.
 
-# 20. Preposition of Time and Place
+# 21. Preposition of Time and Place
 
-## 20.1. In
+## 21.1. In
 
 - Examples:
   - The bags are in the car.
@@ -1060,7 +1094,7 @@
   - His mon is in france.
   - Their father lives in a small city.
 
-## 20.2. At
+## 21.2. At
 
 - Examples:
   - She is at the door.
@@ -1069,7 +1103,7 @@
   - Your father is at the table.
   - The car is at the traffic lights.
 
-## 20.3. On
+## 21.3. On
 
 - Examples:
   - The book is on the table.
@@ -1077,9 +1111,9 @@
   - Your money is on your desk.
   - Mike lies on the floor.
 
-# 21. Do vs Make
+# 22. Do vs Make
 
-## 21.1. Do
+## 22.1. Do
 
 - Work
 - Service
@@ -1092,7 +1126,7 @@
     - I need to do the dishes.
     - Help me do my hair, please.
 
-## 21.2. Make
+## 22.2. Make
 
 - Build
 - Produce
@@ -1104,14 +1138,14 @@
   - You make me happy.
   - Onions make you cry.
 
-# 22. Making assumptions
+# 23. Making assumptions
 
-## 22.1. Comparative
+## 23.1. Comparative
 
 - Comparative adjectives are used to compare differences between the two objects they modify (large, smaller, etc).
 - They are used in sentences where two nouns are compared.
 
-### 22.1.1. Equality
+### 23.1.1. Equality
 
 - Subject + verb + **AS** + adjective + **AS** + object.
 - Examples:
@@ -1121,7 +1155,7 @@
   - My dog is **as** more prettier **as** my cat.
   - My son is **as** smart **as** his father.
 
-### 22.1.2. Inferiority
+### 23.1.2. Inferiority
 
 - Subject + verb + **less** + adjective + **than** + object.
 - Examples:
@@ -1131,7 +1165,7 @@
   - Android is **less** intuitive **than** IOs.
   - My sister is **less** smart **than** me.
 
-### 22.1.3. Superiority
+### 23.1.3. Superiority
 
 |                          | Adjective          | Comparative                          |
 | ------------------------ | ------------------ | ------------------------------------ |
@@ -1167,11 +1201,11 @@
   - Right = more right.
   - Wrong - more wrong.
 
-## 22.2. Superlative
+## 23.2. Superlative
 
 - For comparisons in larger groups, you must use the **superlative**. The superlative designates extremes: The best, the first, the worst, the last, etc.
 
-### 22.2.1. Inferiority
+### 23.2.1. Inferiority
 
 - Subject + verb + **the least** + adjective.
 - Examples:
@@ -1180,7 +1214,7 @@
   - I am **the least** beautiful of the party.
   - She is **the least** tall of her friends.
 
-### 22.2.2. Superiority
+### 23.2.2. Superiority
 
 |                          | Adjective          | Superlative                                  |
 | ------------------------ | ------------------ | -------------------------------------------- |
@@ -1205,7 +1239,7 @@
   - "The Matrix" is the **best** movie ever.
   - "Senhora" is the **worst** book I've read.
 
-# 23. Questions words
+# 24. Questions words
 
 - We use question words to ask certain types of questions, expecting specific answers.
 - We often refer to these words as **WH** words because the majority of them include the letters **WH** at the beginning.
@@ -1221,7 +1255,7 @@
 | Whose | Asking about ownership.                          | Whose are these notebooks?              |
 | How   | Asking about manner / condition / quality.       | How does this game work?                |
 
-## 23.1. Embedded questions
+## 24.1. Embedded questions
 
 - Examples:
   - **Where** has Peter gone?
@@ -1247,7 +1281,22 @@
   - **What** do you do on Sundays?
     - Tell us what you do on Sundays?
 
-# 25. Irregular verbs
+# 25. Countries and nationalities
+
+- Country
+  - to be + from + country
+- Nationality
+  - to be + nationality
+- Examples:
+  - He is from Brazil
+  - He is Brazilian
+  - I am from Brazil
+  - I am Brazilian
+  - Where are you from?
+    - I am from United States
+    - I am American
+
+# 26. Irregular verbs
 
 | Past  | Base form |
 | ----- | --------- |
@@ -1256,8 +1305,11 @@
 | Had   | Have/Has  |
 | Did   | Do        |
 | Knew  | Know      |
+| Gave  | Give      |
+| Told  | Tell      |
+| Took  | Take      |
 
-# 26. To remenber / memorize
+# 27. To remenber / memorize
 
 - Accomplishes = realiza
 - As a reminder = um lembrete
@@ -1313,3 +1365,7 @@
 - Pan = Frigideira / Panela
 - Rays = Raios
 - Lays = Coloca
+- Beet = Beterraba
+- Bit = Pedaço
+- Bite = Morder
+- Anthem = Hino
