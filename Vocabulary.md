@@ -1,4 +1,4 @@
-# English study <!-- omit in toc -->
+# Vocabulary <!-- omit in toc -->
 
 ## Contents <!-- omit in toc -->
 
@@ -10,6 +10,7 @@
   - [2.2. Months](#22-months)
   - [2.3. Time](#23-time)
 - [3. Colors](#3-colors)
+- [4. To remenber / memorize](#4-to-remenber--memorize)
 
 # 1. Numbers
 
@@ -194,3 +195,89 @@
   - Blue
   - Indigo
   - Violet
+
+# 4. To remenber / memorize
+
+- Accomplishes = realiza
+- As a reminder = um lembrete
+- Assessment = avaliação
+- Broker = agente/ negociador / intermediário
+- Ceiling = Teto
+- Concern = Preocupação
+- Dangling = pendurado/pendente
+- Edge = borda / aresta
+- Exchange = troca / cambio
+- Wardrobe = armário
+- Blender = liquidificador
+- Tile = azulejo
+- Drawer = Gaveta
+- Microware oven = Micro ondas
+- Sink = Pia
+- Glag = Alegre
+- Tap = Torneira
+- Hunk = pedaço
+- Indeed = na verdade, certamente
+- Lead = liderar / persuadir
+- Must = deve
+- Soon = Breve / Assim que
+- Shelf = Prateleira
+- Toilet seat = Vaso sanitário
+- Painting = Quadro de pintura
+- Nutshell = Em resumo / Em suma
+- Shift = mudança
+- (Verb) Should = deve
+- Suitable = adequado
+- Than = que (conjunção)
+- Therefore - Portanto
+- Thought = pensei / reflexao / consideraçao
+- Throughout = ao longo
+- (Pronoun) Which = que
+- Poor = pobre
+- Bathtub = banheira
+- Bathroom (Usually includes a bathtub or shower) / Restroom = banheiro
+- Bundle = agrupar
+- As soon as = Assim que
+- Waiter = Garçon
+- Tin = Lata
+- Hop = Saltar
+- Hip = Quadril
+- Mood = Humor
+- Mud = Lama
+- Sake = Interesse
+- Pat = Tapinha
+- Postpone = Postergar
+- Manner = Maneira
+- Shin = Canela
+- Chin = Queixo
+- Pan = Frigideira / Panela
+- Rays = Raios
+- Lays = Coloca
+- Beet = Beterraba
+- Bit = Pedaço
+- Bite = Morder
+- Anthem = Hino
+- AWS exam...
+  - Underutilized = Subutilizada
+  - Leading (adj) = Principal
+  - Several = Diversos
+  - Tampered = Adulterado
+  - Suitable = Adequado
+  - Comprises = Compreende
+  - Over (adv) = Acima de
+  - Within (adv) = Dentro de
+  - **In charge** = No comando
+  - Unpredictable = Imprevisível
+  - Incoming = Entrada
+  - Outcoming = Saída
+  - Upon = Sobre
+    - **Upon checking** = Ao verificar
+  - As well (adv) = Também
+  - Gathering = Reunião
+  - Outage = Interrupção
+  - Rectify = Retificar
+  - Among = Entre
+  - Insurance = Seguro
+    - Insurance firm = Seguradora
+  - Utmost (adj) = Máximo
+  - Ensure = Garantir
+  - Whenever = Em qualquer momento

@@ -22,65 +22,52 @@
 - [5. Personal characteristics](#5-personal-characteristics)
 - [6. Buying and asking prices](#6-buying-and-asking-prices)
   - [6.1. Buying clothes](#61-buying-clothes)
-- [7. Verb To Be](#7-verb-to-be)
-  - [7.1. Present](#71-present)
-    - [7.1.1. Affirmative form](#711-affirmative-form)
-    - [7.1.2. Contractions form](#712-contractions-form)
-    - [7.1.3. Negative form](#713-negative-form)
-      - [7.1.3.1. Contractions with negative form](#7131-contractions-with-negative-form)
-    - [7.1.4. Question form](#714-question-form)
-      - [7.1.4.1. Question with negative and contractions form](#7141-question-with-negative-and-contractions-form)
-    - [7.1.5. Questions and answers](#715-questions-and-answers)
-  - [7.2. Past](#72-past)
-    - [7.2.1. Question form](#721-question-form)
-    - [7.2.2. Negative form](#722-negative-form)
-- [8. It / Subjectless](#8-it--subjectless)
-- [9. There + to be (There be)](#9-there--to-be-there-be)
-  - [9.1. Contractions](#91-contractions)
-- [10. Adjectives](#10-adjectives)
-- [11. Articles](#11-articles)
-  - [11.1. Definite](#111-definite)
-  - [11.2. Indefinite](#112-indefinite)
-  - [11.3. Rules](#113-rules)
-- [12. Simple past](#12-simple-past)
-- [13. Present simple](#13-present-simple)
-  - [13.1. Positive](#131-positive)
-  - [13.2. Negative](#132-negative)
-  - [13.3. Question](#133-question)
-  - [13.4. Question with negative](#134-question-with-negative)
-  - [13.5. Irregular verbs](#135-irregular-verbs)
-- [14. Present and Past continuous](#14-present-and-past-continuous)
-  - [14.1. Past continuous (ING) / Past progressive](#141-past-continuous-ing--past-progressive)
-    - [14.1.1. Negative](#1411-negative)
-  - [14.2. Present continuous (ING) / Present progressive](#142-present-continuous-ing--present-progressive)
-- [15. Adverbs of frequency / Habits / Routine](#15-adverbs-of-frequency--habits--routine)
-  - [15.1. Daily routine](#151-daily-routine)
-- [16. Can, Could and Be able to](#16-can-could-and-be-able-to)
-  - [16.1. Can](#161-can)
-    - [16.1.1. Example with 5 (five) senses](#1611-example-with-5-five-senses)
-  - [16.2. Could](#162-could)
-- [17. Should](#17-should)
-- [18. Like / Dislikes](#18-like--dislikes)
-- [19. Relative time](#19-relative-time)
-- [20. Preposition of Time and Place](#20-preposition-of-time-and-place)
-  - [20.1. In](#201-in)
-  - [20.2. At](#202-at)
-  - [20.3. On](#203-on)
-- [21. Do vs Make](#21-do-vs-make)
-  - [21.1. Do](#211-do)
-  - [21.2. Make](#212-make)
-- [22. Making assumptions](#22-making-assumptions)
-  - [22.1. Comparative](#221-comparative)
-    - [22.1.1. Equality](#2211-equality)
-    - [22.1.2. Inferiority](#2212-inferiority)
-    - [22.1.3. Superiority](#2213-superiority)
-  - [22.2. Superlative](#222-superlative)
-    - [22.2.1. Inferiority](#2221-inferiority)
-    - [22.2.2. Superiority](#2222-superiority)
-- [23. Questions words](#23-questions-words)
-  - [23.1. Embedded questions](#231-embedded-questions)
-- [24. Irregular verbs](#24-irregular-verbs)
-- [25. To remenber / memorize](#25-to-remenber--memorize)
+- [7. It / Subjectless](#7-it--subjectless)
+- [8. There + to be (There be)](#8-there--to-be-there-be)
+  - [8.1. Contractions](#81-contractions)
+- [9. Adjectives](#9-adjectives)
+- [10. Articles](#10-articles)
+  - [10.1. Definite](#101-definite)
+  - [10.2. Indefinite](#102-indefinite)
+  - [10.3. Rules](#103-rules)
+- [11. Simple past](#11-simple-past)
+- [12. Present simple](#12-present-simple)
+  - [12.1. Positive](#121-positive)
+  - [12.2. Negative](#122-negative)
+  - [12.3. Question](#123-question)
+  - [12.4. Question with negative](#124-question-with-negative)
+  - [12.5. Irregular verbs](#125-irregular-verbs)
+- [13. Present and Past continuous](#13-present-and-past-continuous)
+  - [13.1. Past continuous (ING) / Past progressive](#131-past-continuous-ing--past-progressive)
+    - [13.1.1. Negative](#1311-negative)
+  - [13.2. Present continuous (ING) / Present progressive](#132-present-continuous-ing--present-progressive)
+- [14. Adverbs of frequency / Habits / Routine](#14-adverbs-of-frequency--habits--routine)
+  - [14.1. Daily routine](#141-daily-routine)
+- [15. Can, Could and Be able to](#15-can-could-and-be-able-to)
+  - [15.1. Can](#151-can)
+    - [15.1.1. Example with 5 (five) senses](#1511-example-with-5-five-senses)
+  - [15.2. Could](#152-could)
+- [16. Should](#16-should)
+- [17. Like / Dislikes](#17-like--dislikes)
+- [18. Relative time](#18-relative-time)
+- [19. Preposition of Time and Place](#19-preposition-of-time-and-place)
+  - [19.1. In](#191-in)
+  - [19.2. At](#192-at)
+  - [19.3. On](#193-on)
+- [20. Do vs Make](#20-do-vs-make)
+  - [20.1. Do](#201-do)
+  - [20.2. Make](#202-make)
+- [21. Making assumptions](#21-making-assumptions)
+  - [21.1. Comparative](#211-comparative)
+    - [21.1.1. Equality](#2111-equality)
+    - [21.1.2. Inferiority](#2112-inferiority)
+    - [21.1.3. Superiority](#2113-superiority)
+  - [21.2. Superlative](#212-superlative)
+    - [21.2.1. Inferiority](#2121-inferiority)
+    - [21.2.2. Superiority](#2122-superiority)
+- [22. Questions words](#22-questions-words)
+  - [22.1. Embedded questions](#221-embedded-questions)
+- [23. Irregular verbs](#23-irregular-verbs)
 
 # 1. Greetings
 
@@ -363,138 +350,7 @@
   - Bundle (Package) of things that work by themselves.
 - Set of knives / tools / cups.
 
-# 7. Verb To Be
-
-- The **To Be** verb is used to describe or tell us the condition of people, things places and ideas. For example, they could tell us the subject's **age, nationality, job** or other information.
-
-## 7.1. Present
-
-- This is the structure of the To Be verb in the Present Tense:
-
-| Subejct | Verb |
-| ------- | ---- |
-| I       | am   |
-| He      | is   |
-| She     | is   |
-| It      | is   |
-| We      | are  |
-| You     | are  |
-| They    | are  |
-
-- Is -> Singular
-- Are -> Plural
-
-### 7.1.1. Affirmative form
-
-- I **am** your teacher.
-- He **is** my father.
-- She **is** my sister.
-- It **is** a Dog.
-- It **is** Hot/Cold.
-- We **are** here.
-- You **are** at home.
-- They **are** at the university.
-
-### 7.1.2. Contractions form
-
-- **I'm** your teacher.
-- **He's** my father
-- **She's** my sister.
-- **It's** hot/cold.
-- **We're** here.
-- **You're** at home.
-- **They're** at the university.
-
-### 7.1.3. Negative form
-
-- I'm **not** your teacher.
-- He's **not** my father.
-- She's **not** my sister.
-- It's **not** hot/cold
-- We're **not** here.
-- You're **not** at home.
-- They're **not** at the university.
-
-#### 7.1.3.1. Contractions with negative form
-
-- I'm not your teacher.
-- He isn't my father.
-- She isn't my sister.
-- It isn't hot/cold.
-- We aren't here.
-- You aren't at home.
-- They aren't at the university.
-
-### 7.1.4. Question form
-
-- **Am** I your teacher?
-- **Is** he my father?
-- **Is** she my sister?
-- **Is** it a dog?
-- **Is** it a hot/cold?
-- **Are** we here?
-- **Are** you at home?
-- **Are** they at the university?
-
-#### 7.1.4.1. Question with negative and contractions form
-
-- **Am** i not your teacher?
-- **Isn't** he my father?
-- **Isn't** she my sister?
-- **Isn't** it hot/cold?
-- **Aren't** we here?
-- **Aren't** you at home?
-- **Aren't** they at the university?
-
-### 7.1.5. Questions and answers
-
-- Are you my teacher?
-  - Yes, i am.
-  - No, i'm not.
-- Isn't she my sister?
-  - Yes, she is.
-  - No, she isn't.
-- Aren't they at home?
-  - Yes, they are.
-  - No, they aren't
-
-## 7.2. Past
-
-- This is the structure of the To be verb in the Past Tense:
-
-| Subject | Affirmative    | Negative          | Interrogative  |
-| ------- | -------------- | ----------------- | -------------- |
-| I       | subject + was  | subject + wasn't  | was + subject  |
-| He      | subject + was  | subject + wasn't  | was + subject  |
-| She     | subject + was  | subject + wasn't  | was + subject  |
-| It      | subject + was  | subject + wasn't  | was + subject  |
-| We      | subject + were | subject + weren't | were + subject |
-| You     | subject + were | subject + weren't | were + subject |
-| They    | subject + were | subject + weren't | were + subject |
-
-- Examples
-  - I **was** here yesterday.
-  - They **were** my friends.
-  - She **was** his girlfriend.
-  - There **was** an accident at the corner.
-  - We **were** at school last Saturday.
-  - Tina **was** at home yesterday.
-  - Robert and Stan **were** Garry's friend.
-  - You **were** very busy on Friday.
-
-### 7.2.1. Question form
-
-- **Was** he here last week?
-- **Were** you sick yesterday?
-- **Was** there an accident at the corner?
-- Where **were** you yesterday?
-
-### 7.2.2. Negative form
-
-- They **weren't** at the party.
-- She **wasn't** my teacher.
-
-# 8. It / Subjectless
+# 7. It / Subjectless
 
 - What time is it?
 - It's late.
@@ -508,7 +364,7 @@
 - It was very windy.
 - There was a strong wind yesterday.
 
-# 9. There + to be (There be)
+# 8. There + to be (There be)
 
 - To say that somenthing exists (or does not exist):
   | | Affirmative | Negative | Interrogative |
@@ -538,12 +394,12 @@
   - There were many people at the party, I couldn't see Carol.
   - There's a good song on the radio.
 
-## 9.1. Contractions
+## 8.1. Contractions
 
 - There is -> There's
 - There are -> XXXXXXX
 
-# 10. Adjectives
+# 9. Adjectives
 
 - The adjectives are usually placed **before** the noun that they describe.
 - Examples:
@@ -558,9 +414,9 @@
   - This hotel is very big.
   - This apartment is nice.
 
-# 11. Articles
+# 10. Articles
 
-## 11.1. Definite
+## 10.1. Definite
 
 - They are used when we are referring to a **specific thing** or **quantity**.
 - The definite article (the) is used before a noun to indicate that the identity of the noun is known to the reader.
@@ -573,7 +429,7 @@
     - **The** idea.
     - **The** apple.
 
-## 11.2. Indefinite
+## 10.2. Indefinite
 
 - They are used when we are referring to an **unespecified** thing or quantity.
 - The article (a, an) is used before a **noun** that is general or when its identity is not known.
@@ -595,7 +451,7 @@
   - **An** honest mistake
   - **An** unhappy person.
 
-## 11.3. Rules
+## 10.3. Rules
 
 - Plural nouns can be used with the definite article or no article at all; to use an indefinite article would be incorrect.
 - Examples:
@@ -610,9 +466,9 @@
   - INCORRECT -> When selecting courses, there are **a many options** to choose from.
   - CORRECT -> You may select courses from the many options available.
 
-# 12. Simple past
+# 11. Simple past
 
-# 13. Present simple
+# 12. Present simple
 
 - We use **Do** and **Does** as auxiliary verbs to make questions in the Present simple tense.
   - It is normally put at the beginning of the question (before the subject).
@@ -640,7 +496,7 @@
 | 2° person | You speak                              | 2° person | You don't speak                                             | 2° person | Do you speak?                                      |
 | 3° person | They speak                             | 3° person | They don't speak                                            | 3° person | Do they speak?                                     |
 
-## 13.1. Positive
+## 12.1. Positive
 
 - Examples:
   - I **play** soccer every day.
@@ -665,7 +521,7 @@
     - His sister **has** money.
   - The flight **leaves** at noon.
 
-## 13.2. Negative
+## 12.2. Negative
 
 - Examples:
   - **Don't** = **do** + **not**.
@@ -677,7 +533,7 @@
     - Peter **doesn't** know your father.
     - My lawyer **doesn't** have money.
 
-## 13.3. Question
+## 12.3. Question
 
 - Examples:
   - Do you **play** volleyball?
@@ -708,24 +564,24 @@
     - Yes, she does.
     - No, she don't.
 
-## 13.4. Question with negative
+## 12.4. Question with negative
 
 - Don't you like movies?
 - Don't they live there?
 - Don't we need our documents?
 
-## 13.5. Irregular verbs
+## 12.5. Irregular verbs
 
 - Go -> Goes
 - Do -> Does.
 - Have -> Has.
 
-# 14. Present and Past continuous
+# 13. Present and Past continuous
 
 - The present continuous and past continuous tenses (also called present progressive and past progressive) are used when we are describing actions that continue for a period of time in the present or in the past.
   - **Subject** + **present/past tense of the verb to be** + **main verb in the present participle**.
 
-## 14.1. Past continuous (ING) / Past progressive
+## 13.1. Past continuous (ING) / Past progressive
 
 - The past continuous is used for **a continuous action in the past**.
 - Examples:
@@ -747,7 +603,7 @@
     - I was swimming at the club.
   - Last night, they were cooking for their kids.
 
-### 14.1.1. Negative
+### 13.1.1. Negative
 
 - I wasn't talking to you.
 - They weren't paying attention to the class.
@@ -756,7 +612,7 @@
 - Weren't you driving without a seat belt?
 - Wasn't she working at the same company as you?
 
-## 14.2. Present continuous (ING) / Present progressive
+## 13.2. Present continuous (ING) / Present progressive
 
 - The present continuous tense is used to describe an action **that is happening at the moment of speaking**.
 - Examples:
@@ -770,7 +626,7 @@
   - Is it raining?
     - Yes, it is / No, It isn't.
 
-# 15. Adverbs of frequency / Habits / Routine
+# 14. Adverbs of frequency / Habits / Routine
 
 - An adverb of frequency describes how often an action happens. There are six main adverbs of frequency that we use in English: always, usually (or normally), often, sometimes, rarely, and never.
 - Adverbs:
@@ -803,7 +659,7 @@
   - Sometimes she does her homework with friends.
   - Usually they study on their own.
 
-## 15.1. Daily routine
+## 14.1. Daily routine
 
 - What time do you go to bed?
   - I go to bed at 10 pm.
@@ -823,13 +679,13 @@
   - Go to work/college.
   - Study / Read.
 
-# 16. Can, Could and Be able to
+# 15. Can, Could and Be able to
 
 - Can = Present
   - Be able to -> Alternative
 - Could = Past
 
-## 16.1. Can
+## 15.1. Can
 
 - **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
 
@@ -868,7 +724,7 @@
   - My school isn't far, I **can** walk.
   - The letters are too small. I **can't** read.
 
-### 16.1.1. Example with 5 (five) senses
+### 15.1.1. Example with 5 (five) senses
 
 - Feel
 - Hear
@@ -883,7 +739,7 @@
 - I **can't** remember her name.
 - She **can't** understand this kind of things.
 
-## 16.2. Could
+## 15.2. Could
 
 - Could is also a modal auxiliary verb. Its structure consists on:
 
@@ -922,7 +778,7 @@
     - We be able to see the lake from our hotel.
   - As soon as walked into the room, i **could** smell gas.
 
-# 17. Should
+# 16. Should
 
 - I'm pretty sure my neighbour has illegal animals at home.
   - What should I do?
@@ -941,7 +797,7 @@
 - Shouldn't you be at school?
 - I should be studying now.
 
-# 18. Like / Dislikes
+# 17. Like / Dislikes
 
 - I like to watch movies.
 - She likes to read books.
@@ -952,7 +808,7 @@
 - Does her teacher like to work here? / Does her teacher like working here?
 - What do you like to do in your freetime?
 
-# 19. Relative time
+# 18. Relative time
 
 - I worked **last** sunday.
 - She has a meeting **this** afternoon.
@@ -967,9 +823,9 @@
 - I don't like to work **during** the day.
 - I **always** sing while I'm in the shower.
 
-# 20. Preposition of Time and Place
+# 19. Preposition of Time and Place
 
-## 20.1. In
+## 19.1. In
 
 - Examples:
   - The bags are in the car.
@@ -978,7 +834,7 @@
   - His mon is in france.
   - Their father lives in a small city.
 
-## 20.2. At
+## 19.2. At
 
 - Examples:
   - She is at the door.
@@ -987,7 +843,7 @@
   - Your father is at the table.
   - The car is at the traffic lights.
 
-## 20.3. On
+## 19.3. On
 
 - Examples:
   - The book is on the table.
@@ -995,9 +851,9 @@
   - Your money is on your desk.
   - Mike lies on the floor.
 
-# 21. Do vs Make
+# 20. Do vs Make
 
-## 21.1. Do
+## 20.1. Do
 
 - Work
 - Service
@@ -1010,7 +866,7 @@
     - I need to do the dishes.
     - Help me do my hair, please.
 
-## 21.2. Make
+## 20.2. Make
 
 - Build
 - Produce
@@ -1022,14 +878,14 @@
   - You make me happy.
   - Onions make you cry.
 
-# 22. Making assumptions
+# 21. Making assumptions
 
-## 22.1. Comparative
+## 21.1. Comparative
 
 - Comparative adjectives are used to compare differences between the two objects they modify (large, smaller, etc).
 - They are used in sentences where two nouns are compared.
 
-### 22.1.1. Equality
+### 21.1.1. Equality
 
 - Subject + verb + **AS** + adjective + **AS** + object.
 - Examples:
@@ -1039,7 +895,7 @@
   - My dog is **as** more prettier **as** my cat.
   - My son is **as** smart **as** his father.
 
-### 22.1.2. Inferiority
+### 21.1.2. Inferiority
 
 - Subject + verb + **less** + adjective + **than** + object.
 - Examples:
@@ -1049,7 +905,7 @@
   - Android is **less** intuitive **than** IOs.
   - My sister is **less** smart **than** me.
 
-### 22.1.3. Superiority
+### 21.1.3. Superiority
 
 |                          | Adjective          | Comparative                          |
 | ------------------------ | ------------------ | ------------------------------------ |
@@ -1085,11 +941,11 @@
   - Right = more right.
   - Wrong - more wrong.
 
-## 22.2. Superlative
+## 21.2. Superlative
 
 - For comparisons in larger groups, you must use the **superlative**. The superlative designates extremes: The best, the first, the worst, the last, etc.
 
-### 22.2.1. Inferiority
+### 21.2.1. Inferiority
 
 - Subject + verb + **the least** + adjective.
 - Examples:
@@ -1098,7 +954,7 @@
   - I am **the least** beautiful of the party.
   - She is **the least** tall of her friends.
 
-### 22.2.2. Superiority
+### 21.2.2. Superiority
 
 |                          | Adjective          | Superlative                                  |
 | ------------------------ | ------------------ | -------------------------------------------- |
@@ -1123,7 +979,7 @@
   - "The Matrix" is the **best** movie ever.
   - "Senhora" is the **worst** book I've read.
 
-# 23. Questions words
+# 22. Questions words
 
 - We use question words to ask certain types of questions, expecting specific answers.
 - We often refer to these words as **WH** words because the majority of them include the letters **WH** at the beginning.
@@ -1139,7 +995,7 @@
 | Whose | Asking about ownership.                          | Whose are these notebooks?              |
 | How   | Asking about manner / condition / quality.       | How does this game work?                |
 
-## 23.1. Embedded questions
+## 22.1. Embedded questions
 
 - Examples:
   - **Where** has Peter gone?
@@ -1165,7 +1021,7 @@
   - **What** do you do on Sundays?
     - Tell us what you do on Sundays?
 
-# 24. Irregular verbs
+# 23. Irregular verbs
 
 | Past  | Base form |
 | ----- | --------- |
@@ -1177,64 +1033,3 @@
 | Gave  | Give      |
 | Told  | Tell      |
 | Took  | Take      |
-
-# 25. To remenber / memorize
-
-- Accomplishes = realiza
-- As a reminder = um lembrete
-- Assessment = avaliação
-- Broker = agente/ negociador / intermediário
-- Ceiling = Teto
-- Concern = Preocupação
-- Dangling = pendurado/pendente
-- Edge = borda / aresta
-- Exchange = troca / cambio
-- Wardrobe = armário
-- Blender = liquidificador
-- Tile = azulejo
-- Drawer = Gaveta
-- Microware oven = Micro ondas
-- Sink = Pia
-- Glag = Alegre
-- Tap = Torneira
-- Hunk = pedaço
-- Indeed = na verdade, certamente
-- Lead = liderar / persuadir
-- Must = deve
-- Soon = Breve / Assim que
-- Shelf = Prateleira
-- Toilet seat = Vaso sanitário
-- Painting = Quadro de pintura
-- Nutshell = Em resumo / Em suma
-- Shift = mudança
-- (Verb) Should = deve
-- Suitable = adequado
-- Than = que (conjunção)
-- Therefore - Portanto
-- Thought = pensei / reflexao / consideraçao
-- Throughout = ao longo
-- (Pronoun) Which = que
-- Poor = pobre
-- Bathtub = banheira
-- Bathroom (Usually includes a bathtub or shower) / Restroom = banheiro
-- Bundle = agrupar
-- As soon as = Assim que
-- Waiter = Garçon
-- Tin = Lata
-- Hop = Saltar
-- Hip = Quadril
-- Mood = Humor
-- Mud = Lama
-- Sake = Interesse
-- Pat = Tapinha
-- Postpone = Postergar
-- Manner = Maneira
-- Shin = Canela
-- Chin = Queixo
-- Pan = Frigideira / Panela
-- Rays = Raios
-- Lays = Coloca
-- Beet = Beterraba
-- Bit = Pedaço
-- Bite = Morder
-- Anthem = Hino
