@@ -81,6 +81,9 @@
 - 12th -> Twelfth.
 - 13th -> Thirteenth.
 - 14th -> Fourteenth.
+- 21th -> Twenty first.
+- 22th -> Twenty second.
+- 23th -> Twenty third.
 - 26th -> Twenty sixth.
 - Examples:
   - He finished 6th in the race.
@@ -229,10 +232,10 @@
 - Suitable = adequado
 - Than = que (conjunção)
 - Therefore - Portanto
-- Thought = pensei / reflexao / consideraçao
+- Thought = Pensamento / pensei / reflexão / consideração
 - Throughout = ao longo
 - (Pronoun) Which = que
-- Poor = pobre
+- Poor = Pobre
 - Bathtub = banheira
 - Bathroom (Usually includes a bathtub or shower) / Restroom = banheiro
 - Bundle = agrupar
@@ -281,3 +284,9 @@
   - Utmost (adj) = Máximo
   - Ensure = Garantir
   - Whenever = Em qualquer momento
+  - Relies = Depende
+  - Built-in (adj) = Construídas em
+    - Example: Enable the built-in **noun** notification feature = Habilite o recurso integrado de notificação do Trusted Advisor.
+  - Although = Embora
+  - Though = No entanto
+  - Thought = Pensamento
