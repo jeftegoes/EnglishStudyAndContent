@@ -259,6 +259,7 @@
 - Bit = Pedaço
 - Bite = Morder
 - Anthem = Hino
+- Prevail = Prevalecer
 - AWS exam...
   - Underutilized = Subutilizada
   - Leading (adj) = Principal
@@ -290,3 +291,13 @@
   - Although = Embora
   - Though = No entanto
   - Thought = Pensamento
+  - Whether (conj) = Se
+  - Invaluable (adj) = Inestimável
+  - Assert = Afirma
+  - Signs = Sinaliza
+  - Even = Até
+  - Hence = Por isso
+  - Herculean = Hercúlea (Extremamente trabalhoso)
+  - Desires = Desejo
+  - Appliance = Dispositivo / Utensílio
+  - Assign = Atribuir
