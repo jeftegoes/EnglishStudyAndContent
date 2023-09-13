@@ -1,0 +1,60 @@
+<mxfile host="Electron" modified="2023-09-12T22:35:22.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="ahE20uRsTkwDK_NerQWk" version="21.5.1" type="device">
+  <diagram name="Page-1" id="vTqt3eaMMbpBqdADVj03">
+    <mxGraphModel dx="291" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="220" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-2" value="&amp;nbsp;timeline&amp;nbsp;" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;startArrow=baseDash;endSize=60;startSize=60;rounded=0;startFill=0;endFill=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="120" y="220" as="sourcePoint" />
+            <mxPoint x="360" y="220" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-4" value="09:00 a.m." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-5" value="12:09 p.m." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-6" value="Continuous" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;startArrow=cross;startFill=0;strokeColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="130" y="200" as="sourcePoint" />
+            <mxPoint x="350" y="200" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-7" value="leave (until)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="356" y="185" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-9" value="arrive (by)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="356" y="222.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-11" value="" style="shape=mxgraph.sysml.x;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="140" y="232.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-12" value="" style="shape=mxgraph.sysml.x;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="280" y="232.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-13" value="" style="shape=mxgraph.sysml.x;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="330" y="232.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-14" value="This can happen at any time" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="242.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-15" value="end" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="436" y="185" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-16" value="end" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="436" y="222.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KmEBH9o2RdEMB_LafNSM-17" value="start" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="485" y="222.5" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

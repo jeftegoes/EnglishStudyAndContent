@@ -35,10 +35,11 @@
   - [7.1. Definite](#71-definite)
   - [7.2. Indefinite](#72-indefinite)
   - [7.3. Rules](#73-rules)
-- [8. Preposition of Time and Place](#8-preposition-of-time-and-place)
-  - [8.1. In](#81-in)
-  - [8.2. At](#82-at)
-  - [8.3. On](#83-on)
+- [8. Preposition of Time](#8-preposition-of-time)
+- [9. Preposition of Place](#9-preposition-of-place)
+  - [9.1. In](#91-in)
+  - [9.2. At](#92-at)
+  - [9.3. On](#93-on)
 
 # 1. Verb To Be
 
@@ -508,9 +509,44 @@
 - 2nd time you talk about the same noun.
   - Example: I bought same **fruit**. **The fruit** was bad.
 
-# 8. Preposition of Time and Place
+# 8. Preposition of Time
 
-## 8.1. In
+![Timeline](Images/PrepositionsOfTime.png)
+
+- I'll be at the office **until** noon.
+- I'll be at the office **by** noon.
+- I'll be at the office **by** noon and I'll **stay** until 5:00.
+- The key is the word **Be**.
+  - until = stay
+  - by = arrive
+- INCORRECT -> I'll **finish** my homework **until** 5:00.
+- CORRECT -> I'll **finish** my homework **by** 5:00
+- CORRECT -> I'll **work on** my homework **until** 5:00.
+- By/Until - all tenses **except** perfects.
+- I'll have completed my tasks by 5:00. (Future perfect)
+- Until = till = 'til.
+- I'll be done by 7:00.
+
+# 9. Preposition of Place
+
+![Triangle](Images/PrepositionsOfPlace.png)
+
+- at -> specific
+  - Name = Starbucks.
+  - Address = 25 Main Street.
+  - Place = JKF Airport.
+- on -> medium
+  - Street = Main Street.
+  - Highway = Route 66.
+  - Floor = The6th floor.
+- in -> large
+  - City = Los Angeles.
+  - State = California.
+  - Country = The U.S.
+  - Continent = North America.
+  - Area = The world.
+
+## 9.1. In
 
 - Examples:
   - The bags are in the car.
@@ -518,8 +554,11 @@
   - My brother like to swim in the river.
   - His mon is in france.
   - Their father lives in a small city.
+  - In Tokyo.
+  - In Brazil.
+  - She lives at 256 Queen St.in London.
 
-## 8.2. At
+## 9.2. At
 
 - Examples:
   - She is at the door.
@@ -527,11 +566,15 @@
   - My friends are at the bus stop.
   - Your father is at the table.
   - The car is at the traffic lights.
+  - At 40 Park Avenue
+  - We're stayng at the Moon Hotel.
+  - He work at BurgerKing on BayStreet.
 
-## 8.3. On
+## 9.3. On
 
 - Examples:
   - The book is on the table.
   - Don't step on the grass.
   - Your money is on your desk.
   - Mike lies on the floor.
+  - On Hill Road.

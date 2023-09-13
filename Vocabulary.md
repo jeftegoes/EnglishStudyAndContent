@@ -96,15 +96,24 @@
 - Writing and saying the date in English
   - We ask the date or about dates in several ways, for example:
     - What date is it?
+      - It's the 19th.
     - What's the date today?
+      - It's 19th May.
     - What's today's date?
+      - Today is ...
+    - When is your birthday?
+      - My birthday is April 10th (Tenth).
+    - What is your date of birth?
+      - I was born on April 10th (Tenth), 1991 (Nineteen Ninety One).
+- For dates in spoken English, we always use an **orginal number** for the day.
+  - Example: Fourth of July
 - There are two ways of saying the date based on British and American English:
 
-  |           | British                                | American                  |
-  | --------- | -------------------------------------- | ------------------------- |
-  | Rule      | DAY/MONTH/YEAR                         | MONTH/DAY/YEAR            |
-  | You write | 1st January, 2010                      | January, 1st, 2010        |
-  | You say   | The first of january, two thousand ten | January (the) first, 2010 |
+  |           | British                                | American                        |
+  | --------- | -------------------------------------- | ------------------------------- |
+  | Rule      | DAY/MONTH/YEAR                         | MONTH/DAY/YEAR                  |
+  | You write | 1st January 2010                       | January 1st, 2010               |
+  | You say   | The first of january, two thousand ten | January first, two thousand ten |
 
 - Year normally divided into two parts.
   - 1984 = 19 = nineteen - 84 = Eighty four
@@ -127,7 +136,7 @@
 
 - Before days -> **ON**.
 - Examples:
-  - What do you do on mondays?
+  - What do you do **on** mondays?
   - How often do you go to the movies?
   - She goes to the movies once a month.
   - Her brother swims twice a week.
@@ -222,6 +231,7 @@
 - Indeed = na verdade, certamente
 - Lead = liderar / persuadir
 - Must = deve
+- Already = Já
 - Soon = Breve / Assim que
 - Shelf = Prateleira
 - Toilet seat = Vaso sanitário
@@ -260,6 +270,7 @@
 - Bite = Morder
 - Anthem = Hino
 - Prevail = Prevalecer
+- Visa = Visto
 - AWS exam...
   - Underutilized = Subutilizada
   - Leading (adj) = Principal
