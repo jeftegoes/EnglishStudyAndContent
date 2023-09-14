@@ -11,6 +11,7 @@
   - [2.3. Time](#23-time)
 - [3. Colors](#3-colors)
 - [4. To remenber / memorize](#4-to-remenber--memorize)
+- [5. Street directions](#5-street-directions)
 
 # 1. Numbers
 
@@ -312,3 +313,14 @@
   - Desires = Desejo
   - Appliance = Dispositivo / Utensílio
   - Assign = Atribuir
+
+# 5. Street directions
+
+- Questions:
+  - How can I get to ______ ?
+  - Where is ______ ? (More direct)
+  - Can you tell me how to get to ______ ? (Indirect and more polite)
+  - Do you know where ______ is ? (Indirect and more polite)
+  - What's the fastest way to get to ______ ?
+  - Past
+    - At/
