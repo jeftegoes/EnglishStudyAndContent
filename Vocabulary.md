@@ -10,8 +10,13 @@
   - [2.2. Months](#22-months)
   - [2.3. Time](#23-time)
 - [3. Colors](#3-colors)
-- [4. To remenber / memorize](#4-to-remenber--memorize)
-- [5. Street directions](#5-street-directions)
+- [4. Street directions](#4-street-directions)
+  - [4.1. Main streets](#41-main-streets)
+  - [4.2. Landmarks](#42-landmarks)
+- [5. Family](#5-family)
+  - [5.1. Members of the family](#51-members-of-the-family)
+  - [5.2. Who are these peoples?](#52-who-are-these-peoples)
+- [6. To remenber / memorize](#6-to-remenber--memorize)
 
 # 1. Numbers
 
@@ -209,29 +214,134 @@
   - Indigo
   - Violet
 
-# 4. To remenber / memorize
+# 4. Street directions
 
-- Accomplishes = realiza
-- As a reminder = um lembrete
-- Assessment = avaliação
-- Broker = agente/ negociador / intermediário
+- To get to = Para chegar
+- Possible questions:
+  - How can I **get to** **\_\_** ?
+  - Where is **\_\_** ? (More direct)
+  - Can you tell me how **to get to** **\_\_** ? (Indirect and more polite)
+  - Do you know where **\_\_** is ? (Indirect and more polite)
+  - What's the fastest way **to get to** **\_\_** ?
+  - Could you tell me where is **\_\_** ?
+  - Do you know where can I find a **\_\_** ?
+  - What's the best way **to get to** **\_\_** ?
+- Giving information:
+  - Go past.
+  - At/on the corner of **\_\_** and **\_\_**.
+  - Kitty corner (Oposite corner).
+  - Next to.
+  - Beside.
+  - Near (Avoid it, because it's vague).
+  - Close to (Avoid it, because it's vague).
+  - Not far from.
+  - In front of.
+  - Behind.
+  - Across the street.
+  - From **\_\_** between **\_\_** and **\_\_**.
+  - On the left/right.
+  - To the north.
+  - On the west side.
+  - Go straight ahead.
+  - Turn left/right.
+
+## 4.1. Main streets
+
+- Avenue.
+- Road.
+- Street.
+- Boulevard.
+
+## 4.2. Landmarks
+
+- Buildings.
+- Bridges.
+- Monuments.
+- Parks.
+
+# 5. Family
+
+## 5.1. Members of the family
+
+- Mother = Mãe.
+- Father = Pai.
+- Sister(s) = Irmã.
+- Brother(s) = Irmão.
+- Grandmother = Avó.
+- Grandfather = Avô.
+- Grandparents = Avôs e Avós.
+- Wife = Esposa.
+- Husband = Marido.
+- Son = Filho.
+  - Children = Filhos.
+- Daughter(s) = Filha(s).
+- Granddaughter(s) = Neta(s).
+- Grandson = Neto.
+  - Grandchildren = Netos.
+- Uncle(s) - Tio(s).
+- Aunt(s) = Tia(s).
+- Cousin(s) = Primo(s)/Prima(s).
+- Niece(s) = Sobrinha(s).
+- Nephew(s) = Sobrinho(s).
+- Relatives -> Group of people you are related.
+- Parents -> Legal guardians like: mother, father, etc.
+- **Questions**
+  - What is your favorite relative?
+    - My uncle Sérgio.
+  - How many cousing do you have?
+    - I have many cousins, around 25.
+  - Is family important to you?
+    - Yes of course, I can't live without them.
+  - Do you have Great = Grandparents? How old are them?
+  - How old is your mother
+    - She is 65 years old.
+  - Are you a mother/father.
+    - Yes, I am a father.
+  - What are your parents' names?
+    - My parents' names are XXX and YYY.
+  - How many people are in your family?
+    - I have 3 people in my family.
+
+## 5.2. Who are these peoples?
+
+- My mother's mother is my: Grandmother.
+- My sister's son is my: Nephew.
+- My son's sister is my: Daughter.
+- My father's sister is my: Aunt.
+- My son's daughter is my: Granddaughter
+- My son's girlfriend is my: Daughter in law.
+- My husband's father is my: Father in law.
+- My mother's brother is my: Uncle.
+- My wife's sister is my: Sister in law.
+- My brother's daughter is my: Niece
+- My son's son is my: Grandson
+- My child's boyfriend is my: Son in law
+- My brother's wife is my: Sister in law.
+- My wife's brother is my: Brother in law.
+
+# 6. To remenber / memorize
+
+- Accomplishes = Realiza
+- As a reminder = Um lembrete
+- Assessment = Avaliação
+- Broker = Agente / Negociador / Intermediário
 - Ceiling = Teto
 - Concern = Preocupação
-- Dangling = pendurado/pendente
-- Edge = borda / aresta
-- Exchange = troca / cambio
-- Wardrobe = armário
-- Blender = liquidificador
-- Tile = azulejo
+- Dangling = Pendurado/pendente
+- Edge = Borda / aresta
+- Exchange = Troca / cambio
+- Wardrobe = Armário
+- Blender = Liquidificador
+- Tile = Azulejo
 - Drawer = Gaveta
-- Microware oven = Micro ondas
+- Microwave oven = Micro ondas
 - Sink = Pia
 - Glag = Alegre
 - Tap = Torneira
 - Hunk = pedaço
 - Indeed = na verdade, certamente
 - Lead = liderar / persuadir
-- Must = deve
+- Must = Deve
 - Already = Já
 - Soon = Breve / Assim que
 - Shelf = Prateleira
@@ -307,20 +417,22 @@
   - Invaluable (adj) = Inestimável
   - Assert = Afirma
   - Signs = Sinaliza
-  - Even = Até
+  - Even = Mesmo / Até
   - Hence = Por isso
   - Herculean = Hercúlea (Extremamente trabalhoso)
-  - Desires = Desejo
+  - Desire(s) = Desejo(s)
   - Appliance = Dispositivo / Utensílio
   - Assign = Atribuir
-
-# 5. Street directions
-
-- Questions:
-  - How can I get to ______ ?
-  - Where is ______ ? (More direct)
-  - Can you tell me how to get to ______ ? (Indirect and more polite)
-  - Do you know where ______ is ? (Indirect and more polite)
-  - What's the fastest way to get to ______ ?
-  - Past
-    - At/
+  - Entails / Implies = Implica
+  - Premise (noun) = Local / Premissa
+  - Reliability = Confiabilidade
+  - Seldom (adv) = Raramente
+  - Whole = Todo
+  - Afterward = Depois
+  - Enforced = Aplicada
+  - Retail = Varejo
+  - Resemble = assemelhar-se
+  - Reliable (adj) = Confiável
+  - Unreachable = Inacessível
+  - Breach (noun) = Violação
+  - Flagship = Carro chefe
