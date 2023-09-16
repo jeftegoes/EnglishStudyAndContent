@@ -9,14 +9,17 @@
   - [2.1. Days of The Week](#21-days-of-the-week)
   - [2.2. Months](#22-months)
   - [2.3. Time](#23-time)
-- [3. Colors](#3-colors)
-- [4. Street directions](#4-street-directions)
-  - [4.1. Main streets](#41-main-streets)
-  - [4.2. Landmarks](#42-landmarks)
-- [5. Family](#5-family)
-  - [5.1. Members of the family](#51-members-of-the-family)
-  - [5.2. Who are these peoples?](#52-who-are-these-peoples)
-- [6. To remenber / memorize](#6-to-remenber--memorize)
+- [3. Places](#3-places)
+  - [3.1. Places in a city](#31-places-in-a-city)
+  - [3.2. Places and direction](#32-places-and-direction)
+- [4. Colors](#4-colors)
+- [5. Street directions](#5-street-directions)
+  - [5.1. Main streets](#51-main-streets)
+  - [5.2. Landmarks](#52-landmarks)
+- [6. Family](#6-family)
+  - [6.1. Members of the family](#61-members-of-the-family)
+  - [6.2. Who are these peoples?](#62-who-are-these-peoples)
+- [7. To remenber / memorize](#7-to-remenber--memorize)
 
 # 1. Numbers
 
@@ -193,7 +196,61 @@
 - 12:00 pm = Midnight
 - 12:00 am = Midday
 
-# 3. Colors
+# 3. Places
+
+## 3.1. Places in a city
+
+- Airport - An **airport** is the place you go when you want to travel by plane to another city or country.
+- Amusement Park - Is a large outdoor area where people can go on rides such as roller coasters and enjoy other entertainment.
+- Bakery - Is a place where you can buy fresh bread and cakes.
+- Bank - Is a place where people deposit or withdraw (take out) money. You can also borrow money from a bank.
+- Bookstore - A **bookstore** is a place where you can buy books and magazines.
+- Bus station - A **bus station** is the place you go when you want to travel by bus to another place, usually another city.
+- Butcher's - A **butcher's** is a place that sells fresh meat such as steak and sausages.
+- Cafe / Café - A **cafe** is a place where you can buy a cup of coffee or tea and cakes or sandwiches. You normally sit down at a table to have these.
+- Cinema (British) / Movie theater (American) - A **cinema** or **movie theater** is a place where you can see the latest movies. Many people eat popcorn while they watch the movie.
+- Court - A **court** is a place where civil and criminal cases are presented before a judge.
+- Craft market - A craft market is normally a temporary event or place where people sell typical handmade products of a region or country.
+- Dentist / Dentist's - The **dentist's** (office) is the place where people go to take care of their teeth. Sometimes they have teeth removed or get a filling.
+- Department store - A **department store** is a large store that sells clothes, household appliances and other goods in different sections or departments.
+- Dry cleaner's - A **dry cleaner's** is a place where you take your clothes to be dry cleaned, which means they are cleaned with chemicals instead of water.
+- Fast food restaurant - A **fast food restaurant** is a place where food is served quickly. Typically you can buy burgers, chicken, or fries.
+- Fire station - A **fire station** is the building where firefighters keep their equipment including the fire engine or fire truck.
+- Florist's (shop) - A **florist's** is a place where you can buy flowers and sometimes house plants.
+- Art gallery - A gallery is a place where you can see old and new paintings as well as other works of art such as sculptures.
+- Petros station (British) / Gas station (American) - A **petrol station** or **gas station** is a place where you go to put gas (petrol) into your car or other vehicle.
+- Greengrocer's - **A greengrocer's** is a place where you can buy fresh fruit and vegetables.
+- Gym - A **gym** is a place where people can go to do exercises, work out and keep fit by using the equipment that is there.
+- Hairdresser's / Hair salon / Barber shop - A **hairdresser's**, sometimes called a hair salon, is a place where people go to get a haircut or have their hair changed in some way.
+- Hardware store - A hardware store is a place where you can buy tools and things you need for construction or home improvement.
+- Hospital - A **hospital** is the place you go when you have an accident, need an operation or when someone is going to have a baby.
+- Hotel - A **hotel** is a place where you pay for a room to sleep in when you visit another city.
+- Library - A **library** is a quiet place where you can read books or borrow books. A **library** has a large collection of books and magazines available. You can also study at a **library**.
+- Museum - A **museum** is a place where people can see many historical objects to learn about the part as well as other items of cultural interest.
+- Park - A **park** is an area of public land in a city that contains an area of grass where you can rest, play or walk your dog. Sometimes a park has a playground for children.
+- Car park (British) / Parking lot (American) - A **parking lot** is a place where you can leave your car for a period of time, usually while you go shopping.
+- Per shop / Per store - A **pet shop** is a place where people can buy pets and pet supplies such as pet food.
+- Pharmacy (British) / Drugstore (American) - A **pharmacy** or **drugstore** is a place where you can buy medicine and other health items.
+- Playground - A **playground** is an outdoor area where children can play on swings, a slide, or other equipment.
+- Police station - A **police station** is the place where police officers work. You are taken to a **police station** when you break the law and are arrested.
+- Post office - A **post office** is a place where you can buy stamps and mail letters or parcels.
+- Prison - A **prison** is a building where people are sent as punishment for a crime they have committed.
+- Restaurant - A **restaurant** is a place where meals are prepared and served to customers.
+- School - A **school** is a place where teachers help children learn. Children normally start school at the age of five.
+- Shopping mall - A **shopping mall**, sometimes called a **shopping center**, is a very large building that has many stores and usually a food court too.
+- Stadium - A **stadium** is a (large) place where sports are played. People usually go to a **stadium** to watch their favorite team play.
+- Underground station (British) / Subway station (American) - A **subway station** is a place where the underground train stops to pick up or drop off passengers.
+- Supermarket - A **supermarket** is a self-service store where people buy groceries. A **supermarket** generally sells food, drinks and other household products.
+- Zoo - A **zoo** is a place where you can see many types of birds and animals from around the world. Usually these animals are in cages.
+
+## 3.2. Places and direction
+
+- Is there a bakery close to your house? How do you get there?
+  - Yes, there is a bakery called "Fino Sabor", to get there from my house you go out, turn left, turn right, go straight, around the corner.
+- How many churches are there in your neighborhood? What is the best way to get there?
+  - There are many churches, but the most known is called "Igreja dos Capuchinhos", to get there, turn left, go straight, stay between Amelio Amorim and Santo Antonio school.
+
+# 4. Colors
 
 - Primary:
   - Red.
@@ -214,7 +271,7 @@
   - Indigo
   - Violet
 
-# 4. Street directions
+# 5. Street directions
 
 - To get to = Para chegar
 - Possible questions:
@@ -245,23 +302,23 @@
   - Go straight ahead.
   - Turn left/right.
 
-## 4.1. Main streets
+## 5.1. Main streets
 
 - Avenue.
 - Road.
 - Street.
 - Boulevard.
 
-## 4.2. Landmarks
+## 5.2. Landmarks
 
 - Buildings.
 - Bridges.
 - Monuments.
 - Parks.
 
-# 5. Family
+# 6. Family
 
-## 5.1. Members of the family
+## 6.1. Members of the family
 
 - Mother = Mãe.
 - Father = Pai.
@@ -302,7 +359,7 @@
   - How many people are in your family?
     - I have 3 people in my family.
 
-## 5.2. Who are these peoples?
+## 6.2. Who are these peoples?
 
 - My mother's mother is my: Grandmother.
 - My sister's son is my: Nephew.
@@ -319,7 +376,7 @@
 - My brother's wife is my: Sister in law.
 - My wife's brother is my: Brother in law.
 
-# 6. To remenber / memorize
+# 7. To remenber / memorize
 
 - Accomplishes = Realiza
 - As a reminder = Um lembrete
