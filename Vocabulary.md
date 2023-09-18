@@ -407,7 +407,6 @@
 - Nutshell = Em resumo / Em suma
 - Shift = mudança
 - (Verb) Should = deve
-- Suitable = adequado
 - Than = que (conjunção)
 - Therefore - Portanto
 - Thought = Pensamento / pensei / reflexão / consideração
@@ -439,6 +438,9 @@
 - Anthem = Hino
 - Prevail = Prevalecer
 - Visa = Visto
+- Meet = Encontrar
+- Met = Conheceu
+- Con = Vigarista
 - AWS exam...
   - Underutilized = Subutilizada
   - Leading (adj) = Principal
@@ -486,10 +488,14 @@
   - Seldom (adv) = Raramente
   - Whole = Todo
   - Afterward = Depois
-  - Enforced = Aplicada
+  - Enforce = Aplicar
+    - Enforced = Aplicada
   - Retail = Varejo
   - Resemble = assemelhar-se
   - Reliable (adj) = Confiável
   - Unreachable = Inacessível
   - Breach (noun) = Violação
   - Flagship = Carro chefe
+  - Further = Avançar
+  - Comply = Cumprir
+  - Overseas = Em outro continente
