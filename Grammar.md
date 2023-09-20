@@ -20,7 +20,7 @@
   - [2.3. Question](#23-question)
   - [2.4. Question with negative](#24-question-with-negative)
   - [2.5. Irregular verbs](#25-irregular-verbs)
-- [3. Present and Past continuous](#3-present-and-past-continuous)
+- [3. Present and Past Continuous](#3-present-and-past-continuous)
   - [3.1. Past continuous (ING) / Past progressive](#31-past-continuous-ing--past-progressive)
     - [3.1.1. Negative](#311-negative)
   - [3.2. Present continuous (ING) / Present progressive](#32-present-continuous-ing--present-progressive)
@@ -40,15 +40,19 @@
   - [9.1. In](#91-in)
   - [9.2. At](#92-at)
   - [9.3. On](#93-on)
-- [10. Modal verbs](#10-modal-verbs)
-  - [10.1. Will](#101-will)
-  - [10.2. Would](#102-would)
-  - [10.3. May](#103-may)
-  - [10.4. Might](#104-might)
-  - [10.5. Should](#105-should)
-  - [10.6. Must](#106-must)
-- [11. Question Tag](#11-question-tag)
-- [Relative Pronouns](#relative-pronouns)
+- [10. Can, Could and Be able to](#10-can-could-and-be-able-to)
+- [11. Modal verbs](#11-modal-verbs)
+  - [11.1. Can](#111-can)
+    - [11.1.1. Example with 5 (five) senses](#1111-example-with-5-five-senses)
+  - [11.2. Could](#112-could)
+  - [11.3. Will](#113-will)
+  - [11.4. Would](#114-would)
+  - [11.5. May](#115-may)
+  - [11.6. Might](#116-might)
+  - [11.7. Should](#117-should)
+  - [11.8. Must](#118-must)
+- [12. Question Tag](#12-question-tag)
+- [13. Going To](#13-going-to)
 
 # 1. Verb To Be
 
@@ -289,9 +293,11 @@
 - Do -> Does.
 - Have -> Has.
 
-# 3. Present and Past continuous
+# 3. Present and Past Continuous
 
-- The present continuous and past continuous tenses (also called present progressive and past progressive) are used when we are describing actions that continue for a period of time in the present or in the past.
+- Used when the plan is arrangement.
+  - I'm meeting Jane at 8 o'clock on Saturday.
+- The present Continuous and past continuous tenses (also called present progressive and past progressive) are used when we are describing actions that continue for a period of time in the present or in the past.
   - **Subject** + **present/past tense of the verb to be** + **main verb in the present participle**.
 
 ## 3.1. Past continuous (ING) / Past progressive
@@ -591,58 +597,183 @@
   - Mike lies on the floor.
   - On Hill Road.
 
-# 10. Modal verbs
+# 10. Can, Could and Be able to
+
+# 11. Modal verbs
 
 - subject + modal verbs + verb + complement.
 
-## 10.1. Will
+## 11.1. Can
 
-- Future with no previous plan.
+- **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
+
+| Subject       | Modal Verb CAN | Main Verb           |
+| ------------- | -------------- | ------------------- |
+| I             | can            | play tennis.        |
+| You           | can't          | drive a truck.      |
+| He / She / It | cannot         | read very fast.     |
+| We            | can            | ride our bikes.     |
+| They          | can't          | wear jeans at work. |
+
+- Be able to -> Alternative
+- **Can** + **person** + **main verb**
+- Ability (Present)
+  - I **can** speak 2 languages.
+- Offer
+  - **Can** I help you?
+    - Yes, you can.
+    - No, you can't
+- Possibility (Present)
+  - Smoking **can** cause diseases.
+- Request
+  - **Can** you lend me a pen?
+    - Yes, I can.
+    - No, I can't.
+- Permission
+  - **Can** I go to the mall with my frind?
+    - Yes, you can.
+    - No, you can't.
+- Examples:
+  - I **can** swim.
+  - She **can't** speak chinese.
+  - We **can't** wear jeans at work.
+  - **Can** you ride a bike?
+    - Yes, I **can**.
+    - No, I **can't**.
+  - My school isn't far, I **can** walk.
+  - The letters are too small. I **can't** read.
+
+### 11.1.1. Example with 5 (five) senses
+
+- Feel
+- Hear
+- See
+- Smell
+- Taste
+
+- I **can** hear music.
+- **Can** you help me?
+  - Yes, I can
+  - No, I can't
+- I **can't** remember her name.
+- She **can't** understand this kind of things.
+
+## 11.2. Could
+
+- Could is also a modal auxiliary verb. Its structure consists on:
+
+| Subject       | Modal Verb COULD | Main Verb           |
+| ------------- | ---------------- | ------------------- |
+| I             | could            | play tennis.        |
+| You           | couldn't         | drive a truck.      |
+| He / She / It | could not        | read very fast.     |
+| We            | could            | ride our bikes.     |
+| They          | couldn't         | wear jeans at work. |
+
+- **Could** + **person** + **main verb**
+- Ability (Past)
+  - I **could** speak 2 languages in the past.
+- Suggestion
+  - You **could** write a letter to your crush. (+ Polite)
+- Possibility
+  - He **could** be the assassin.
+- Request
+  - **Could** I barrow your eraser? (+ Polite)
+- Permission
+  - **Could** I ask you a personal question.
+- Examples:
+
+  - I **can** swim.
+  - She **can't** speak chinese.
+  - We **can't** wear jeans at work.
+  - **Can** you ride a bike?
+    - Yes, I **can**.
+    - No, I **can't**.
+  - My school isn't far, I **can** walk.
+  - The letters are too small. I **can't** read.
+
+- Examples
+  - We **can** see the lake from our hotel.
+    - We be able to see the lake from our hotel.
+  - As soon as walked into the room, i **could** smell gas.
+
+## 11.3. Will
+
+- **When to use:** Future with no previous plan, spontaneous plans decided at the moment of speaking.
 - Examples:
   - I **will** sneeze with my eyes open someday.
   - **Will** you marry me?
-  - I'll have the french fries, please.
+  - I'**ll** have the french fries, please.
+  - It **will** rain.
 
-## 10.2. Would
+## 11.4. Would
 
-- Future from the point of view of the past.
-- Situation that you can imagine happening.
+- **When to use:** Situation that you can imagine happening.
+  - Future from the point of view of the past.
 - Examples:
   - My car won't start. **Would** you take a look at the engine?
   - Why **would** he call me?
 
-## 10.3. May
+## 11.5. May
 
-- Formal request.
-- Possibility.
+- **When to use:** Possibility, formal request, in the past.
 - Examples:
   - **May** I come in, Mr. Lee?
   - You **may** have another cookie if you like.
+  - It **may** be true.
+  - I wonder why kate didn't answer her phone.
+    - She **may** have been asleep.
 
-## 10.4. Might
+## 11.6. Might
 
-- Possibility.
+- **When to use:** Possibility, in the present.
 - Examples:
   - The **might** be at home now.
   - Tom **might** not be at the meeting tomorrow.
+  - It **might** be true.
+  - I can't find my phone anywhere.
+    - You **might** have left it at work.
 
-## 10.5. Should
+## 11.7. Should
 
-- Advice.
-- Deduction.
+- **When to use:** Advice or deduction.
 - Examples:
   - Tom is sleeping. He **should** go to bed.
   - I can't find Melanie, she **should** be at work by now.
+  - I'm pretty sure my neighbour has illegal animals at home.
+    - What **should** I do?
+  - Steve has a lot of trouble understanding math.
+    - What do you think he **should** do?
+  - How often **should** I drink this medicine?
+  - Maybe you **should** talk to him.
+  - You **should** call the police.
+  - I think steve **should** study more.
+  - Steve **should** pay more attention during class.
+  - Maybe we **should** help him.
+  - You **should** drink it every 3 hours twice a day.
+  - Children **shouldn't** stay up till late.
+  - People **shouldn't** drink and drive.
+  - Your father **shouldn't** talk to your mom like that.
+  - **Shouldn't** you be at school?
+  - I **should** be studying now.
 
-## 10.6. Must
+## 11.8. Must
 
-- Obligation.
-- Deduction.
+- **When to use:** Obligation or deduction.
 - Examples:
   - I **must** finish these papers before midnight (=have to).
   - Karen broke up with Josh. He **must** be devastated.
+  - My House is near The Motorway.
+    - It **must** be very noisy.
+  - You've been travelling all day. You **must** be tired.
+  - Joe is a hard worker.
+    - Joe? You **must** be joking.
+  - There's nobody at home. They **must** have gone out.
+  - We used to live very near the motorway.
+    - Did you? It **must** have been noisy.
+  - I've lost one of my gloves. I **must** have dropped it somewhere.
 
-# 11. Question Tag
+# 12. Question Tag
 
 - If the first sentence structure begins with the form **POSITIVE (+)**, the second structure will be **NEGATIVE (-)**, And vice versa.
 - Examples:
@@ -657,4 +788,5 @@
   - They couldn't **(-)** finish the test, could they **(+)**?
   - You met my friend **(+)**, didn't **(-)** you?
 
-# Relative Pronouns
+# 13. Going To
+

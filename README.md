@@ -8,29 +8,24 @@
 - [4. There + to be (There be)](#4-there--to-be-there-be)
   - [4.1. Contractions](#41-contractions)
 - [5. Adjectives](#5-adjectives)
-- [7. Adverbs of frequency / Habits / Routine](#7-adverbs-of-frequency--habits--routine)
-  - [7.1. Daily routine](#71-daily-routine)
-- [8. Can, Could and Be able to](#8-can-could-and-be-able-to)
-  - [8.1. Can](#81-can)
-    - [8.1.1. Example with 5 (five) senses](#811-example-with-5-five-senses)
-  - [8.2. Could](#82-could)
-- [9. Should](#9-should)
-- [10. Like / Dislikes](#10-like--dislikes)
-- [11. Relative time](#11-relative-time)
-- [13. Do vs Make](#13-do-vs-make)
-  - [13.1. Do](#131-do)
-  - [13.2. Make](#132-make)
-- [14. Making assumptions](#14-making-assumptions)
-  - [14.1. Comparative](#141-comparative)
-    - [14.1.1. Equality](#1411-equality)
-    - [14.1.2. Inferiority](#1412-inferiority)
-    - [14.1.3. Superiority](#1413-superiority)
-  - [14.2. Superlative](#142-superlative)
-    - [14.2.1. Inferiority](#1421-inferiority)
-    - [14.2.2. Superiority](#1422-superiority)
-- [15. Questions words](#15-questions-words)
-  - [15.1. Embedded questions](#151-embedded-questions)
-- [16. Irregular verbs](#16-irregular-verbs)
+- [6. Adverbs of frequency / Habits / Routine](#6-adverbs-of-frequency--habits--routine)
+  - [6.1. Daily routine](#61-daily-routine)
+- [7. Like / Dislikes](#7-like--dislikes)
+- [8. Relative time](#8-relative-time)
+- [9. Do vs Make](#9-do-vs-make)
+  - [9.1. Do](#91-do)
+  - [9.2. Make](#92-make)
+- [10. Making assumptions](#10-making-assumptions)
+  - [10.1. Comparative](#101-comparative)
+    - [10.1.1. Equality](#1011-equality)
+    - [10.1.2. Inferiority](#1012-inferiority)
+    - [10.1.3. Superiority](#1013-superiority)
+  - [10.2. Superlative](#102-superlative)
+    - [10.2.1. Inferiority](#1021-inferiority)
+    - [10.2.2. Superiority](#1022-superiority)
+- [11. Questions words](#11-questions-words)
+  - [11.1. Embedded questions](#111-embedded-questions)
+- [12. Irregular verbs](#12-irregular-verbs)
 
 # 1. Speeling
 
@@ -121,7 +116,7 @@
   - This hotel is very big.
   - This apartment is nice.
 
-# 7. Adverbs of frequency / Habits / Routine
+# 6. Adverbs of frequency / Habits / Routine
 
 - An adverb of frequency describes how often an action happens. There are six main adverbs of frequency that we use in English: always, usually (or normally), often, sometimes, rarely, and never.
 - Adverbs:
@@ -154,7 +149,7 @@
   - Sometimes she does her homework with friends.
   - Usually they study on their own.
 
-## 7.1. Daily routine
+## 6.1. Daily routine
 
 - What time do you go to bed?
   - I go to bed at 10 pm.
@@ -174,125 +169,7 @@
   - Go to work/college.
   - Study / Read.
 
-# 8. Can, Could and Be able to
-
-- Can = Present
-  - Be able to -> Alternative
-- Could = Past
-
-## 8.1. Can
-
-- **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
-
-| Subject       | Modal Verb CAN | Main Verb           |
-| ------------- | -------------- | ------------------- |
-| I             | can            | play tennis.        |
-| You           | can't          | drive a truck.      |
-| He / She / It | cannot         | read very fast.     |
-| We            | can            | ride our bikes.     |
-| They          | can't          | wear jeans at work. |
-
-- **Can** + **person** + **main verb**
-- Ability (Present)
-  - I **can** speak 2 languages.
-- Offer
-  - **Can** I help you?
-    - Yes, you can.
-    - No, you can't
-- Possibility (Present)
-  - Smoking **can** cause diseases.
-- Request
-  - **Can** you lend me a pen?
-    - Yes, I can.
-    - No, I can't.
-- Permission
-  - **Can** I go to the mall with my frind?
-    - Yes, you can.
-    - No, you can't.
-- Examples:
-  - I **can** swim.
-  - She **can't** speak chinese.
-  - We **can't** wear jeans at work.
-  - **Can** you ride a bike?
-    - Yes, I **can**.
-    - No, I **can't**.
-  - My school isn't far, I **can** walk.
-  - The letters are too small. I **can't** read.
-
-### 8.1.1. Example with 5 (five) senses
-
-- Feel
-- Hear
-- See
-- Smell
-- Taste
-
-- I **can** hear music.
-- **Can** you help me?
-  - Yes, I can
-  - No, I can't
-- I **can't** remember her name.
-- She **can't** understand this kind of things.
-
-## 8.2. Could
-
-- Could is also a modal auxiliary verb. Its structure consists on:
-
-| Subject       | Modal Verb COULD | Main Verb           |
-| ------------- | ---------------- | ------------------- |
-| I             | could            | play tennis.        |
-| You           | couldn't         | drive a truck.      |
-| He / She / It | could not        | read very fast.     |
-| We            | could            | ride our bikes.     |
-| They          | couldn't         | wear jeans at work. |
-
-- **Could** + **person** + **main verb**
-- Ability (Past)
-  - I **could** speak 2 languages in the past.
-- Suggestion
-  - You **could** write a letter to your crush. (+ Polite)
-- Possibility
-  - He **could** be the assassin.
-- Request
-  - **Could** I barrow your eraser? (+ Polite)
-- Permission
-  - **Could** I ask you a personal question.
-- Examples:
-
-  - I **can** swim.
-  - She **can't** speak chinese.
-  - We **can't** wear jeans at work.
-  - **Can** you ride a bike?
-    - Yes, I **can**.
-    - No, I **can't**.
-  - My school isn't far, I **can** walk.
-  - The letters are too small. I **can't** read.
-
-- Examples
-  - We **can** see the lake from our hotel.
-    - We be able to see the lake from our hotel.
-  - As soon as walked into the room, i **could** smell gas.
-
-# 9. Should
-
-- I'm pretty sure my neighbour has illegal animals at home.
-  - What should I do?
-- Steve has a lot of trouble understanding math.
-  - What do you think he should do?
-- How often should I drink this medicine?
-- Maybe you should talk to him.
-- You should call the police.
-- I think steve should study more.
-- Steve should pay more attention during class.
-- Maybe we should help him.
-- You should drink it every 3 hours twice a day.
-- Children shouldn't stay up till late.
-- People shouldn't drink and drive.
-- Your father shouldn't talk to your mom like that.
-- Shouldn't you be at school?
-- I should be studying now.
-
-# 10. Like / Dislikes
+# 7. Like / Dislikes
 
 - I like to watch movies.
 - She likes to read books.
@@ -303,7 +180,7 @@
 - Does her teacher like to work here? / Does her teacher like working here?
 - What do you like to do in your freetime?
 
-# 11. Relative time
+# 8. Relative time
 
 - I worked **last** sunday.
 - She has a meeting **this** afternoon.
@@ -318,13 +195,13 @@
 - I don't like to work **during** the day.
 - I **always** sing while I'm in the shower.
 
-# 13. Do vs Make
+# 9. Do vs Make
 
-## 13.1. Do
+## 9.1. Do
 
-- Work
-- Service
-- Task
+- Work.
+- Service.
+- Task.
   - Examples:
     - Do your homework.
     - He does a dangerous job.
@@ -333,11 +210,11 @@
     - I need to do the dishes.
     - Help me do my hair, please.
 
-## 13.2. Make
+## 9.2. Make
 
-- Build
-- Produce
-- Create
+- Build.
+- Produce.
+- Create.
   - Examples:
     - Omelete is made of eggs.
     - Wine is made from grapes.
@@ -345,14 +222,14 @@
   - You make me happy.
   - Onions make you cry.
 
-# 14. Making assumptions
+# 10. Making assumptions
 
-## 14.1. Comparative
+## 10.1. Comparative
 
 - Comparative adjectives are used to compare differences between the two objects they modify (large, smaller, etc).
 - They are used in sentences where two nouns are compared.
 
-### 14.1.1. Equality
+### 10.1.1. Equality
 
 - Subject + verb + **AS** + adjective + **AS** + object.
 - Examples:
@@ -362,7 +239,7 @@
   - My dog is **as** more prettier **as** my cat.
   - My son is **as** smart **as** his father.
 
-### 14.1.2. Inferiority
+### 10.1.2. Inferiority
 
 - Subject + verb + **less** + adjective + **than** + object.
 - Examples:
@@ -372,7 +249,7 @@
   - Android is **less** intuitive **than** IOs.
   - My sister is **less** smart **than** me.
 
-### 14.1.3. Superiority
+### 10.1.3. Superiority
 
 |                          | Adjective          | Comparative                          |
 | ------------------------ | ------------------ | ------------------------------------ |
@@ -408,11 +285,11 @@
   - Right = more right.
   - Wrong - more wrong.
 
-## 14.2. Superlative
+## 10.2. Superlative
 
 - For comparisons in larger groups, you must use the **superlative**. The superlative designates extremes: The best, the first, the worst, the last, etc.
 
-### 14.2.1. Inferiority
+### 10.2.1. Inferiority
 
 - Subject + verb + **the least** + adjective.
 - Examples:
@@ -421,7 +298,7 @@
   - I am **the least** beautiful of the party.
   - She is **the least** tall of her friends.
 
-### 14.2.2. Superiority
+### 10.2.2. Superiority
 
 |                          | Adjective          | Superlative                                  |
 | ------------------------ | ------------------ | -------------------------------------------- |
@@ -446,7 +323,7 @@
   - "The Matrix" is the **best** movie ever.
   - "Senhora" is the **worst** book I've read.
 
-# 15. Questions words
+# 11. Questions words
 
 - We use question words to ask certain types of questions, expecting specific answers.
 - We often refer to these words as **WH** words because the majority of them include the letters **WH** at the beginning.
@@ -462,7 +339,7 @@
 | Whose | Asking about ownership.                          | Whose are these notebooks?              |
 | How   | Asking about manner / condition / quality.       | How does this game work?                |
 
-## 15.1. Embedded questions
+## 11.1. Embedded questions
 
 - Examples:
   - **Where** has Peter gone?
@@ -488,7 +365,7 @@
   - **What** do you do on Sundays?
     - Tell us what you do on Sundays?
 
-# 16. Irregular verbs
+# 12. Irregular verbs
 
 | Past  | Base form |
 | ----- | --------- |

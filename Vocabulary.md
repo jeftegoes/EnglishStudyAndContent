@@ -13,13 +13,14 @@
   - [3.1. Places in a city](#31-places-in-a-city)
   - [3.2. Places and direction](#32-places-and-direction)
 - [4. Colors](#4-colors)
-- [5. Street directions](#5-street-directions)
-  - [5.1. Main streets](#51-main-streets)
-  - [5.2. Landmarks](#52-landmarks)
-- [6. Family](#6-family)
-  - [6.1. Members of the family](#61-members-of-the-family)
-  - [6.2. Who are these peoples?](#62-who-are-these-peoples)
-- [7. To remenber / memorize](#7-to-remenber--memorize)
+- [5. Directions](#5-directions)
+- [6. Street directions](#6-street-directions)
+  - [6.1. Main streets](#61-main-streets)
+  - [6.2. Landmarks](#62-landmarks)
+- [7. Family](#7-family)
+  - [7.1. Members of the family](#71-members-of-the-family)
+  - [7.2. Who are these peoples?](#72-who-are-these-peoples)
+- [8. To remenber / memorize](#8-to-remenber--memorize)
 
 # 1. Numbers
 
@@ -271,7 +272,25 @@
   - Indigo
   - Violet
 
-# 5. Street directions
+# 5. Directions
+
+- Look **down**.
+- Lay the cards face **up**.
+- Turn to your **left**.
+- The **right** side of the table is dirty.
+- He sits in **front** of me.
+- They shoot from **behind** cover.
+
+![Objects On / Under / Above / Below](Images/ObjectsOnUnderAboveBelow.png)
+
+- **On** and **Under** have contact, **Under** necessarily not.
+- **Above** and **below** don't have contact.
+- Examples:
+  - The book is **on** the table.
+  - The baby is **under** the blankets.
+  - I am **under / below** a tree.
+
+# 6. Street directions
 
 - To get to = Para chegar
 - Possible questions:
@@ -302,23 +321,23 @@
   - Go straight ahead.
   - Turn left/right.
 
-## 5.1. Main streets
+## 6.1. Main streets
 
 - Avenue.
 - Road.
 - Street.
 - Boulevard.
 
-## 5.2. Landmarks
+## 6.2. Landmarks
 
 - Buildings.
 - Bridges.
 - Monuments.
 - Parks.
 
-# 6. Family
+# 7. Family
 
-## 6.1. Members of the family
+## 7.1. Members of the family
 
 - Mother = Mãe.
 - Father = Pai.
@@ -359,7 +378,7 @@
   - How many people are in your family?
     - I have 3 people in my family.
 
-## 6.2. Who are these peoples?
+## 7.2. Who are these peoples?
 
 - My mother's mother is my: Grandmother.
 - My sister's son is my: Nephew.
@@ -376,7 +395,7 @@
 - My brother's wife is my: Sister in law.
 - My wife's brother is my: Brother in law.
 
-# 7. To remenber / memorize
+# 8. To remenber / memorize
 
 - Accomplishes = Realiza
 - As a reminder = Um lembrete
@@ -398,7 +417,6 @@
 - Hunk = pedaço
 - Indeed = na verdade, certamente
 - Lead = liderar / persuadir
-- Must = Deve
 - Already = Já
 - Soon = Breve / Assim que
 - Shelf = Prateleira
@@ -406,12 +424,11 @@
 - Painting = Quadro de pintura
 - Nutshell = Em resumo / Em suma
 - Shift = mudança
-- (Verb) Should = deve
 - Than = que (conjunção)
 - Therefore - Portanto
 - Thought = Pensamento / pensei / reflexão / consideração
 - Throughout = ao longo
-- (Pronoun) Which = que
+- Which (Pronoun) = que
 - Poor = Pobre
 - Bathtub = banheira
 - Bathroom (Usually includes a bathtub or shower) / Restroom = banheiro
@@ -443,6 +460,9 @@
 - Con = Vigarista
 - Hurry = Pressa
 - Advice = Conselho
+- We used = Nós costumavamos
+- Anymore = Não mais
+- I wonder = Eu me pergunto
 - AWS exam...
   - Underutilized = Subutilizada
   - Leading (adj) = Principal
