@@ -441,6 +441,8 @@
 - Meet = Encontrar
 - Met = Conheceu
 - Con = Vigarista
+- Hurry = Pressa
+- Advice = Conselho
 - AWS exam...
   - Underutilized = Subutilizada
   - Leading (adj) = Principal
@@ -499,3 +501,4 @@
   - Further = Avançar
   - Comply = Cumprir
   - Overseas = Em outro continente
+  - Ongoing = Contínua

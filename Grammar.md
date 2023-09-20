@@ -26,7 +26,7 @@
   - [3.2. Present continuous (ING) / Present progressive](#32-present-continuous-ing--present-progressive)
 - [4. Simple past](#4-simple-past)
 - [5. Pronouns](#5-pronouns)
-  - [5.1. Personal and possessives](#51-personal-and-possessives)
+  - [5.1. Types of pronouns](#51-types-of-pronouns)
   - [5.2. Personal](#52-personal)
   - [5.3. Possessive](#53-possessive)
   - [5.4. Possessives 's](#54-possessives-s)
@@ -40,6 +40,15 @@
   - [9.1. In](#91-in)
   - [9.2. At](#92-at)
   - [9.3. On](#93-on)
+- [10. Modal verbs](#10-modal-verbs)
+  - [10.1. Will](#101-will)
+  - [10.2. Would](#102-would)
+  - [10.3. May](#103-may)
+  - [10.4. Might](#104-might)
+  - [10.5. Should](#105-should)
+  - [10.6. Must](#106-must)
+- [11. Question Tag](#11-question-tag)
+- [Relative Pronouns](#relative-pronouns)
 
 # 1. Verb To Be
 
@@ -341,17 +350,23 @@
   - Her + noun + **verb**.
   - His + noun + **verb**.
 
-## 5.1. Personal and possessives
+## 5.1. Types of pronouns
 
-| Subject | Object | Dependent | Independent |
-| ------- | ------ | --------- | ----------- |
-| I       | Me     | My        | Mine        |
-| He      | His    | His       | His         |
-| She     | Her    | Her       | Hers        |
-| It      | It     | Its       | Its         |
-| We      | Us     | Our       | Ours        |
-| You     | You    | Your      | Yours       |
-| They    | Then   | Their     | Theirs      |
+| Subject | Object | Reflexive  | Dependent | Independent |
+| ------- | ------ | ---------- | --------- | ----------- |
+| I       | Me     | Myself     | My        | Mine        |
+| He      | His    | Hinself    | His       | His         |
+| She     | Her    | Herself    | Her       | Hers        |
+| It      | It     | Itself     | Its       | Its         |
+| We      | Us     | Ourselves  | Our       | Ours        |
+| You     | You    | Yourself   | Your      | Yours       |
+| They    | Then   | Themselves | Their     | Theirs      |
+
+- Examples:
+  - I was in a hurry, so I couldn't help **them**.
+  - You're going to have to drive **yourself** to school today.
+  - He wanted to impress **her**, so he baked a cake.
+  - He came to visit **us** tonight, but I told **him** that our children are sick so he should come another tim.
 
 ## 5.2. Personal
 
@@ -421,13 +436,10 @@
 
 # 6. Demonstrative Pronouns
 
-| Singular (Near) | Singular (Far) |
-| --------------- | -------------- |
-| This            | That           |
-
-| Plural (Near) | Plural (Far) |
-| ------------- | ------------ |
-| These         | Those        |
+|       | One thing (singular) | More than one thing (plural) |
+| ----- | -------------------- | ---------------------------- |
+| Close | This                 | These                        |
+| Far   | That                 | Those                        |
 
 - Examples:
   - **This** is my car.
@@ -578,3 +590,71 @@
   - Your money is on your desk.
   - Mike lies on the floor.
   - On Hill Road.
+
+# 10. Modal verbs
+
+- subject + modal verbs + verb + complement.
+
+## 10.1. Will
+
+- Future with no previous plan.
+- Examples:
+  - I **will** sneeze with my eyes open someday.
+  - **Will** you marry me?
+  - I'll have the french fries, please.
+
+## 10.2. Would
+
+- Future from the point of view of the past.
+- Situation that you can imagine happening.
+- Examples:
+  - My car won't start. **Would** you take a look at the engine?
+  - Why **would** he call me?
+
+## 10.3. May
+
+- Formal request.
+- Possibility.
+- Examples:
+  - **May** I come in, Mr. Lee?
+  - You **may** have another cookie if you like.
+
+## 10.4. Might
+
+- Possibility.
+- Examples:
+  - The **might** be at home now.
+  - Tom **might** not be at the meeting tomorrow.
+
+## 10.5. Should
+
+- Advice.
+- Deduction.
+- Examples:
+  - Tom is sleeping. He **should** go to bed.
+  - I can't find Melanie, she **should** be at work by now.
+
+## 10.6. Must
+
+- Obligation.
+- Deduction.
+- Examples:
+  - I **must** finish these papers before midnight (=have to).
+  - Karen broke up with Josh. He **must** be devastated.
+
+# 11. Question Tag
+
+- If the first sentence structure begins with the form **POSITIVE (+)**, the second structure will be **NEGATIVE (-)**, And vice versa.
+- Examples:
+  - You live in an apartment **(+)**, don't you **(-)**?
+  - Her brother doesn't **(-)** work, does he **(+)**?
+  - She's not **(-)** your sister, is she **(+)**?
+  - My wife is **(+)** cleaning the house, isn't **(-)** she?
+  - I'm your teacher **(+)**, am I not? / aren't I **(-)**?
+  - She went to the party **(+)**, didn't she **(-)**?
+  - We are going to watch a movie tonight **(+)**, aren't we **(-)**?
+  - SHe can't **(-)** swim, can she **(+)**?
+  - They couldn't **(-)** finish the test, could they **(+)**?
+  - You met my friend **(+)**, didn't **(-)** you?
+
+# Relative Pronouns
