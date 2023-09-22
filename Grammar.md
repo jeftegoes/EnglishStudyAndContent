@@ -28,8 +28,10 @@
 - [5. Pronouns](#5-pronouns)
   - [5.1. Types of pronouns](#51-types-of-pronouns)
   - [5.2. Personal](#52-personal)
-  - [5.3. Possessive](#53-possessive)
-  - [5.4. Possessives 's](#54-possessives-s)
+  - [5.3. Possessive Adjectives](#53-possessive-adjectives)
+  - [5.4. Possessive Pronouns](#54-possessive-pronouns)
+  - [5.5. Possessives 's](#55-possessives-s)
+  - [5.6. Reflexive Pronouns](#56-reflexive-pronouns)
 - [6. Demonstrative Pronouns](#6-demonstrative-pronouns)
 - [7. Articles](#7-articles)
   - [7.1. Definite](#71-definite)
@@ -42,17 +44,22 @@
   - [9.3. On](#93-on)
 - [10. Can, Could and Be able to](#10-can-could-and-be-able-to)
 - [11. Modal verbs](#11-modal-verbs)
-  - [11.1. Can](#111-can)
-    - [11.1.1. Example with 5 (five) senses](#1111-example-with-5-five-senses)
-  - [11.2. Could](#112-could)
-  - [11.3. Will](#113-will)
-  - [11.4. Would](#114-would)
-  - [11.5. May](#115-may)
-  - [11.6. Might](#116-might)
-  - [11.7. Should](#117-should)
-  - [11.8. Must](#118-must)
-- [12. Question Tag](#12-question-tag)
-- [13. Going To](#13-going-to)
+  - [11.1. General rules](#111-general-rules)
+  - [11.2. Contractions](#112-contractions)
+  - [11.3. Can](#113-can)
+    - [11.3.1. Example with 5 (five) senses](#1131-example-with-5-five-senses)
+  - [11.4. Could](#114-could)
+  - [11.5. Will](#115-will)
+  - [11.6. Would](#116-would)
+  - [11.7. May](#117-may)
+  - [11.8. Might](#118-might)
+  - [11.9. Must](#119-must)
+  - [11.10. Should](#1110-should)
+- [12. Shall](#12-shall)
+- [13. Question Tag](#13-question-tag)
+- [14. Going To](#14-going-to)
+  - [14.1. Will vs Going To](#141-will-vs-going-to)
+- [15. Adjectives](#15-adjectives)
 
 # 1. Verb To Be
 
@@ -349,6 +356,8 @@
 
 # 5. Pronouns
 
+- **Pronoun refers to the subject.**
+- Subject and object are the same.
 - When to use she/he?
   - She + **verb** + noun.
   - He + **verb** + noun.
@@ -358,15 +367,15 @@
 
 ## 5.1. Types of pronouns
 
-| Subject | Object | Reflexive  | Dependent | Independent |
-| ------- | ------ | ---------- | --------- | ----------- |
-| I       | Me     | Myself     | My        | Mine        |
-| He      | His    | Hinself    | His       | His         |
-| She     | Her    | Herself    | Her       | Hers        |
-| It      | It     | Itself     | Its       | Its         |
-| We      | Us     | Ourselves  | Our       | Ours        |
-| You     | You    | Yourself   | Your      | Yours       |
-| They    | Then   | Themselves | Their     | Theirs      |
+| Subject | Object | Reflexive  | Possessive Adjectives | Possessive Pronouns |
+| ------- | ------ | ---------- | --------------------- | ------------------- |
+| I       | Me     | Myself     | My                    | Mine                |
+| He      | Him    | Himself    | His                   | His                 |
+| She     | Her    | Herself    | Her                   | Hers                |
+| It      | It     | Itself     | Its                   | Its                 |
+| We      | Us     | Ourselves  | Our                   | Ours                |
+| You     | You    | Yourself   | Your                  | Yours               |
+| They    | Them   | Themselves | Their                 | Theirs              |
 
 - Examples:
   - I was in a hurry, so I couldn't help **them**.
@@ -378,17 +387,6 @@
 
 - Use the **subject** pronoun when acts as the subject of the clause.
 - Use the **object** pronoun when it is the object of a verb to receive the action.
-
-| Subject | Object |
-| ------- | ------ |
-| I       | Me     |
-| We      | Us     |
-| He      | Hin    |
-| She     | Her    |
-| They    | Them   |
-| You     | You    |
-| It      | It     |
-
 - Examples:
 
   - **I** gave **him** a pen.
@@ -396,11 +394,9 @@
   - **They** took **us** to the park.
   - You helped **them** with homework?
 
-## 5.3. Possessive
+## 5.3. Possessive Adjectives
 
-- Dependent / Independent possessive pronouns:
-  - A dependent possessive pronoun needs to be used with a noun.
-  - An independent possessive does not need a noun (it takes the place of a noun and add possession).
+- A Possessive Adjectives needs to be used with a noun.
 - Example:
   - **My** car is red.
   - **His** house is big.
@@ -410,11 +406,15 @@
   - **Their** t-shirts aren't black.
   - **Your** parents are in the church.
   - This is **my** pen.
-  - Is that bag **hers**.
-  - Which one of these is **yours**?
   - I completely forgot **our** keys.
 
-## 5.4. Possessives 's
+## 5.4. Possessive Pronouns
+
+- A Possessive Pronoun does not need a noun (it takes the place of a noun and add possession).
+- Is that bag **hers**.
+- Which one of these is **yours**?
+
+## 5.5. Possessives 's
 
 - The genitive case is when we add apostrophe S ('s) to show possession, that something belongs to another or a **type of relationship** between things.
 - We normally use the 's with people, animals though it can also be used with places, organizations and companies (which suggest a group of people).
@@ -439,6 +439,43 @@
   - My son's friend is my lawyer.
   - Her boyfriend's mother lives in my building.
   - This is São Paulo's best restaurant.
+
+## 5.6. Reflexive Pronouns
+
+![Reflexive pronoums](Images/ReflexivePronouns.png)
+
+- Examples:
+  - **Singular**
+    - I enjoy **myself**.
+    - You enjoy **yourself**.
+    - He enjoy **himself**.
+    - She enjoy **herself**.
+    - It enjoy **itself**.
+  - **Plural**
+    - We enjoy **ourselves**.
+    - Did You enjoy **yourselves**?
+    - They enjoyed **themselves**.
+- **When to use:**
+
+1. Same subject / object:
+   - I hurt **myself**.
+   - I enjoy **myself**.
+   - He cut **himself**.
+   - She blame **herself**.
+   - They taught **themselves**.
+   - They introduced **themselves** to each other.
+2. Object of a preposition:
+   - I bought a book for **myself**
+   - You please take care of **yourself**
+3. Emphasize something:
+   - I'll carry it **myself**.
+   - I did it **myself**.
+   - She made her father a birthday present all by **herself**.
+
+- **Attention**
+  - INCORRECT -> John and myself are partners.
+  - CORRECT -> John and I are partners.
+  - INCORRECT -> John and me are partners.
 
 # 6. Demonstrative Pronouns
 
@@ -516,7 +553,7 @@
 - Examples:
   - INCORRECT -> I have **a books** in my locker.
   - CORRECT -> I have **books** in my locker.
-  - CORRECT ->I have **the books** in my locker.
+  - CORRECT -> I have **the books** in my locker.
 - It is also unnecessary to use an indefinite article if there is an adjective in front of a plural noun.
 - Examples:
   - INCORRECT -> When he is in public, he does **an embarrassing things**.
@@ -603,7 +640,48 @@
 
 - subject + modal verbs + verb + complement.
 
-## 11.1. Can
+## 11.1. General rules
+
+- These rules apply to the nine modal.
+
+1. Infinitive come after modal verbs but without "to".
+   - Examples:
+     - I **might** eat pizza.
+     - I **can** play football.
+2. Modal verbs take no "S" in the 3re person singular.
+   - Examples:
+     - She **must** leave.
+     - It **may** happen.
+3. Modal verbs do not change their form according to tense.
+4. We use modal verbs in negative sentences like we do other auxiliary verbs (Without the word "do").
+
+- subject + modal verb + not + verb
+- Examples:
+  - You must not eat my food.
+  - I can not speak french.
+
+5. With interrogative phrases, modal verbs are used like other auxiliary verbs.
+
+- modal verb subject + verb
+- Examples:
+  - Can you help me?
+  - Will you let him?
+
+## 11.2. Contractions
+
+- Will -> 'll
+- Would -> 'd
+- Might -> Might not -> Might't
+- Must -> Must not -> Mustn't
+- May -> May not -> (No contraction)
+- Can -> Cannot -> Can't
+- Could -> Could not -> Couldn't
+- Will -> Will not -> Won't
+- Would -> Would not -> Wouldn't
+- Shall -> Shall not -> Shan't
+- Should -> Should not -> Shouldn't
+
+## 11.3. Can
 
 - **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
 
@@ -643,7 +721,7 @@
   - My school isn't far, I **can** walk.
   - The letters are too small. I **can't** read.
 
-### 11.1.1. Example with 5 (five) senses
+### 11.3.1. Example with 5 (five) senses
 
 - Feel
 - Hear
@@ -658,7 +736,7 @@
 - I **can't** remember her name.
 - She **can't** understand this kind of things.
 
-## 11.2. Could
+## 11.4. Could
 
 - Could is also a modal auxiliary verb. Its structure consists on:
 
@@ -697,47 +775,78 @@
     - We be able to see the lake from our hotel.
   - As soon as walked into the room, i **could** smell gas.
 
-## 11.3. Will
+## 11.5. Will
 
 - **When to use:** Future with no previous plan, spontaneous plans decided at the moment of speaking.
 - Examples:
+  - I will **give** money to charity this christmas.
+  - I **will** leave at 7 o'clock.
   - I **will** sneeze with my eyes open someday.
   - **Will** you marry me?
   - I'**ll** have the french fries, please.
   - It **will** rain.
 
-## 11.4. Would
+## 11.6. Would
 
-- **When to use:** Situation that you can imagine happening.
+- **When to use:** Situation that you can imagine happening, polite question, invitations, preferences, desires.
   - Future from the point of view of the past.
 - Examples:
-  - My car won't start. **Would** you take a look at the engine?
+  - **Would** you help me with this?
+  - I **would** like a cup of tea.
+  - **Would** you prefer apples or oranges?
+  - My car won't start.
+    - **Would** you take a look at the engine?
   - Why **would** he call me?
 
-## 11.5. May
+## 11.7. May
 
 - **When to use:** Possibility, formal request, in the past.
 - Examples:
+- The teacher **may** be late today.
+  - **May** I leave now?
   - **May** I come in, Mr. Lee?
   - You **may** have another cookie if you like.
   - It **may** be true.
   - I wonder why kate didn't answer her phone.
     - She **may** have been asleep.
 
-## 11.6. Might
+## 11.8. Might
 
 - **When to use:** Possibility, in the present.
 - Examples:
+  - They **might** be eating lunch.
+  - She **might** give us a discount.
   - The **might** be at home now.
   - Tom **might** not be at the meeting tomorrow.
   - It **might** be true.
   - I can't find my phone anywhere.
     - You **might** have left it at work.
 
-## 11.7. Should
+## 11.9. Must
 
-- **When to use:** Advice or deduction.
+- **When to use:** Obligation, deduction, probability, logical assumption, prohibition.
 - Examples:
+  - She **must** be stuck in traffic.
+  - I **must** finish these papers before midnight (=have to).
+  - I **must** go home right now.
+  - You **must** not smoke here.
+  - Karen broke up with Josh. He **must** be devastated.
+  - My House is near The Motorway.
+    - It **must** be very noisy.
+  - You've been travelling all day. You **must** be tired.
+  - Joe is a hard worker.
+    - Joe? You **must** be joking.
+  - There's nobody at home. They **must** have gone out.
+  - We used to live very near the motorway.
+    - Did you? It **must** have been noisy.
+  - I've lost one of my gloves. I **must** have dropped it somewhere.
+
+## 11.10. Should
+
+- **When to use:** Advice, deduction, recommend, the right thing to do.
+- Examples:
+  - You **should** try this new bar.
+  - We **should** deal with this right now.
   - Tom is sleeping. He **should** go to bed.
   - I can't find Melanie, she **should** be at work by now.
   - I'm pretty sure my neighbour has illegal animals at home.
@@ -757,23 +866,15 @@
   - **Shouldn't** you be at school?
   - I **should** be studying now.
 
-## 11.8. Must
+# 12. Shall
 
-- **When to use:** Obligation or deduction.
+- **When to use:** Offer, confirmation, promises.
 - Examples:
-  - I **must** finish these papers before midnight (=have to).
-  - Karen broke up with Josh. He **must** be devastated.
-  - My House is near The Motorway.
-    - It **must** be very noisy.
-  - You've been travelling all day. You **must** be tired.
-  - Joe is a hard worker.
-    - Joe? You **must** be joking.
-  - There's nobody at home. They **must** have gone out.
-  - We used to live very near the motorway.
-    - Did you? It **must** have been noisy.
-  - I've lost one of my gloves. I **must** have dropped it somewhere.
+  - **Shall** I help you with that?
+  - I **shall** meet you there at midnight.
+  - You **shall** be the first person to know.
 
-# 12. Question Tag
+# 13. Question Tag
 
 - If the first sentence structure begins with the form **POSITIVE (+)**, the second structure will be **NEGATIVE (-)**, And vice versa.
 - Examples:
@@ -788,5 +889,48 @@
   - They couldn't **(-)** finish the test, could they **(+)**?
   - You met my friend **(+)**, didn't **(-)** you?
 
-# 13. Going To
+# 14. Going To
 
+- Plans decided before the moment of speaking.
+- Examples:
+  - I'm **going to** phone Mom after dinner. I told her I'd call at 8pm.
+  - I am **going** to buy bread after school.
+  - She is **going** to watch tv tonight.
+  - They're **going** to play soccer tomorrow.
+  - My friends are not **going to** study for the test.
+  - I am not **going to** join you at lunch today.
+  - There isn't **going to** be a graduation party.
+  - Are you **going to** clean your house?
+  - Is she **going to** play with you?
+  - Am I **going to** need to bring my Id?
+  - Isn't she **going to** help you with that?
+  - Aren't you **going to** travel to Mexico?
+  - What are you **going to** do this weekend?
+
+## 14.1. Will vs Going To
+
+- I'm **going to** buy this game I saw last week.
+- It **will** rain.
+- She will be sick because she hasn't been eating well.
+- I think she **won't (will not)** be at home.
+- The test **won't (will not)** be easy.
+- You will be in trouble.
+- She **won't** like it.
+- **Will** they be here before 11 o'clock am?
+- **Won't** you call him?
+- I **will** throw a party!
+
+# 15. Adjectives
+
+- The adjectives are usually placed **before** the noun that they describe.
+- Examples:
+  - We have good students here.
+  - English is an international language.
+  - He is a Peruvian journalist.
+  - Ugly apartment.
+- In sentences with the **TO BE verb**, we place the adjective **after** the verb.
+- Examples:
+  - Messi is Argentinian.
+  - Shakira is Colombian.
+  - This hotel is very big.
+  - This apartment is nice.

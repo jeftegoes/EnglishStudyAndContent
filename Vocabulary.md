@@ -20,7 +20,8 @@
 - [7. Family](#7-family)
   - [7.1. Members of the family](#71-members-of-the-family)
   - [7.2. Who are these peoples?](#72-who-are-these-peoples)
-- [8. To remenber / memorize](#8-to-remenber--memorize)
+- [8. Travel](#8-travel)
+- [9. To remenber / memorize](#9-to-remenber--memorize)
 
 # 1. Numbers
 
@@ -204,15 +205,19 @@
 - Airport - An **airport** is the place you go when you want to travel by plane to another city or country.
 - Amusement Park - Is a large outdoor area where people can go on rides such as roller coasters and enjoy other entertainment.
 - Bakery - Is a place where you can buy fresh bread and cakes.
-- Bank - Is a place where people deposit or withdraw (take out) money. You can also borrow money from a bank.
+- Bank - Is a place where people deposit or withdraw (take out) money.
+  - You can also borrow money from a bank.
 - Bookstore - A **bookstore** is a place where you can buy books and magazines.
 - Bus station - A **bus station** is the place you go when you want to travel by bus to another place, usually another city.
 - Butcher's - A **butcher's** is a place that sells fresh meat such as steak and sausages.
-- Cafe / Café - A **cafe** is a place where you can buy a cup of coffee or tea and cakes or sandwiches. You normally sit down at a table to have these.
-- Cinema (British) / Movie theater (American) - A **cinema** or **movie theater** is a place where you can see the latest movies. Many people eat popcorn while they watch the movie.
+- Cafe / Café - A **cafe** is a place where you can buy a cup of coffee or tea and cakes or sandwiches.
+  - You normally sit down at a table to have these.
+- Cinema (British) / Movie theater (American) - A **cinema** or **movie theater** is a place where you can see the latest movies.
+  - Many people eat popcorn while they watch the movie.
 - Court - A **court** is a place where civil and criminal cases are presented before a judge.
 - Craft market - A craft market is normally a temporary event or place where people sell typical handmade products of a region or country.
-- Dentist / Dentist's - The **dentist's** (office) is the place where people go to take care of their teeth. Sometimes they have teeth removed or get a filling.
+- Dentist / Dentist's - The **dentist's** (office) is the place where people go to take care of their teeth.
+  - Sometimes they have teeth removed or get a filling.
 - Department store - A **department store** is a large store that sells clothes, household appliances and other goods in different sections or departments.
 - Dry cleaner's - A **dry cleaner's** is a place where you take your clothes to be dry cleaned, which means they are cleaned with chemicals instead of water.
 - Fast food restaurant - A **fast food restaurant** is a place where food is served quickly. Typically you can buy burgers, chicken, or fries.
@@ -228,7 +233,8 @@
 - Hotel - A **hotel** is a place where you pay for a room to sleep in when you visit another city.
 - Library - A **library** is a quiet place where you can read books or borrow books. A **library** has a large collection of books and magazines available. You can also study at a **library**.
 - Museum - A **museum** is a place where people can see many historical objects to learn about the part as well as other items of cultural interest.
-- Park - A **park** is an area of public land in a city that contains an area of grass where you can rest, play or walk your dog. Sometimes a park has a playground for children.
+- Park - A **park** is an area of public land in a city that contains an area of grass where you can rest, play or walk your dog.
+  - Sometimes a park has a playground for children.
 - Car park (British) / Parking lot (American) - A **parking lot** is a place where you can leave your car for a period of time, usually while you go shopping.
 - Per shop / Per store - A **pet shop** is a place where people can buy pets and pet supplies such as pet food.
 - Pharmacy (British) / Drugstore (American) - A **pharmacy** or **drugstore** is a place where you can buy medicine and other health items.
@@ -395,7 +401,22 @@
 - My brother's wife is my: Sister in law.
 - My wife's brother is my: Brother in law.
 
-# 8. To remenber / memorize
+# 8. Travel
+
+- **Accomodations**
+  - Booking (Hotel, Motel, Hostel, B&B) / Reservation (Restaurannt).
+- **Car**
+  - Rent / Hire.
+- **Baggage**
+  - Baggage-check-in, carry-on.
+- Boarding - pass, time, gate, plataform.
+- Visa / Transit Visa.
+- Currency (Money).
+- Vacination / Innoculation.
+- Itinerary / Excursion.
+- Declare / Custom
+
+# 9. To remenber / memorize
 
 - Accomplishes = Realiza
 - As a reminder = Um lembrete
@@ -463,6 +484,18 @@
 - We used = Nós costumavamos
 - Anymore = Não mais
 - I wonder = Eu me pergunto
+- Bring = Trazer
+- Going To = Vou / Indo a
+- Arrangement = Organização / Planejamento?
+- Rent = Alugar
+- Hire = Contratar
+- Diseases = Doenças
+- Let = Deixar
+- Deal (verb) = Tratar / Negociar
+- Deal (noun) = Acordo
+- Hurt = Machucar / Ferir
+- Bought = Comprado
+- Made (adj )= Feito
 - AWS exam...
   - Underutilized = Subutilizada
   - Leading (adj) = Principal

@@ -1,0 +1,34 @@
+<mxfile host="Electron" modified="2023-09-21T23:22:45.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.1 Chrome/112.0.5615.204 Electron/24.6.0 Safari/537.36" etag="-u2FTnF7ui6kIwV9--Yx" version="21.5.1" type="device">
+  <diagram name="Page-1" id="l6zAZxGB9lnI53-IS9UO">
+    <mxGraphModel dx="778" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mjke86piDlk2fOg6fMRR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mjke86piDlk2fOg6fMRR-1" target="mjke86piDlk2fOg6fMRR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mjke86piDlk2fOg6fMRR-1" value="" style="image;html=1;image=img/lib/clip_art/people/Nurse_Woman_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mjke86piDlk2fOg6fMRR-2" value="" style="image;html=1;image=img/lib/clip_art/people/Pilot_Man_Black_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mjke86piDlk2fOg6fMRR-4" value="&lt;span style=&quot;font-weight: normal; font-size: 19px;&quot;&gt;She is looking at &lt;/span&gt;him" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjke86piDlk2fOg6fMRR-7" value="" style="image;html=1;image=img/lib/clip_art/people/Pilot_Man_Black_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="360" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mjke86piDlk2fOg6fMRR-8" value="&lt;span style=&quot;font-weight: normal; font-size: 19px;&quot;&gt;He is looking at &lt;/span&gt;himself" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="205" y="585" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mjke86piDlk2fOg6fMRR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mjke86piDlk2fOg6fMRR-9" target="mjke86piDlk2fOg6fMRR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mjke86piDlk2fOg6fMRR-9" value="" style="image;html=1;image=img/lib/clip_art/people/Pilot_Man_Black_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="200" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

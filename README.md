@@ -7,25 +7,23 @@
 - [3. It / Subjectless](#3-it--subjectless)
 - [4. There + to be (There be)](#4-there--to-be-there-be)
   - [4.1. Contractions](#41-contractions)
-- [5. Adjectives](#5-adjectives)
-- [6. Adverbs of frequency / Habits / Routine](#6-adverbs-of-frequency--habits--routine)
-  - [6.1. Daily routine](#61-daily-routine)
-- [7. Like / Dislikes](#7-like--dislikes)
-- [8. Relative time](#8-relative-time)
-- [9. Do vs Make](#9-do-vs-make)
-  - [9.1. Do](#91-do)
-  - [9.2. Make](#92-make)
-- [10. Making assumptions](#10-making-assumptions)
-  - [10.1. Comparative](#101-comparative)
-    - [10.1.1. Equality](#1011-equality)
-    - [10.1.2. Inferiority](#1012-inferiority)
-    - [10.1.3. Superiority](#1013-superiority)
-  - [10.2. Superlative](#102-superlative)
-    - [10.2.1. Inferiority](#1021-inferiority)
-    - [10.2.2. Superiority](#1022-superiority)
-- [11. Questions words](#11-questions-words)
-  - [11.1. Embedded questions](#111-embedded-questions)
-- [12. Irregular verbs](#12-irregular-verbs)
+- [5. Adverbs of frequency / Habits / Routine](#5-adverbs-of-frequency--habits--routine)
+  - [5.1. Daily routine](#51-daily-routine)
+- [6. Like / Dislikes](#6-like--dislikes)
+- [7. Relative time](#7-relative-time)
+- [8. Do vs Make](#8-do-vs-make)
+  - [8.1. Do](#81-do)
+  - [8.2. Make](#82-make)
+- [9. Making assumptions](#9-making-assumptions)
+  - [9.1. Comparative](#91-comparative)
+    - [9.1.1. Equality](#911-equality)
+    - [9.1.2. Inferiority](#912-inferiority)
+    - [9.1.3. Superiority](#913-superiority)
+  - [9.2. Superlative](#92-superlative)
+    - [9.2.1. Inferiority](#921-inferiority)
+    - [9.2.2. Superiority](#922-superiority)
+- [10. Questions words](#10-questions-words)
+  - [10.1. Embedded questions](#101-embedded-questions)
 
 # 1. Speeling
 
@@ -101,22 +99,7 @@
 - There is -> There's
 - There are -> XXXXXXX
 
-# 5. Adjectives
-
-- The adjectives are usually placed **before** the noun that they describe.
-- Examples:
-  - We have good students here.
-  - English is an international language.
-  - He is a Peruvian journalist.
-  - Ugly apartment.
-- In sentences with the **TO BE verb**, we place the adjective **after** the verb.
-- Examples:
-  - Messi is Argentinian.
-  - Shakira is Colombian.
-  - This hotel is very big.
-  - This apartment is nice.
-
-# 6. Adverbs of frequency / Habits / Routine
+# 5. Adverbs of frequency / Habits / Routine
 
 - An adverb of frequency describes how often an action happens. There are six main adverbs of frequency that we use in English: always, usually (or normally), often, sometimes, rarely, and never.
 - Adverbs:
@@ -149,7 +132,7 @@
   - Sometimes she does her homework with friends.
   - Usually they study on their own.
 
-## 6.1. Daily routine
+## 5.1. Daily routine
 
 - What time do you go to bed?
   - I go to bed at 10 pm.
@@ -169,7 +152,7 @@
   - Go to work/college.
   - Study / Read.
 
-# 7. Like / Dislikes
+# 6. Like / Dislikes
 
 - I like to watch movies.
 - She likes to read books.
@@ -180,7 +163,7 @@
 - Does her teacher like to work here? / Does her teacher like working here?
 - What do you like to do in your freetime?
 
-# 8. Relative time
+# 7. Relative time
 
 - I worked **last** sunday.
 - She has a meeting **this** afternoon.
@@ -195,9 +178,9 @@
 - I don't like to work **during** the day.
 - I **always** sing while I'm in the shower.
 
-# 9. Do vs Make
+# 8. Do vs Make
 
-## 9.1. Do
+## 8.1. Do
 
 - Work.
 - Service.
@@ -210,7 +193,7 @@
     - I need to do the dishes.
     - Help me do my hair, please.
 
-## 9.2. Make
+## 8.2. Make
 
 - Build.
 - Produce.
@@ -222,14 +205,14 @@
   - You make me happy.
   - Onions make you cry.
 
-# 10. Making assumptions
+# 9. Making assumptions
 
-## 10.1. Comparative
+## 9.1. Comparative
 
 - Comparative adjectives are used to compare differences between the two objects they modify (large, smaller, etc).
 - They are used in sentences where two nouns are compared.
 
-### 10.1.1. Equality
+### 9.1.1. Equality
 
 - Subject + verb + **AS** + adjective + **AS** + object.
 - Examples:
@@ -239,7 +222,7 @@
   - My dog is **as** more prettier **as** my cat.
   - My son is **as** smart **as** his father.
 
-### 10.1.2. Inferiority
+### 9.1.2. Inferiority
 
 - Subject + verb + **less** + adjective + **than** + object.
 - Examples:
@@ -249,7 +232,7 @@
   - Android is **less** intuitive **than** IOs.
   - My sister is **less** smart **than** me.
 
-### 10.1.3. Superiority
+### 9.1.3. Superiority
 
 |                          | Adjective          | Comparative                          |
 | ------------------------ | ------------------ | ------------------------------------ |
@@ -285,11 +268,11 @@
   - Right = more right.
   - Wrong - more wrong.
 
-## 10.2. Superlative
+## 9.2. Superlative
 
 - For comparisons in larger groups, you must use the **superlative**. The superlative designates extremes: The best, the first, the worst, the last, etc.
 
-### 10.2.1. Inferiority
+### 9.2.1. Inferiority
 
 - Subject + verb + **the least** + adjective.
 - Examples:
@@ -298,7 +281,7 @@
   - I am **the least** beautiful of the party.
   - She is **the least** tall of her friends.
 
-### 10.2.2. Superiority
+### 9.2.2. Superiority
 
 |                          | Adjective          | Superlative                                  |
 | ------------------------ | ------------------ | -------------------------------------------- |
@@ -323,7 +306,7 @@
   - "The Matrix" is the **best** movie ever.
   - "Senhora" is the **worst** book I've read.
 
-# 11. Questions words
+# 10. Questions words
 
 - We use question words to ask certain types of questions, expecting specific answers.
 - We often refer to these words as **WH** words because the majority of them include the letters **WH** at the beginning.
@@ -339,7 +322,7 @@
 | Whose | Asking about ownership.                          | Whose are these notebooks?              |
 | How   | Asking about manner / condition / quality.       | How does this game work?                |
 
-## 11.1. Embedded questions
+## 10.1. Embedded questions
 
 - Examples:
   - **Where** has Peter gone?
@@ -364,16 +347,3 @@
     - Please explain what you mean.
   - **What** do you do on Sundays?
     - Tell us what you do on Sundays?
-
-# 12. Irregular verbs
-
-| Past  | Base form |
-| ----- | --------- |
-| Could | Can       |
-| Ate   | Eat       |
-| Had   | Have/Has  |
-| Did   | Do        |
-| Knew  | Know      |
-| Gave  | Give      |
-| Told  | Tell      |
-| Took  | Take      |
