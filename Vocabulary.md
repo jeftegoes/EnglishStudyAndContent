@@ -21,7 +21,9 @@
   - [7.1. Members of the family](#71-members-of-the-family)
   - [7.2. Who are these peoples?](#72-who-are-these-peoples)
 - [8. Travel](#8-travel)
-- [9. To remenber / memorize](#9-to-remenber--memorize)
+- [9. Hotel facilities](#9-hotel-facilities)
+  - [9.1. Staying at a hotel](#91-staying-at-a-hotel)
+- [10. To remenber / memorize](#10-to-remenber--memorize)
 
 # 1. Numbers
 
@@ -414,144 +416,186 @@
 - Currency (Money).
 - Vacination / Innoculation.
 - Itinerary / Excursion.
-- Declare / Custom
+- Declare / Custom.
 
-# 9. To remenber / memorize
+# 9. Hotel facilities
 
+- Staff:
+  - Valet.
+  - Doorman.
+  - Porter.
+  - Concierge.
+  - Housekeeping (maid).
+  - Porter.
+  - Bellhop.
+  - Front desk / reception / check-in/o ut / Lobby.
+- Spaces:
+  - Room.
+  - Suite / Kitchenette.
+  - Adjoining rooms.
+- Places:
+  - Hostel.
+  - Model.
+  - B&B (Bed & Breakfast).
+- Items:
+  - Double bed.
+  - Single bed.
+  - Toilet paper.
+  - Blanket.
+  - Pillow.
+  - Twin beds.
+  - Soap.
+  - Towels.
+
+## 9.1. Staying at a hotel
+
+- Person A: Hello, I'd like to check in/out.
+  - Person B: Do you have a reservation?
+- Person A: Yes, it's under Goes, Jefté.
+  - Person B: Ok, How long will you be staying? Many nights?
+- Person A: Five nights.
+  - Person B: I'm afraid we have no vacancies.
+  - Person B: I'm afraid we are at maximum capacity.
+  - Person B: I'm afraid we are all booked / full.
+
+# 10. To remenber / memorize
+
+- Abroad = Fora de casa / No Exterior / Fora do país
 - Accomplishes = Realiza
+- Advice = Conselho
+- Already = Já
+- Anthem = Hino
+- Anymore = Não mais
+- Arrangement = Organização / Planejamento?
 - As a reminder = Um lembrete
+- As soon as = Assim que
 - Assessment = Avaliação
+- Bathroom (Usually includes a bathtub or shower) / Restroom = banheiro
+- Bathtub = banheira
+- Beet = Beterraba
+- Bit = Pedaço
+- Bite = Morder
+- Blender = Liquidificador
+- Bought = Comprado
+- Bring = Trazer
 - Broker = Agente / Negociador / Intermediário
+- Bundle = agrupar
 - Ceiling = Teto
+- Chin = Queixo
+- Con = Vigarista
 - Concern = Preocupação
 - Dangling = Pendurado/pendente
+- Deal (noun) = Acordo
+- Deal (verb) = Tratar / Negociar
+- Diseases = Doenças
+- Drawer = Gaveta
 - Edge = Borda / aresta
 - Exchange = Troca / cambio
-- Wardrobe = Armário
-- Blender = Liquidificador
-- Tile = Azulejo
-- Drawer = Gaveta
-- Microwave oven = Micro ondas
-- Sink = Pia
 - Glag = Alegre
-- Tap = Torneira
+- Going To = Vou / Indo a
+- Hip = Quadril
+- Hire = Contratar
+- Hop = Saltar
 - Hunk = pedaço
+- Hurry = Pressa
+- Hurt = Machucar / Ferir
+- I wonder = Eu me pergunto
 - Indeed = na verdade, certamente
+- Lays = Coloca
 - Lead = liderar / persuadir
-- Already = Já
-- Soon = Breve / Assim que
-- Shelf = Prateleira
-- Toilet seat = Vaso sanitário
-- Painting = Quadro de pintura
+- Let = Deixar
+- Made (adj )= Feito
+- Manner = Maneira
+- Meal = Refeição
+- Meet = Encontrar
+- Met = Conheceu
+- Microwave oven = Micro ondas
+- Mood = Humor
+- Mud = Lama
 - Nutshell = Em resumo / Em suma
+- Painting = Quadro de pintura
+- Pan = Frigideira / Panela
+- Pat = Tapinha
+- Poor = Pobre
+- Postpone = Postergar
+- Prevail = Prevalecer
+- Rays = Raios
+- Rent = Alugar
+- Sake = Interesse
+- Shelf = Prateleira
 - Shift = mudança
+- Shin = Canela
+- Sink = Pia
+- Soon = Breve / Assim que
+- Tap = Torneira
 - Than = que (conjunção)
 - Therefore - Portanto
 - Thought = Pensamento / pensei / reflexão / consideração
 - Throughout = ao longo
-- Which (Pronoun) = que
-- Poor = Pobre
-- Bathtub = banheira
-- Bathroom (Usually includes a bathtub or shower) / Restroom = banheiro
-- Bundle = agrupar
-- As soon as = Assim que
-- Waiter = Garçon
+- Tile = Azulejo
 - Tin = Lata
-- Hop = Saltar
-- Hip = Quadril
-- Mood = Humor
-- Mud = Lama
-- Sake = Interesse
-- Pat = Tapinha
-- Postpone = Postergar
-- Manner = Maneira
-- Shin = Canela
-- Chin = Queixo
-- Pan = Frigideira / Panela
-- Rays = Raios
-- Lays = Coloca
-- Beet = Beterraba
-- Bit = Pedaço
-- Bite = Morder
-- Anthem = Hino
-- Prevail = Prevalecer
+- Toilet seat = Vaso sanitário
 - Visa = Visto
-- Meet = Encontrar
-- Met = Conheceu
-- Con = Vigarista
-- Hurry = Pressa
-- Advice = Conselho
+- Waiter = Garçon
+- Wardrobe = Armário
 - We used = Nós costumavamos
-- Anymore = Não mais
-- I wonder = Eu me pergunto
-- Bring = Trazer
-- Going To = Vou / Indo a
-- Arrangement = Organização / Planejamento?
-- Rent = Alugar
-- Hire = Contratar
-- Diseases = Doenças
-- Let = Deixar
-- Deal (verb) = Tratar / Negociar
-- Deal (noun) = Acordo
-- Hurt = Machucar / Ferir
-- Bought = Comprado
-- Made (adj )= Feito
+- Which (Pronoun) = que
 - AWS exam...
-  - Underutilized = Subutilizada
-  - Leading (adj) = Principal
-  - Several = Diversos
-  - Tampered = Adulterado
-  - Suitable = Adequado
-  - Comprises = Compreende
-  - Over (adv) = Acima de
-  - Within (adv) = Dentro de
+  - **Upon checking** = Ao verificar
+  - Enforced = Aplicada
+  - Example: Enable the built-in **noun** notification feature = Habilite o recurso integrado de notificação do Trusted Advisor.
+  - Insurance firm = Seguradora
   - **In charge** = No comando
-  - Unpredictable = Imprevisível
-  - Incoming = Entrada
-  - Outcoming = Saída
-  - Upon = Sobre
-    - **Upon checking** = Ao verificar
-  - As well (adv) = Também
-  - Gathering = Reunião
-  - Outage = Interrupção
-  - Rectify = Retificar
-  - Among = Entre
-  - Insurance = Seguro
-    - Insurance firm = Seguradora
-  - Utmost (adj) = Máximo
-  - Ensure = Garantir
-  - Whenever = Em qualquer momento
-  - Relies = Depende
-  - Built-in (adj) = Construídas em
-    - Example: Enable the built-in **noun** notification feature = Habilite o recurso integrado de notificação do Trusted Advisor.
-  - Although = Embora
-  - Though = No entanto
-  - Thought = Pensamento
-  - Whether (conj) = Se
-  - Invaluable (adj) = Inestimável
-  - Assert = Afirma
-  - Signs = Sinaliza
-  - Even = Mesmo / Até
-  - Hence = Por isso
-  - Herculean = Hercúlea (Extremamente trabalhoso)
-  - Desire(s) = Desejo(s)
-  - Appliance = Dispositivo / Utensílio
-  - Assign = Atribuir
-  - Entails / Implies = Implica
-  - Premise (noun) = Local / Premissa
-  - Reliability = Confiabilidade
-  - Seldom (adv) = Raramente
-  - Whole = Todo
   - Afterward = Depois
-  - Enforce = Aplicar
-    - Enforced = Aplicada
-  - Retail = Varejo
-  - Resemble = assemelhar-se
-  - Reliable (adj) = Confiável
-  - Unreachable = Inacessível
+  - Although = Embora
+  - Among = Entre
+  - Appliance = Dispositivo / Utensílio
+  - As well (adv) = Também
+  - Assert = Afirma
+  - Assign = Atribuir
   - Breach (noun) = Violação
+  - Built-in (adj) = Construídas em
+  - Comply = Cumprir
+  - Comprises = Compreende
+  - Desire(s) = Desejo(s)
+  - Enforce = Aplicar
+  - Ensure = Garantir
+  - Entails / Implies = Implica
+  - Even = Mesmo / Até
   - Flagship = Carro chefe
   - Further = Avançar
-  - Comply = Cumprir
-  - Overseas = Em outro continente
+  - Gathering = Reunião
+  - Hence = Por isso
+  - Herculean = Hercúlea (Extremamente trabalhoso)
+  - Incoming = Entrada
+  - Insurance = Seguro
+  - Invaluable (adj) = Inestimável
+  - Leading (adj) = Principal
   - Ongoing = Contínua
+  - Outage = Interrupção
+  - Outcoming = Saída
+  - Over (adv) = Acima de
+  - Overseas = Em outro continente
+  - Premise (noun) = Local / Premissa
+  - Rectify = Retificar
+  - Reliability = Confiabilidade
+  - Reliable (adj) = Confiável
+  - Relies = Depende
+  - Resemble = assemelhar-se
+  - Retail = Varejo
+  - Seldom (adv) = Raramente
+  - Several = Diversos
+  - Signs = Sinaliza
+  - Suitable = Adequado
+  - Tampered = Adulterado
+  - Though = No entanto
+  - Thought = Pensamento
+  - Underutilized = Subutilizada
+  - Unpredictable = Imprevisível
+  - Unreachable = Inacessível
+  - Upon = Sobre
+  - Utmost (adj) = Máximo
+  - Whenever = Em qualquer momento
+  - Whether (conj) = Se
+  - Whole = Todo
+  - Within (adv) = Dentro de
