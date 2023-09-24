@@ -465,6 +465,7 @@
 - Advice = Conselho
 - Already = Já
 - Anthem = Hino
+- Annoy (verb) = Irritar
 - Anymore = Não mais
 - Arrangement = Organização / Planejamento?
 - As a reminder = Um lembrete
@@ -491,6 +492,7 @@
 - Drawer = Gaveta
 - Edge = Borda / aresta
 - Exchange = Troca / cambio
+- Get home = Chegar em casa
 - Glag = Alegre
 - Going To = Vou / Indo a
 - Hip = Quadril

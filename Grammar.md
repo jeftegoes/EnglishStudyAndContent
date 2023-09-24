@@ -35,6 +35,8 @@
     - [5.2.1. Inferiority](#521-inferiority)
     - [5.2.2. Superiority](#522-superiority)
 - [6. Past simple](#6-past-simple)
+  - [6.1. Regular Verbs](#61-regular-verbs)
+  - [6.2. Irregular Verbs](#62-irregular-verbs)
 - [7. Pronouns](#7-pronouns)
   - [7.1. Types of pronouns](#71-types-of-pronouns)
   - [7.2. Personal](#72-personal)
@@ -70,6 +72,8 @@
 - [16. Going To](#16-going-to)
   - [16.1. Will vs Going To](#161-will-vs-going-to)
 - [17. Adjectives](#17-adjectives)
+  - [17.1. Passive (action)(ed)](#171-passive-actioned)
+  - [17.2. Active (cause)(ing)](#172-active-causeing)
 
 # 1. Verb To Be
 
@@ -500,7 +504,8 @@
 
 # 6. Past simple
 
-- The past simple is a verb tense that is used to talk about things that happened or existed before now. The past simple tense emphasizes that the action is finished.
+- The **Past Simple** is a verb tense that is used to talk about things that happened or existed before now.
+- The **Past Simple** tense emphasizes that the action is finished.
 
 |               | Regular Verbs              | Irregular Verbs            |
 | ------------- | -------------------------- | -------------------------- |
@@ -514,8 +519,52 @@
   - **Did** you **live** abroad last year?
   - When **did** you **meet** your husband?
   - We **didn't** to **go** Germany this spring.
-  - My cousing **didn't** **get** home until very late last night.
+  - My cousin **didn't** **get** home until very late last night.
   - She **didn't** **see** us yesterday.
+- It's more common to used **Past Simple** with **Time Expressions**.
+- Time Expressions:
+  - Last week.
+  - When I was a child.
+  - When I was **\_\_**.
+  - yesterday.
+  - **\_\_** weeks ago.
+  - A while agora.
+  - The other day.
+  - Ages ago.
+  - A long time ago.
+- We usually make the positive by adding **-ed** to the infinitive.
+- However, there are some **Irregular Verbs**, where the original verb can become a completely different word.
+
+## 6.1. Regular Verbs
+
+| Regular Verbs |          |
+| ------------- | -------- |
+| ask           | asked    |
+| answer        | answered |
+| borrow        | borrowed |
+| clean         | cleaned  |
+| decide        | decided  |
+| learn         | learned  |
+| listen        | listened |
+| open          | opened   |
+| work          | worked   |
+| study         | studied  |
+| watch         | watched  |
+| need          | needed   |
+
+## 6.2. Irregular Verbs
+
+| Irregular verbs |         | Irregular verbs |        | Irregular verbs |         |
+| --------------- | ------- | --------------- | ------ | --------------- | ------- |
+| break           | broke   | feel            | felt   | say             | said    |
+| bring           | brought | find            | found  | sit             | sat     |
+| buy             | bought  | go              | went   | speak           | spoke   |
+| choose          | chose   | have            | had    | spend           | spent   |
+| come            | came    | know            | knew   | tell            | told    |
+| do              | did     | meet            | met    | think           | thought |
+| drive           | drove   | pay             | paid   | wear            | wore    |
+| eat             | ate     | run             | ran    | write           | wrote   |
+| sleep           | slept   | teach           | taught | hurt            | hurt    |
 
 # 7. Pronouns
 
@@ -948,6 +997,8 @@
   - **Will** you marry me?
   - I'**ll** have the french fries, please.
   - It **will** rain.
+  - **Will** he be here tomorrow?
+  - Will she get angry?
 
 ## 13.6. Would
 
@@ -1097,3 +1148,21 @@
   - Shakira is Colombian.
   - This hotel is very big.
   - This apartment is nice.
+
+## 17.1. Passive (action)(ed)
+
+- Express that someone or something experiences this effect.
+- Examples:
+  - Interested
+  - Excited
+  - Bored
+
+## 17.2. Active (cause)(ing)
+
+- Express the idea that someone or something causes a certain effect.
+- Examples:
+  - Interesting
+  - Exciting
+  - Boring
+  - Amazing
+  - Amazed
