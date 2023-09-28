@@ -502,11 +502,11 @@
 - Hurry = Pressa
 - Hurt = Machucar / Ferir
 - I wonder = Eu me pergunto
-- Indeed = na verdade, certamente
+- Indeed = Na verdade, certamente / De fato
 - Lays = Coloca
-- Lead = liderar / persuadir
+- Lead = Liderar / Persuadir
 - Let = Deixar
-- Made (adj )= Feito
+- Made (adj) = Feito
 - Manner = Maneira
 - Meal = Refeição
 - Meet = Encontrar
@@ -542,6 +542,16 @@
 - Wardrobe = Armário
 - We used = Nós costumavamos
 - Which (Pronoun) = que
+- Witness = Testemunha
+- Grievous = Grave
+- Guilt = Culpa
+- Carved = Esculpido
+- Bleed = Sangrar
+- Wounds = Ferimentos
+- Flea = Pulga
+- Forgotten = Esquecido
+- Burial = Enterro
+- Melt = Derretido
 - AWS exam...
   - **Upon checking** = Ao verificar
   - Enforced = Aplicada
