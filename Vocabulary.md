@@ -575,6 +575,7 @@
   - Entails / Implies = Implica
   - Even = Mesmo / Até
   - Flagship = Carro chefe
+  - From scratch = Do princípio
   - Further = Avançar
   - Gathering = Reunião
   - Hence = Por isso
@@ -583,6 +584,7 @@
   - Insurance = Seguro
   - Invaluable (adj) = Inestimável
   - Leading (adj) = Principal
+  - Moreover - Além disso
   - Ongoing = Contínua
   - Outage = Interrupção
   - Outcoming = Saída
@@ -595,9 +597,11 @@
   - Relies = Depende
   - Resemble = assemelhar-se
   - Retail = Varejo
+  - Right after = Logo depois
   - Seldom (adv) = Raramente
   - Several = Diversos
   - Signs = Sinaliza
+  - Sponsor = Patrocinador
   - Suitable = Adequado
   - Tampered = Adulterado
   - Though = No entanto
