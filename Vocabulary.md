@@ -470,7 +470,6 @@
 - Arrangement = Organização / Planejamento?
 - As a reminder = Um lembrete
 - As soon as = Assim que
-- Assessment = Avaliação
 - Bathroom (Usually includes a bathtub or shower) / Restroom = banheiro
 - Bathtub = banheira
 - Beet = Beterraba
@@ -560,9 +559,12 @@
   - **In charge** = No comando
   - Afterward = Depois
   - Although = Embora
+  - Assets = Ativos
+  - Assessment = Avaliação
   - Among = Entre
   - Appliance = Dispositivo / Utensílio
   - As well (adv) = Também
+  - As well as (conj) = Assim como
   - Assert = Afirma
   - Assign = Atribuir
   - Breach (noun) = Violação
@@ -591,6 +593,7 @@
   - Over (adv) = Acima de
   - Overseas = Em outro continente
   - Premise (noun) = Local / Premissa
+  - Prone = Propenso
   - Rectify = Retificar
   - Reliability = Confiabilidade
   - Reliable (adj) = Confiável
@@ -613,5 +616,6 @@
   - Utmost (adj) = Máximo
   - Whenever = Em qualquer momento
   - Whether (conj) = Se
+  - Wherein = Em que
   - Whole = Todo
   - Within (adv) = Dentro de
