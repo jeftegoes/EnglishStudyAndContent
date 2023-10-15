@@ -19,61 +19,60 @@
   - [2.2. Negative](#22-negative)
   - [2.3. Question](#23-question)
   - [2.4. Question with negative](#24-question-with-negative)
-  - [2.5. Irregular verbs](#25-irregular-verbs)
 - [3. Present and Past Continuous](#3-present-and-past-continuous)
   - [3.1. Past continuous (ING) / Past progressive](#31-past-continuous-ing--past-progressive)
     - [3.1.1. Negative](#311-negative)
   - [3.2. Present continuous (ING) / Present progressive](#32-present-continuous-ing--present-progressive)
-- [4. There + to be (There be)](#4-there--to-be-there-be)
-  - [4.1. Contractions](#41-contractions)
-- [5. Making assumptions](#5-making-assumptions)
-  - [5.1. Comparative](#51-comparative)
-    - [5.1.1. Equality](#511-equality)
-    - [5.1.2. Inferiority](#512-inferiority)
-    - [5.1.3. Superiority](#513-superiority)
-  - [5.2. Superlative](#52-superlative)
-    - [5.2.1. Inferiority](#521-inferiority)
-    - [5.2.2. Superiority](#522-superiority)
-- [6. Past simple](#6-past-simple)
-  - [6.1. Regular Verbs](#61-regular-verbs)
-  - [6.2. Irregular Verbs](#62-irregular-verbs)
-- [7. Pronouns](#7-pronouns)
-  - [7.1. Types of pronouns](#71-types-of-pronouns)
-  - [7.2. Personal](#72-personal)
-  - [7.3. Possessive Adjectives](#73-possessive-adjectives)
-  - [7.4. Possessive Pronouns](#74-possessive-pronouns)
-  - [7.5. Possessives 's](#75-possessives-s)
-  - [7.6. Reflexive Pronouns](#76-reflexive-pronouns)
-- [8. Demonstrative Pronouns](#8-demonstrative-pronouns)
-- [9. Articles](#9-articles)
-  - [9.1. Definite](#91-definite)
-  - [9.2. Indefinite](#92-indefinite)
-  - [9.3. Rules](#93-rules)
-- [10. Preposition of Time](#10-preposition-of-time)
-- [11. Preposition of Place](#11-preposition-of-place)
-  - [11.1. In](#111-in)
-  - [11.2. At](#112-at)
-  - [11.3. On](#113-on)
-- [12. Can, Could and Be able to](#12-can-could-and-be-able-to)
-- [13. Modal verbs](#13-modal-verbs)
-  - [13.1. General rules](#131-general-rules)
-  - [13.2. Contractions](#132-contractions)
-  - [13.3. Can](#133-can)
-    - [13.3.1. Example with 5 (five) senses](#1331-example-with-5-five-senses)
-  - [13.4. Could](#134-could)
-  - [13.5. Will](#135-will)
-  - [13.6. Would](#136-would)
-  - [13.7. May](#137-may)
-  - [13.8. Might](#138-might)
-  - [13.9. Must](#139-must)
-  - [13.10. Should](#1310-should)
-- [14. Shall](#14-shall)
-- [15. Question Tag](#15-question-tag)
-- [16. Going To](#16-going-to)
-  - [16.1. Will vs Going To](#161-will-vs-going-to)
-- [17. Adjectives](#17-adjectives)
-  - [17.1. Passive (action)(ed)](#171-passive-actioned)
-  - [17.2. Active (cause)(ing)](#172-active-causeing)
+- [4. Present perfect](#4-present-perfect)
+- [5. There + to be (There be)](#5-there--to-be-there-be)
+  - [5.1. Contractions](#51-contractions)
+- [6. Making assumptions](#6-making-assumptions)
+  - [6.1. Comparative](#61-comparative)
+    - [6.1.1. Equality](#611-equality)
+    - [6.1.2. Inferiority](#612-inferiority)
+    - [6.1.3. Superiority](#613-superiority)
+  - [6.2. Superlative](#62-superlative)
+    - [6.2.1. Inferiority](#621-inferiority)
+    - [6.2.2. Superiority](#622-superiority)
+- [7. Past simple](#7-past-simple)
+  - [7.1. List Regular, Irregular \& Past Participle](#71-list-regular-irregular--past-participle)
+- [8. Pronouns](#8-pronouns)
+  - [8.1. Types of pronouns](#81-types-of-pronouns)
+  - [8.2. Personal](#82-personal)
+  - [8.3. Possessive Adjectives](#83-possessive-adjectives)
+  - [8.4. Possessive Pronouns](#84-possessive-pronouns)
+  - [8.5. Possessives 's](#85-possessives-s)
+  - [8.6. Reflexive Pronouns](#86-reflexive-pronouns)
+- [9. Demonstrative Pronouns](#9-demonstrative-pronouns)
+- [10. Articles](#10-articles)
+  - [10.1. Definite](#101-definite)
+  - [10.2. Indefinite](#102-indefinite)
+  - [10.3. Rules](#103-rules)
+- [11. Preposition of Time](#11-preposition-of-time)
+- [12. Preposition of Place](#12-preposition-of-place)
+  - [12.1. In](#121-in)
+  - [12.2. At](#122-at)
+  - [12.3. On](#123-on)
+- [13. Can, Could and Be able to](#13-can-could-and-be-able-to)
+- [14. Modal verbs](#14-modal-verbs)
+  - [14.1. General rules](#141-general-rules)
+  - [14.2. Contractions](#142-contractions)
+  - [14.3. Can](#143-can)
+    - [14.3.1. Example with 5 (five) senses](#1431-example-with-5-five-senses)
+  - [14.4. Could](#144-could)
+  - [14.5. Will](#145-will)
+  - [14.6. Would](#146-would)
+  - [14.7. May](#147-may)
+  - [14.8. Might](#148-might)
+  - [14.9. Must](#149-must)
+  - [14.10. Should](#1410-should)
+- [15. Shall](#15-shall)
+- [16. Question Tag](#16-question-tag)
+- [17. Going To](#17-going-to)
+  - [17.1. Will vs Going To](#171-will-vs-going-to)
+- [18. Adjectives](#18-adjectives)
+  - [18.1. Passive (action)(ed)](#181-passive-actioned)
+  - [18.2. Active (cause)(ing)](#182-active-causeing)
 
 # 1. Verb To Be
 
@@ -308,12 +307,6 @@
 - Don't they live there?
 - Don't we need our documents?
 
-## 2.5. Irregular verbs
-
-- Go -> Goes
-- Do -> Does.
-- Have -> Has.
-
 # 3. Present and Past Continuous
 
 - Used when the plan is arrangement.
@@ -366,7 +359,30 @@
   - Is it raining?
     - Yes, it is / No, It isn't.
 
-# 4. There + to be (There be)
+# 4. Present perfect
+
+| Past simple                                        | Present perfect                                               |
+| -------------------------------------------------- | ------------------------------------------------------------- |
+| a) Subject + regular verb (past) + object.         | a) Subject + has/have + regular verb (past) + object.         |
+| b) Subject + irregular verb + object.              | a) Subject + has/have + irregular verb (participle) + object. |
+| **Express finished**                               | **Express unfinished time**                                   |
+| We live in Japan from 1995 to 1998.                | We have lived in Japan since 1995.                            |
+| **Refer to definite time**                         | **Refer to indefinite time**                                  |
+| I saw the Eiffel Tower in 2017.                    | Julia has seen the Eiffel Toweer.                             |
+| **Indicates series of finished actions**           | **Express experience or result**                              |
+| First, he read the book then he watched the movie. | She has already watched this movie 3 times.                   |
+
+- Example comparing Past Simple with Present Perfect:
+  - Past Simple: I lost my keys.
+  - Present Perfect: I have lost my keys.
+  - Past Simple: I bought a car.
+  - Present Perfect: I've bought a car.
+- Example only with Present Perfect:
+  - I haven't watched lord of the rings.
+  - She has gone to france.
+  - He hasn't gone to the bank yet.
+
+# 5. There + to be (There be)
 
 - To say that somenthing exists (or does not exist):
   | | Affirmative | Negative | Interrogative |
@@ -396,19 +412,19 @@
   - There were many people at the party, I couldn't see Carol.
   - There's a good song on the radio.
 
-## 4.1. Contractions
+## 5.1. Contractions
 
 - There is -> There's
 - There are -> XXXXXXX
 
-# 5. Making assumptions
+# 6. Making assumptions
 
-## 5.1. Comparative
+## 6.1. Comparative
 
 - Comparative adjectives are used to compare differences between the two objects they modify (large, smaller, etc).
 - They are used in sentences where two nouns are compared.
 
-### 5.1.1. Equality
+### 6.1.1. Equality
 
 - Subject + verb + **AS** + adjective + **AS** + object.
 - Examples:
@@ -418,7 +434,7 @@
   - My dog is **as** more prettier **as** my cat.
   - My son is **as** smart **as** his father.
 
-### 5.1.2. Inferiority
+### 6.1.2. Inferiority
 
 - Subject + verb + **less** + adjective + **than** + object.
 - Examples:
@@ -428,7 +444,7 @@
   - Android is **less** intuitive **than** IOs.
   - My sister is **less** smart **than** me.
 
-### 5.1.3. Superiority
+### 6.1.3. Superiority
 
 |                          | Adjective          | Comparative                          |
 | ------------------------ | ------------------ | ------------------------------------ |
@@ -464,11 +480,11 @@
   - Right = more right.
   - Wrong - more wrong.
 
-## 5.2. Superlative
+## 6.2. Superlative
 
 - For comparisons in larger groups, you must use the **superlative**. The superlative designates extremes: The best, the first, the worst, the last, etc.
 
-### 5.2.1. Inferiority
+### 6.2.1. Inferiority
 
 - Subject + verb + **the least** + adjective.
 - Examples:
@@ -477,7 +493,7 @@
   - I am **the least** beautiful of the party.
   - She is **the least** tall of her friends.
 
-### 5.2.2. Superiority
+### 6.2.2. Superiority
 
 |                          | Adjective          | Superlative                                  |
 | ------------------------ | ------------------ | -------------------------------------------- |
@@ -502,7 +518,7 @@
   - "The Matrix" is the **best** movie ever.
   - "Senhora" is the **worst** book I've read.
 
-# 6. Past simple
+# 7. Past simple
 
 - The **Past Simple** is a verb tense that is used to talk about things that happened or existed before now.
 - The **Past Simple** tense emphasizes that the action is finished.
@@ -535,38 +551,11 @@
 - We usually make the positive by adding **-ed** to the infinitive.
 - However, there are some **Irregular Verbs**, where the original verb can become a completely different word.
 
-## 6.1. Regular Verbs
+## 7.1. List Regular, Irregular & Past Participle
 
-| Regular Verbs |          |
-| ------------- | -------- |
-| ask           | asked    |
-| answer        | answered |
-| borrow        | borrowed |
-| clean         | cleaned  |
-| decide        | decided  |
-| learn         | learned  |
-| listen        | listened |
-| open          | opened   |
-| work          | worked   |
-| study         | studied  |
-| watch         | watched  |
-| need          | needed   |
+[Grammar - Verbs](Grammar%20-%20Verbs.md)
 
-## 6.2. Irregular Verbs
-
-| Irregular verbs |         | Irregular verbs |        | Irregular verbs |         |
-| --------------- | ------- | --------------- | ------ | --------------- | ------- |
-| break           | broke   | feel            | felt   | say             | said    |
-| bring           | brought | find            | found  | sit             | sat     |
-| buy             | bought  | go              | went   | speak           | spoke   |
-| choose          | chose   | have            | had    | spend           | spent   |
-| come            | came    | know            | knew   | tell            | told    |
-| do              | did     | meet            | met    | think           | thought |
-| drive           | drove   | pay             | paid   | wear            | wore    |
-| eat             | ate     | run             | ran    | write           | wrote   |
-| sleep           | slept   | teach           | taught | hurt            | hurt    |
-
-# 7. Pronouns
+# 8. Pronouns
 
 - **Pronoun refers to the subject.**
 - Subject and object are the same.
@@ -577,7 +566,7 @@
   - Her + noun + **verb**.
   - His + noun + **verb**.
 
-## 7.1. Types of pronouns
+## 8.1. Types of pronouns
 
 | Subject | Object | Reflexive  | Possessive Adjectives | Possessive Pronouns |
 | ------- | ------ | ---------- | --------------------- | ------------------- |
@@ -595,7 +584,7 @@
   - He wanted to impress **her**, so he baked a cake.
   - He came to visit **us** tonight, but I told **him** that our children are sick so he should come another tim.
 
-## 7.2. Personal
+## 8.2. Personal
 
 - Use the **subject** pronoun when acts as the subject of the clause.
 - Use the **object** pronoun when it is the object of a verb to receive the action.
@@ -606,7 +595,7 @@
   - **They** took **us** to the park.
   - You helped **them** with homework?
 
-## 7.3. Possessive Adjectives
+## 8.3. Possessive Adjectives
 
 - A Possessive Adjectives needs to be used with a noun.
 - Example:
@@ -620,13 +609,13 @@
   - This is **my** pen.
   - I completely forgot **our** keys.
 
-## 7.4. Possessive Pronouns
+## 8.4. Possessive Pronouns
 
 - A Possessive Pronoun does not need a noun (it takes the place of a noun and add possession).
 - Is that bag **hers**.
 - Which one of these is **yours**?
 
-## 7.5. Possessives 's
+## 8.5. Possessives 's
 
 - The genitive case is when we add apostrophe S ('s) to show possession, that something belongs to another or a **type of relationship** between things.
 - We normally use the 's with people, animals though it can also be used with places, organizations and companies (which suggest a group of people).
@@ -652,7 +641,7 @@
   - Her boyfriend's mother lives in my building.
   - This is São Paulo's best restaurant.
 
-## 7.6. Reflexive Pronouns
+## 8.6. Reflexive Pronouns
 
 ![Reflexive pronoums](Images/ReflexivePronouns.png)
 
@@ -689,7 +678,7 @@
   - CORRECT -> John and I are partners.
   - INCORRECT -> John and me are partners.
 
-# 8. Demonstrative Pronouns
+# 9. Demonstrative Pronouns
 
 |       | One thing (singular) | More than one thing (plural) |
 | ----- | -------------------- | ---------------------------- |
@@ -716,7 +705,7 @@
 - What's **this**?
 - **That's** it.
 
-# 9. Articles
+# 10. Articles
 
 - a, an the **noun**.
 - an - use before a vowel or voewl sound (hour).
@@ -724,7 +713,7 @@
 - a - **general** = any.
 - the - **specifc** = you choose.
 
-## 9.1. Definite
+## 10.1. Definite
 
 - They are used when we are referring to a **specific thing** or **quantity**.
 - The definite article (the) is used before a noun to indicate that the identity of the noun is known to the reader.
@@ -737,7 +726,7 @@
     - **The** idea.
     - **The** apple.
 
-## 9.2. Indefinite
+## 10.2. Indefinite
 
 - They are used when we are referring to an **unespecified** thing or quantity.
 - The article (a, an) is used before a **noun** that is general or when its identity is not known.
@@ -759,7 +748,7 @@
   - **An** honest mistake
   - **An** unhappy person.
 
-## 9.3. Rules
+## 10.3. Rules
 
 - Plural nouns can be used with the definite article or no article at all; to use an indefinite article would be incorrect.
 - Examples:
@@ -776,7 +765,7 @@
 - 2nd time you talk about the same noun.
   - Example: I bought same **fruit**. **The fruit** was bad.
 
-# 10. Preposition of Time
+# 11. Preposition of Time
 
 ![Timeline](Images/PrepositionsOfTime.png)
 
@@ -794,7 +783,7 @@
 - Until = till = 'til.
 - I'll be done by 7:00.
 
-# 11. Preposition of Place
+# 12. Preposition of Place
 
 ![Triangle](Images/PrepositionsOfPlace.png)
 
@@ -813,7 +802,7 @@
   - Continent = North America.
   - Area = The world.
 
-## 11.1. In
+## 12.1. In
 
 - Examples:
   - The bags are in the car.
@@ -825,7 +814,7 @@
   - In Brazil.
   - She lives at 256 Queen St.in London.
 
-## 11.2. At
+## 12.2. At
 
 - Examples:
   - She is at the door.
@@ -837,7 +826,7 @@
   - We're stayng at the Moon Hotel.
   - He work at BurgerKing on BayStreet.
 
-## 11.3. On
+## 12.3. On
 
 - Examples:
   - The book is on the table.
@@ -846,13 +835,13 @@
   - Mike lies on the floor.
   - On Hill Road.
 
-# 12. Can, Could and Be able to
+# 13. Can, Could and Be able to
 
-# 13. Modal verbs
+# 14. Modal verbs
 
 - subject + modal verbs + verb + complement.
 
-## 13.1. General rules
+## 14.1. General rules
 
 - These rules apply to the nine modal.
 
@@ -879,7 +868,7 @@
   - Can you help me?
   - Will you let him?
 
-## 13.2. Contractions
+## 14.2. Contractions
 
 - Will -> 'll
 - Would -> 'd
@@ -893,7 +882,7 @@
 - Shall -> Shall not -> Shan't
 - Should -> Should not -> Shouldn't
 
-## 13.3. Can
+## 14.3. Can
 
 - **Can** is a modal auxiliary verb. The basic structures for it in negative, affirmative and intererrogative sentences are:
 
@@ -933,7 +922,7 @@
   - My school isn't far, I **can** walk.
   - The letters are too small. I **can't** read.
 
-### 13.3.1. Example with 5 (five) senses
+### 14.3.1. Example with 5 (five) senses
 
 - Feel
 - Hear
@@ -948,7 +937,7 @@
 - I **can't** remember her name.
 - She **can't** understand this kind of things.
 
-## 13.4. Could
+## 14.4. Could
 
 - Could is also a modal auxiliary verb. Its structure consists on:
 
@@ -987,7 +976,7 @@
     - We be able to see the lake from our hotel.
   - As soon as walked into the room, i **could** smell gas.
 
-## 13.5. Will
+## 14.5. Will
 
 - **When to use:** Future with no previous plan, spontaneous plans decided at the moment of speaking.
 - Examples:
@@ -1000,7 +989,7 @@
   - **Will** he be here tomorrow?
   - Will she get angry?
 
-## 13.6. Would
+## 14.6. Would
 
 - **When to use:** Situation that you can imagine happening, polite question, invitations, preferences, desires.
   - Future from the point of view of the past.
@@ -1012,7 +1001,7 @@
     - **Would** you take a look at the engine?
   - Why **would** he call me?
 
-## 13.7. May
+## 14.7. May
 
 - **When to use:** Possibility, formal request, in the past.
 - Examples:
@@ -1024,7 +1013,7 @@
   - I wonder why kate didn't answer her phone.
     - She **may** have been asleep.
 
-## 13.8. Might
+## 14.8. Might
 
 - **When to use:** Possibility, in the present.
 - Examples:
@@ -1036,7 +1025,7 @@
   - I can't find my phone anywhere.
     - You **might** have left it at work.
 
-## 13.9. Must
+## 14.9. Must
 
 - **When to use:** Obligation, deduction, probability, logical assumption, prohibition.
 - Examples:
@@ -1055,7 +1044,7 @@
     - Did you? It **must** have been noisy.
   - I've lost one of my gloves. I **must** have dropped it somewhere.
 
-## 13.10. Should
+## 14.10. Should
 
 - **When to use:** Advice, deduction, recommend, the right thing to do.
 - Examples:
@@ -1080,7 +1069,7 @@
   - **Shouldn't** you be at school?
   - I **should** be studying now.
 
-# 14. Shall
+# 15. Shall
 
 - **When to use:** Offer, confirmation, promises.
 - Examples:
@@ -1088,7 +1077,7 @@
   - I **shall** meet you there at midnight.
   - You **shall** be the first person to know.
 
-# 15. Question Tag
+# 16. Question Tag
 
 - If the first sentence structure begins with the form **POSITIVE (+)**, the second structure will be **NEGATIVE (-)**, And vice versa.
 - Examples:
@@ -1103,7 +1092,7 @@
   - They couldn't **(-)** finish the test, could they **(+)**?
   - You met my friend **(+)**, didn't **(-)** you?
 
-# 16. Going To
+# 17. Going To
 
 - Plans decided before the moment of speaking.
 - Examples:
@@ -1121,7 +1110,7 @@
   - Aren't you **going to** travel to Mexico?
   - What are you **going to** do this weekend?
 
-## 16.1. Will vs Going To
+## 17.1. Will vs Going To
 
 - I'm **going to** buy this game I saw last week.
 - It **will** rain.
@@ -1134,7 +1123,7 @@
 - **Won't** you call him?
 - I **will** throw a party!
 
-# 17. Adjectives
+# 18. Adjectives
 
 - The adjectives are usually placed **before** the noun that they describe.
 - Examples:
@@ -1149,7 +1138,7 @@
   - This hotel is very big.
   - This apartment is nice.
 
-## 17.1. Passive (action)(ed)
+## 18.1. Passive (action)(ed)
 
 - Express that someone or something experiences this effect.
 - Examples:
@@ -1157,7 +1146,7 @@
   - Excited
   - Bored
 
-## 17.2. Active (cause)(ing)
+## 18.2. Active (cause)(ing)
 
 - Express the idea that someone or something causes a certain effect.
 - Examples:
