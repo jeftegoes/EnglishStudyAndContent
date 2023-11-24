@@ -34,8 +34,12 @@
   - [6.2. Superlative](#62-superlative)
     - [6.2.1. Inferiority](#621-inferiority)
     - [6.2.2. Superiority](#622-superiority)
-- [7. Past simple](#7-past-simple)
-  - [7.1. List Regular, Irregular \& Past Participle](#71-list-regular-irregular--past-participle)
+- [7. Past Simple](#7-past-simple)
+  - [7.1. Afirmative form](#71-afirmative-form)
+  - [7.2. Negative form](#72-negative-form)
+  - [7.3. Interrogative form](#73-interrogative-form)
+  - [7.4. Past Simple with Irregular Verbs](#74-past-simple-with-irregular-verbs)
+    - [7.4.1. Interrogative form](#741-interrogative-form)
 - [8. Pronouns](#8-pronouns)
   - [8.1. Types of pronouns](#81-types-of-pronouns)
   - [8.2. Personal](#82-personal)
@@ -73,6 +77,12 @@
 - [18. Adjectives](#18-adjectives)
   - [18.1. Passive (action)(ed)](#181-passive-actioned)
   - [18.2. Active (cause)(ing)](#182-active-causeing)
+- [19. Phrasal Verbs](#19-phrasal-verbs)
+  - [19.1. Go out](#191-go-out)
+  - [19.2. Hang out](#192-hang-out)
+  - [19.3. Pick up](#193-pick-up)
+  - [19.4. Dress Up](#194-dress-up)
+  - [19.5. Eat out](#195-eat-out)
 
 # 1. Verb To Be
 
@@ -518,7 +528,7 @@
   - "The Matrix" is the **best** movie ever.
   - "Senhora" is the **worst** book I've read.
 
-# 7. Past simple
+# 7. Past Simple
 
 - The **Past Simple** is a verb tense that is used to talk about things that happened or existed before now.
 - The **Past Simple** tense emphasizes that the action is finished.
@@ -530,30 +540,63 @@
 | Interrogative | did + subject + verb + ?   | did + subject + verb + ?   |
 
 - We use the auxiliary verb **did** to make question or negative sentence in the past tense of ANY VERB.
-- Examples:
-  - **Did** he **play** the guitar when he was younger?
-  - **Did** you **live** abroad last year?
-  - When **did** you **meet** your husband?
-  - We **didn't** to **go** Germany this spring.
-  - My cousin **didn't** **get** home until very late last night.
-  - She **didn't** **see** us yesterday.
 - It's more common to used **Past Simple** with **Time Expressions**.
-- Time Expressions:
+- **Time Expressions**
   - Last week.
   - When I was a child.
   - When I was **\_\_**.
   - yesterday.
   - **\_\_** weeks ago.
-  - A while agora.
+  - A while ago.
   - The other day.
   - Ages ago.
   - A long time ago.
 - We usually make the positive by adding **-ed** to the infinitive.
+
+## 7.1. Afirmative form
+
+- I **worked** yesterday.
+- She **lived** in São Paulo for 5 years.
+- They **needed** money to travel
+- My sister **wanted** to eat.
+- They **danced** in the party.
+- I **studied** this morning.
+- I **stopped** working 3 months ago.
+
+## 7.2. Negative form
+
+- We **didn't** to **go** Germany this spring.
+- My cousin **didn't** **get** home until very late last night.
+- She **didn't** **see** us yesterday.
+- I **didn't** study yesterday.
+- He **didn't** work on saturday.
+- They **didn't** come here.
+
+## 7.3. Interrogative form
+
+- **Did** he **play** the guitar when he was younger?
+- **Did** you **live** abroad last year?
+- When **did** you **meet** your husband?
+- **Did** you eat cake?
+- **Did** they drink water?
+- **Didn't** you go to your mother's house?
+- **Didn't** he dance with you?
+- Did you go to the party?
+  - Yes, I did.
+
+## 7.4. Past Simple with Irregular Verbs
+
 - However, there are some **Irregular Verbs**, where the original verb can become a completely different word.
+- [List Regular, Irregular & Past Participle](Grammar%20-%20Verbs.md)
 
-## 7.1. List Regular, Irregular & Past Participle
+### 7.4.1. Interrogative form
 
-[Grammar - Verbs](Grammar%20-%20Verbs.md)
+- What **did** you **have** for lunch?
+  - I **had** pizza.
+- Where **did** you **go** yesterday?
+  - I **went** to schoold.
+- What **did** you **do** yesterday?
+  - I **did** my homework and I **saw** a movie.
 
 # 8. Pronouns
 
@@ -772,7 +815,7 @@
 - I'll be at the office **until** noon.
 - I'll be at the office **by** noon.
 - I'll be at the office **by** noon and I'll **stay** until 5:00.
-- The key is the word **Be**.
+- The key is the word **BE**.
   - until = stay
   - by = arrive
 - INCORRECT -> I'll **finish** my homework **until** 5:00.
@@ -1019,7 +1062,7 @@
 - Examples:
   - They **might** be eating lunch.
   - She **might** give us a discount.
-  - The **might** be at home now.
+  - He **might** be at home now.
   - Tom **might** not be at the meeting tomorrow.
   - It **might** be true.
   - I can't find my phone anywhere.
@@ -1155,3 +1198,30 @@
   - Boring
   - Amazing
   - Amazed
+
+# 19. Phrasal Verbs
+
+## 19.1. Go out
+
+- To leave home and go somewhere, especially to do something enjoyable.
+  - Example: For New Year's Eve, let's go out to a club.
+
+## 19.2. Hang out
+
+- To spend time relaxing usually with friends.
+  - Example: Instead of a big party, I'll invite a few friends to hang out at my house.
+
+## 19.3. Pick up
+
+- To meet someone at their home to go somewhere, often in a car.
+  - Example: The party is at 8pm, so I'll pick you up at 7h30.
+
+## 19.4. Dress Up
+
+- To wear more formal or fancier clothes than you usually wear.
+  - Example: The party is at a nice place, so I will dress up.
+
+## 19.5. Eat out
+
+- To eat in a restaurant.
+  - Example: It's the holiday season, so I will be eating out a lot.
