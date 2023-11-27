@@ -23,7 +23,28 @@
 - [8. Travel](#8-travel)
 - [9. Hotel facilities](#9-hotel-facilities)
   - [9.1. Staying at a hotel](#91-staying-at-a-hotel)
-- [10. To remenber / memorize](#10-to-remenber--memorize)
+- [10. Phrasal Verbs](#10-phrasal-verbs)
+  - [10.1. Go out](#101-go-out)
+  - [10.2. Hang out](#102-hang-out)
+  - [10.3. Pick up](#103-pick-up)
+  - [10.4. Dress Up](#104-dress-up)
+  - [10.5. Eat out](#105-eat-out)
+  - [10.6. Throw away](#106-throw-away)
+  - [10.7. Pick up](#107-pick-up)
+  - [10.8. Hang up](#108-hang-up)
+  - [10.9. Tidy up](#109-tidy-up)
+  - [10.10. Mop](#1010-mop)
+  - [10.11. Turn on/off](#1011-turn-onoff)
+  - [10.12. Get up](#1012-get-up)
+  - [10.13. Wake up](#1013-wake-up)
+  - [10.14. Get along](#1014-get-along)
+  - [10.15. Get back](#1015-get-back)
+  - [10.16. Gave in](#1016-gave-in)
+  - [10.17. Gave up](#1017-gave-up)
+  - [10.18. Go ahead](#1018-go-ahead)
+  - [10.19. Going out](#1019-going-out)
+  - [10.20. Grow up](#1020-grow-up)
+- [11. To remenber / memorize](#11-to-remenber--memorize)
 
 # 1. Numbers
 
@@ -458,7 +479,94 @@
   - Person B: I'm afraid we are at maximum capacity.
   - Person B: I'm afraid we are all booked / full.
 
-# 10. To remenber / memorize
+# 10. Phrasal Verbs
+
+## 10.1. Go out
+
+- To leave home and go somewhere, especially to do something enjoyable.
+  - Example: For New Year's Eve, let's go out to a club.
+
+## 10.2. Hang out
+
+- To spend time relaxing usually with friends.
+  - Example: Instead of a big party, I'll invite a few friends to hang out at my house.
+
+## 10.3. Pick up
+
+- To meet someone at their home to go somewhere, often in a car.
+  - Example: The party is at 8pm, so I'll pick you up at 7h30.
+
+## 10.4. Dress Up
+
+- To wear more formal or fancier clothes than you usually wear.
+  - Example: The party is at a nice place, so I will dress up.
+
+## 10.5. Eat out
+
+- To eat in a restaurant.
+  - Example: It's the holiday season, so I will be **eating out** a lot.
+
+## 10.6. Throw away
+
+- I need to **throw away** some of my old toys.
+
+## 10.7. Pick up
+
+- Tom, can you please **pick up** your clothes?
+
+## 10.8. Hang up
+
+- I am going to **hang up** my coat.
+
+## 10.9. Tidy up
+
+- I want to tidy up my room.
+
+## 10.10. Mop
+
+- They told me to **mop** the floor.
+
+## 10.11. Turn on/off
+
+- Can you please **turn on/off** the lights?
+
+## 10.12. Get up
+
+- I **get up** at 7am.
+
+## 10.13. Wake up
+
+- He didn't **wake up** early today.
+
+## 10.14. Get along
+
+- They don't **get along** very well.
+
+## 10.15. Get back
+
+- I have to **get back** before.
+
+## 10.16. Gave in
+
+- Ben's mother **gave in** and let him stay out late with his friends.
+
+## 10.17. Gave up
+
+- After trying to build my own table, **gave up** and just bought one.
+
+## 10.18. Go ahead
+
+- Go ahead, try it.
+
+## 10.19. Going out
+
+- I'm going out with my friends tomorrow.
+
+## 10.20. Grow up
+
+- You need to grow up.
+
+# 11. To remenber / memorize
 
 - Abroad = Fora de casa / No Exterior / Fora do país
 - Accomplishes = Realiza
@@ -528,6 +636,7 @@
 - Shin = Canela
 - Sink = Pia
 - Soon = Breve / Assim que
+- Shopping (noun) = Compras
 - Tap = Torneira
 - Than = que (conjunção)
 - Therefore - Portanto
@@ -551,6 +660,12 @@
 - Forgotten = Esquecido
 - Burial = Enterro
 - Melt = Derretido
+- Some (Adj) = Alguns / Algumas
+- Any (Adj) = Qualquer / Algum (Interrogative questions) / Nenhuma (Negative questions)
+- Many (Adj) = Muitos
+- Few (Adj) = Poucos
+- Much (Adj) = Muito
+- Little (Adj) = Pouco
 - AWS exam...
   - **Upon checking** = Ao verificar
   - Enforced = Aplicada

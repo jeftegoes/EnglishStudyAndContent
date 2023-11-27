@@ -77,12 +77,10 @@
 - [18. Adjectives](#18-adjectives)
   - [18.1. Passive (action)(ed)](#181-passive-actioned)
   - [18.2. Active (cause)(ing)](#182-active-causeing)
-- [19. Phrasal Verbs](#19-phrasal-verbs)
-  - [19.1. Go out](#191-go-out)
-  - [19.2. Hang out](#192-hang-out)
-  - [19.3. Pick up](#193-pick-up)
-  - [19.4. Dress Up](#194-dress-up)
-  - [19.5. Eat out](#195-eat-out)
+- [19. Countable and Uncountable Nous](#19-countable-and-uncountable-nous)
+  - [19.1. Countable](#191-countable)
+  - [19.2. Uncountable](#192-uncountable)
+  - [19.3. Collecttive Nouns](#193-collecttive-nouns)
 
 # 1. Verb To Be
 
@@ -632,11 +630,18 @@
 - Use the **subject** pronoun when acts as the subject of the clause.
 - Use the **object** pronoun when it is the object of a verb to receive the action.
 - Examples:
-
   - **I** gave **him** a pen.
   - **She** told **me** the news.
   - **They** took **us** to the park.
   - You helped **them** with homework?
+  - She likes **him**.
+  - He **saw** her on the street.
+  - They hate **us**.
+  - We didn't talk to **them**.
+  - She likes **his** friends.
+  - She saw **her** mother die.
+  - They hate **their** kids.
+  - We didn't talk to **his** son.
 
 ## 8.3. Possessive Adjectives
 
@@ -655,8 +660,16 @@
 ## 8.4. Possessive Pronouns
 
 - A Possessive Pronoun does not need a noun (it takes the place of a noun and add possession).
-- Is that bag **hers**.
-- Which one of these is **yours**?
+  - Is that bag **hers**.
+  - Which one of these is **yours**?
+  - This is not your book.
+    - It's mine.
+  - My car isn't good.
+    - Yours is.
+  - Is this hers or ours?
+  - This is surely not theirs, isn't it yours?
+  - The dog is hurt.
+    - Its tail is broken.
 
 ## 8.5. Possessives 's
 
@@ -1199,29 +1212,55 @@
   - Amazing
   - Amazed
 
-# 19. Phrasal Verbs
+# 19. Countable and Uncountable Nous
 
-## 19.1. Go out
+- A/an are only used with **Countable** nouns.
+  - INCORRECT -> I drink a coffee.
+  - CORRECT -> I drink a cup of coffee.
 
-- To leave home and go somewhere, especially to do something enjoyable.
-  - Example: For New Year's Eve, let's go out to a club.
+| Countable                                        | Uncountable                                                |
+| ------------------------------------------------ | ---------------------------------------------------------- |
+| - I eat a banana every day.<br>- I like Bananas. | - I eat rice every day.<br>- I like rice.                  |
+| A countable noun can be singular or plural.      | An uncountable noun has only one form. There is no plural. |
+| Cair<br>Book<br>Dogs                             | Sugar<br>Salt<br>Water<br>Cheese<br>Rice<br>Money<br>Time  |
+| A / An<br>Some / Any<br>Many / Few               | Some / Any<br>Much / Little                                |
 
-## 19.2. Hang out
+## 19.1. Countable
 
-- To spend time relaxing usually with friends.
-  - Example: Instead of a big party, I'll invite a few friends to hang out at my house.
+- Kate was singing a song.
+- There's a nice beach near here.
+- Do you have a ten-pound bill?
+- It wasn't your fault. It was an accident.
+- There are no batteries in the radio.
+- We don't have enough cups.
+- We sang some songs.
+- Have you bought any apples?
+- We didn't take many pictures.
+- We didn't take any pictures.
+- I have a few things to do.
 
-## 19.3. Pick up
+## 19.2. Uncountable
 
-- To meet someone at their home to go somewhere, often in a car.
-  - Example: The party is at 8pm, so I'll pick you up at 7h30.
+- Kate was listening to music.
+- There's sand in my shoes.
+- Do you have any money?
+- It wasn't your fault. It was back luck.
+- There's no electricity in this house.
+- We don't have enough water.
+- We listened to some music.
+- Did you buy any apple juice?
+- We didn't do much shopping.
+- I have little work to do.
+- She doesn't have any friends.
 
-## 19.4. Dress Up
+## 19.3. Collecttive Nouns
 
-- To wear more formal or fancier clothes than you usually wear.
-  - Example: The party is at a nice place, so I will dress up.
-
-## 19.5. Eat out
-
-- To eat in a restaurant.
-  - Example: It's the holiday season, so I will be eating out a lot.
+- A glass of wine.
+- A jug of juice.
+- a cup of coffee.
+- A slice of pizza.
+- A can of coca.
+- A bottle of water.
+- A piece of cake.
+- A bunch of banana.
+- A kilo of flour.

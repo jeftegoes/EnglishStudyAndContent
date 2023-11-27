@@ -55,6 +55,7 @@
 | 44  | set        | set         | set             |
 | 45  | show       | showed      | shown           |
 | 46  | sit        | sat         | sat             |
+| 46  | sing       | sang        | sung            |
 | 47  | speak      | spoke       | spoken          |
 | 48  | spend      | spent       | spent           |
 | 49  | stand      | stood       | stood           |
