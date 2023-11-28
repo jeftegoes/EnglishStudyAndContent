@@ -59,6 +59,7 @@
 | 47  | speak      | spoke       | spoken          |
 | 48  | spend      | spent       | spent           |
 | 49  | stand      | stood       | stood           |
+| 49  | steal      | stole       | stolen          |
 | 50  | take       | took        | taken           |
 | 51  | tell       | told        | told            |
 | 52  | think      | thought     | thought         |

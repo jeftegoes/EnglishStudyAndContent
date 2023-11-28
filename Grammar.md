@@ -24,6 +24,11 @@
     - [3.1.1. Negative](#311-negative)
   - [3.2. Present continuous (ING) / Present progressive](#32-present-continuous-ing--present-progressive)
 - [4. Present perfect](#4-present-perfect)
+  - [4.1. Contractions](#41-contractions)
+  - [4.2. Just](#42-just)
+  - [4.3. Already](#43-already)
+  - [4.4. Yet](#44-yet)
+  - [4.5. Ever](#45-ever)
 - [5. There + to be (There be)](#5-there--to-be-there-be)
   - [5.1. Contractions](#51-contractions)
 - [6. Making assumptions](#6-making-assumptions)
@@ -381,14 +386,60 @@
 | First, he read the book then he watched the movie. | She has already watched this movie 3 times.                   |
 
 - Example comparing Past Simple with Present Perfect:
-  - Past Simple: I lost my keys.
-  - Present Perfect: I have lost my keys.
-  - Past Simple: I bought a car.
-  - Present Perfect: I've bought a car.
+  - a) Past Simple: I lost my keys.
+  - b) Present Perfect: I have lost my keys.
+  - a) Past Simple: I bought a car.
+  - b) Present Perfect: I've bought a car.
 - Example only with Present Perfect:
   - I haven't watched lord of the rings.
   - She has gone to france.
   - He hasn't gone to the bank yet.
+- Others examples:
+  - I **have** already **written** the book.
+  - He **has worked** here for three months.
+  - They **have gone** to Australia many times.
+  - **Have** you ever **been** to Paris?
+  - My family **have visited** me recently.
+  - My parents **haven't arrived** yet.
+  - You should trust us. We **have driven** arround this city for years.
+  - Emily **has spoken** in public twice in her life.
+  - It's my brother's birthday and I **haven't bought** him a present.
+  - Look! The boys **have broken** the window.
+  - **Have** you **seen** this movie?
+  - **Has** she **read** shakespeare?
+  - Lisa **has gone** to Italy.
+  - Lisa **has been** to Italy.
+
+## 4.1. Contractions
+
+- I've => I Have.
+- He's => He has.
+- She's => She has.
+- It's => It has.
+
+## 4.2. Just
+
+- They've just arrived.
+- I've just woken up.
+
+## 4.3. Already
+
+- What time are your parents coming?
+  - They've already arrived.
+- It's only 9 o'lock and my wife has already gone to bed.
+
+## 4.4. Yet
+
+- Julia has bought a new house but she hasn't moved in yet.
+- I haven't seen this movie yet.
+- Has she started her new job yet?
+- Have your parents arrived yet?
+- Julia has bought a new house but.
+  - She hasn't moved in yet.
+
+## 4.5. Ever
+
+
 
 # 5. There + to be (There be)
 
