@@ -395,6 +395,7 @@
   - She has gone to france.
   - He hasn't gone to the bank yet.
 - Others examples:
+
   - I **have** already **written** the book.
   - He **has worked** here for three months.
   - They **have gone** to Australia many times.
@@ -409,6 +410,26 @@
   - **Has** she **read** shakespeare?
   - Lisa **has gone** to Italy.
   - Lisa **has been** to Italy.
+  - Have you (ever) **been** to Japan?
+  - My sister has never **traveled** by plane.
+  - I've never **ridden** a horse.
+  - **How long** have you **been** sick?
+  - I've **been** sick **for** a week.
+  - I've **been** sick **since** last tuesday.
+  - Do you know Lisa?
+    - How long have you **known** her?
+  - Steve lives in N.Y.
+    - How long has he **lived** in N.Y?
+  - I have a car.
+    - How long have you **had** your car?
+  - INCORRECT -> I'm married for 5 years.
+  - CORRECT -> I have been married for 5 years.
+  - INCORRECT -> I work here for 6 months.
+  - CORRECT -> I have worked here for 6 months.
+
+- **Attention**
+  - Avoid a word **Ago** in the Present Simple.
+    - Example: I **got** sick a few days **ago**.
 
 ## 4.1. Contractions
 
@@ -438,8 +459,6 @@
   - She hasn't moved in yet.
 
 ## 4.5. Ever
-
-
 
 # 5. There + to be (There be)
 

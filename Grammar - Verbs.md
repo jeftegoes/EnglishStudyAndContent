@@ -47,6 +47,7 @@
 | 36  | pay        | paid        | paid            |
 | 37  | put        | put         | put             |
 | 38  | read       | read        | read            |
+| 39  | ride       | rode        | ridden          |
 | 39  | rise       | rose        | risen           |
 | 40  | run        | ran         | run             |
 | 41  | say        | said        | said            |
