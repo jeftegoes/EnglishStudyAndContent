@@ -422,6 +422,18 @@
     - How long has he **lived** in N.Y?
   - I have a car.
     - How long have you **had** your car?
+  - I've cut my finger.
+  - Police have arrested two men in connection with the Robbery.
+  - Have you eaten shrimp?
+  - I've never had a car.
+  - Have you read hamlet?
+  - That's the worst book I've ever read.
+  - I haven't talked to hum recently.
+  - College has been pretty easy so far.
+  - She hasn't eaten anything since breakfast.
+  - I've drunk four cups of coffee today.
+  - Have you had vactions this year?
+  - I haven't seen tom this morning.
   - INCORRECT -> I'm married for 5 years.
   - CORRECT -> I have been married for 5 years.
   - INCORRECT -> I work here for 6 months.
