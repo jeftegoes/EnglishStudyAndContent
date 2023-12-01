@@ -84,8 +84,11 @@
   - [18.2. Active (cause)(ing)](#182-active-causeing)
 - [19. Countable and Uncountable Nous](#19-countable-and-uncountable-nous)
   - [19.1. Countable](#191-countable)
+    - [19.1.1. One \& Ones](#1911-one--ones)
+    - [19.1.2. Another One](#1912-another-one)
   - [19.2. Uncountable](#192-uncountable)
   - [19.3. Collecttive Nouns](#193-collecttive-nouns)
+- [20. Much, Many vs Little/Few](#20-much-many-vs-littlefew)
 
 # 1. Verb To Be
 
@@ -1321,6 +1324,22 @@
 - We didn't take any pictures.
 - I have a few things to do.
 
+### 19.1.1. One & Ones
+
+|                                    **One**                                     |                                 **Ones**                                 |
+| :----------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+|              We use one to replace a **singular** countable noun               |            We use one to replace a **plural** countable noun             |
+|         I'm making a cup of tea. Would you like **one** (a cup of tea)         |       Would you like to wear black shoes or red **ones**? (shoes)        |
+| We can use a/an/the + adjective + **one** to replace a singular countable noun | We can use a/an/the + adjective + one to replace a plural countable noun |
+|        Shall I put **one** this black dress or the red **one**? (dress)        | I don't like these black jeans. - Do you want the blue **ones**? (jeans) |
+
+### 19.1.2. Another One
+
+- **Extra Thing**
+  - Mariana hasn't got her student book. Do you have another one? (An extra book).
+- **Different Thing**
+  - He didn't like this t-shirt. Do you have another one? (A different t-shirt).
+
 ## 19.2. Uncountable
 
 - Kate was listening to music.
@@ -1346,3 +1365,25 @@
 - A piece of cake.
 - A bunch of banana.
 - A kilo of flour.
+
+# 20. Much, Many vs Little/Few
+
+|      Uncountable Nouns       |                         \/                         |        Plural Nouns        |
+| :--------------------------: | :------------------------------------------------: | :------------------------: |
+|       Much and Little        |            lot of / lots of / plenty of            |        Many and Few        |
+|    much luck / much time     |   a lot of luck / lots of time / plenty of money   | many friends / many people |
+| little energy / little money | a lot of friends / lots of people/ plenty of ideas |  few cars / few children   |
+
+1. **Much** is unusual in affirmative sentences. In these cases, we use the options of the third topic.
+
+- We didn't sped much money. (negative)
+- We spent a lot of money. (affirmative)
+
+2. Little = no much < a little = some; a small amount
+3. Few = not < many a few = some; a small number
+
+- **Examples**
+  - He spoke **little** english, so it difficult to communicate with him.
+  - He spoke **a little** english, so we were able to communicate with him.
+  - She's lucky. She has **few** problems.
+  - Things are not going so well for her. She has a **few** problems.

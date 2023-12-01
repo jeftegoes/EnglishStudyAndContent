@@ -22,6 +22,7 @@
 | 11  | deal       | dealt       | dealt           |
 | 12  | draw       | drew        | drawn           |
 | 13  | drive      | drove       | driven          |
+| 13  | do         | did         | done            |
 | 14  | eat        | ate         | eaten           |
 | 15  | fall       | fell        | fallen          |
 | 16  | feel       | felt        | felt            |
