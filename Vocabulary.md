@@ -560,8 +560,8 @@
 - Some (Adj) = Alguns / Algumas
 - Any (Adj) = Qualquer / Algum (Interrogative questions) / Nenhuma (Negative questions)
 - Many (Adj) = Muitos
-- Few (Adj) = Poucos
 - Much (Adj) = Muito
+- Few (Adj) = Poucos
 - Little (Adj) = Pouco
 - AWS exam...
   - **Upon checking** = Ao verificar

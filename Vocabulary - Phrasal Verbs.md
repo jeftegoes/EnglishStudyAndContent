@@ -144,7 +144,7 @@
 
 # 25. Try on
 
-- to put on a piece of clothing to discover if it fits you or if you like it:
+- To put on a piece of clothing to discover if it fits you or if you like it:
   - Do you want to try on this dress?
   - I need to try on a tasty Subway.
 

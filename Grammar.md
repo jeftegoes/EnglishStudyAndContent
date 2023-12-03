@@ -29,6 +29,7 @@
   - [4.3. Already](#43-already)
   - [4.4. Yet](#44-yet)
   - [4.5. Ever](#45-ever)
+  - [4.6. Never](#46-never)
 - [5. There + to be (There be)](#5-there--to-be-there-be)
   - [5.1. Contractions](#51-contractions)
 - [6. Making assumptions](#6-making-assumptions)
@@ -89,6 +90,19 @@
   - [19.2. Uncountable](#192-uncountable)
   - [19.3. Collecttive Nouns](#193-collecttive-nouns)
 - [20. Much, Many vs Little/Few](#20-much-many-vs-littlefew)
+  - [20.1. Many](#201-many)
+  - [20.2. Much](#202-much)
+  - [20.3. A little vs Little](#203-a-little-vs-little)
+  - [20.4. A few vs Few](#204-a-few-vs-few)
+- [21. Some vs Any Vs No](#21-some-vs-any-vs-no)
+  - [21.1. Some](#211-some)
+    - [21.1.1. Affirmative](#2111-affirmative)
+    - [21.1.2. Interrogative](#2112-interrogative)
+  - [21.2. Any](#212-any)
+    - [21.2.1. Negative](#2121-negative)
+    - [21.2.2. Interrogative](#2122-interrogative)
+  - [21.3. No](#213-no)
+- [22. Compounds (Some vs Any Vs No)](#22-compounds-some-vs-any-vs-no)
 
 # 1. Verb To Be
 
@@ -414,8 +428,6 @@
   - Lisa **has gone** to Italy.
   - Lisa **has been** to Italy.
   - Have you (ever) **been** to Japan?
-  - My sister has never **traveled** by plane.
-  - I've never **ridden** a horse.
   - **How long** have you **been** sick?
   - I've **been** sick **for** a week.
   - I've **been** sick **since** last tuesday.
@@ -428,7 +440,6 @@
   - I've cut my finger.
   - Police have arrested two men in connection with the Robbery.
   - Have you eaten shrimp?
-  - I've never had a car.
   - Have you read hamlet?
   - That's the worst book I've ever read.
   - I haven't talked to hum recently.
@@ -455,25 +466,45 @@
 
 ## 4.2. Just
 
-- They've just arrived.
-- I've just woken up.
+- Express a recently completed action:
+  - They've just arrived.
+  - I've just woken up.
+  - The guests have just arrived.
+  - I have just finished my homework.
 
 ## 4.3. Already
 
-- What time are your parents coming?
-  - They've already arrived.
-- It's only 9 o'lock and my wife has already gone to bed.
+- Express that somenthing has happened sooner than expected.
+  - What time are your parents coming?
+    - They've already arrived.
+  - It's only 9 o'lock and my wife has already gone to bed.
+  - They have already packed their stuff.
+  - Monica has already bought everything she needed.
 
 ## 4.4. Yet
 
-- Julia has bought a new house but she hasn't moved in yet.
-- I haven't seen this movie yet.
-- Has she started her new job yet?
-- Have your parents arrived yet?
-- Julia has bought a new house but.
-  - She hasn't moved in yet.
+- Used in interrogative and negative sentences (different meanings).
+  - Julia has bought a new house but she hasn't moved in yet.
+  - I haven't seen this movie yet.
+  - Has she started her new job yet?
+  - Have your parents arrived yet?
+  - Julia has bought a new house but.
+    - She hasn't moved in yet.
+  - Have you done your homework yet?
+  - I haven't received the report yet.
 
 ## 4.5. Ever
+
+- Used in interrogative sentences.
+  - Have you ever been to the United States?
+  - Have you ever traveled by train?
+
+## 4.6. Never
+
+- Used in affirmative sentences (negative meaning).
+  - My sister has never **traveled** by plane.
+  - I've never **ridden** a horse.
+  - I've never had a car.
 
 # 5. There + to be (There be)
 
@@ -1387,3 +1418,93 @@
   - He spoke **a little** english, so we were able to communicate with him.
   - She's lucky. She has **few** problems.
   - Things are not going so well for her. She has a **few** problems.
+
+## 20.1. Many
+
+- We use **many** with **countable nouns**. We can count them:
+  - I'm eating **many** carrots.
+  - We have **many** books.
+  - She has **many** apples.
+  - There are **many** pencils.
+  - There are **many** animals.
+
+## 20.2. Much
+
+- We use **much** with **uncountable nouns**. We can't count them:
+  - there isn't **much** cheese.
+  - He doesn't drink **much** milk.
+  - She doesn't eat **much** meat.
+
+## 20.3. A little vs Little
+
+- Use with **uncountable nouns**.
+  - A little: A small amount of the noun (Neutral feel; maybe positive).
+  - Little: Only a small amount of the noun (often has a negative feel).
+
+## 20.4. A few vs Few
+
+- Use with **countable nouns**
+  - A few: A small number of the noun (Neutral feel; maybe positive).
+  - Few: Only a small number of the noun (often has a negative feel).
+
+# 21. Some vs Any Vs No
+
+## 21.1. Some
+
+### 21.1.1. Affirmative
+
+- In general, we use **Some** in affirmative sentences, refering to an unespecified amount or number:
+  - I'm going to buy **some** clothes.
+  - There's **some** ice in the fridge.
+  - We bought **some** flowers. (the number of flower is unknown)
+  - He's busy, He has **some** work to do.
+
+### 21.1.2. Interrogative
+
+- **ATTENTION HERE!!!**
+  - We use **Some** in questions when we ask for or **offer things**:
+    - Can I have **some** suggar, please? (there is probably some sugar that I can have)
+    - Would you like **something** to eat? (there is somenthing to eat)
+    - Would you like some coffee?
+    - Can I have some soup, please?
+    - Can you lead me some?
+    - You can have some coffee, but I don't want any.
+    - I made some cake.
+      - Do you want some?
+    - I need some bread!
+
+## 21.2. Any
+
+### 21.2.1. Negative
+
+- We use **Any** with the meaning: **It doesn't matter what**.
+  - I'm not going to buy **any** clothes.
+  - There isn't **any** milk in the fridge.
+  - He didn't buy **any** flowers.
+  - I didn't take any pictures, but Jane took some.
+
+### 21.2.2. Interrogative
+
+- But in most questions, we use **Any**. We do not know if the thing or person exists:
+  - Do you have **any** luggage? (maybe you do, maybe not).
+  - Is there **anybody** in the house? (maybe there is, maybe not).
+  - Is there any ice in the fridge?
+  - Does he have any friends?
+
+## 21.3. No
+
+- We use **No** with affirmative verbs (but the meaning is negative):
+- **No** = Not any
+  - He bought **no** flowers.
+  - There are **no** cars in the park.
+  - We have **no** coffee
+  - It's a nice house, But there is **no** garden.
+
+# 22. Compounds (Some vs Any Vs No)
+
+|        |   Some    |   Any    |   No    |   Every    |
+| :----: | :-------: | :------: | :-----: | :--------: |
+| People | Somebody  | Anybody  | Nobody  | Everybody  |
+| People |  Someone  |  Anyone  | No one  |  Everyone  |
+| Thing  | Something | Anything | Nothing | Everything |
+| Place  | Somewhere | Anywhere | Nowhere | Everywhere |
