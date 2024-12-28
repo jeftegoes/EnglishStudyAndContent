@@ -489,6 +489,7 @@
 - Chin = Queixo
 - Con = Vigarista
 - Concern = Preocupação
+  - Concerned (adj) = preocupado
 - Dangling = Pendurado/pendente
 - Deal (noun) = Acordo
 - Deal (verb) = Tratar / Negociar
@@ -513,7 +514,7 @@
 - Made (adj) = Feito
 - Manner = Maneira
 - Meal = Refeição
-- Meet = Encontrar
+- Meet (verb) = Encontrar / Atender
 - Met = Conheceu
 - Microwave oven = Micro ondas
 - Mood = Humor
@@ -631,3 +632,37 @@
   - Wherein = Em que
   - Whole = Todo
   - Within (adv) = Dentro de
+  - Cumbersome = Complicado
+  - Ingress (noun) = Entrada
+  - Egress (noun) = Saída
+  - Bound = Vinculado
+  - Beverage (noun) = Bebida
+  - Make sure = Certifique-se
+  - Tax return = Imposto de renda
+  - Lodge (verb) = Apresentar
+  - Peak (noun) = Pico
+  - Due (adj) = Devido
+  - Threshold = Limite
+  - Halt (verb) = Parar
+  - Feasible (adj) = Viável
+  - Full-fledged (adj) = De pleno direito
+  - In such a way - De tal maneira
+  - Overall = Geral
+  - Either (adj) - Qualquer
+  - Assesses = Avalia
+  - Stock trading = Negociação de ações
+  - Surge (noun) = Surto / Onda
+  - Tightly (adv) = Fortemente / Altamente
+  - Household = Doméstico
+  - Nonetheless = Apesar disso
+  - Measure (verb) = Medida / Mensurar
+  - Leaked = Vazou
+  - Slated = Programado
+  - Lax Restriction = Restrição negligente
+  - Instead = Em vez de
+  - Enhance (verb) = Melhorar
+  - Seamlessly (adv) = Perfeitamento
+  - Leverage = Aproveitar
+  - Out-of-box = Of a product, existing or ready to use
+  - On your behalf = Em seu nome
+  - Accordingly (adv) = De acordo
