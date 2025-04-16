@@ -649,6 +649,7 @@
   - In such a way - De tal maneira
   - Overall = Geral
   - Either (adj) - Qualquer
+    - Neither = Nenhum
   - Assesses = Avalia
   - Stock trading = Negociação de ações
   - Surge (noun) = Surto / Onda
@@ -666,3 +667,4 @@
   - Out-of-box = Of a product, existing or ready to use
   - On your behalf = Em seu nome
   - Accordingly (adv) = De acordo
+  - Underlying = Abaixo / Subjacente
