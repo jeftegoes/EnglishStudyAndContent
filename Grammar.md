@@ -609,7 +609,6 @@
 - For comparisons in larger groups, you must use the **superlative**. The superlative designates extremes: The best, the first, the worst, the last, etc.
 
 ### 6.2.1. Inferiority
-
 - Subject + verb + **the least** + adjective.
 - Examples:
   - Who is **the least** organized person that you know?
