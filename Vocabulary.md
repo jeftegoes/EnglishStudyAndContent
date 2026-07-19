@@ -465,224 +465,54 @@
 
 # 11. To remenber / memorize
 
-- Abroad = Fora de casa / No Exterior / Fora do país
-- Accomplishes = Realiza
-- Advice = Conselho
-- Already = Já
-- Anthem = Hino
-- Annoy (verb) = Irritar
-- Anymore = Não mais
-- Arrangement = Organização / Planejamento?
-- As a reminder = Um lembrete
-- As soon as = Assim que
-- Bathroom (Usually includes a bathtub or shower) / Restroom = banheiro
-- Bathtub = banheira
-- Beet = Beterraba
-- Bit = Pedaço
-- Bite = Morder
-- Blender = Liquidificador
-- Bought = Comprado
-- Bring = Trazer
-- Broker = Agente / Negociador / Intermediário
-- Bundle = agrupar
-- Ceiling = Teto
-- Chin = Queixo
-- Con = Vigarista
-- Concern = Preocupação
-  - Concerned (adj) = preocupado
-- Dangling = Pendurado/pendente
-- Deal (noun) = Acordo
-- Deal (verb) = Tratar / Negociar
-- Diseases = Doenças
-- Drawer = Gaveta
-- Edge = Borda / aresta
-- Exchange = Troca / cambio
-- Get home = Chegar em casa
-- Glag = Alegre
-- Going To = Vou / Indo a
-- Hip = Quadril
-- Hire = Contratar
-- Hop = Saltar
-- Hunk = pedaço
-- Hurry = Pressa
-- Hurt = Machucar / Ferir
-- I wonder = Eu me pergunto
-- Indeed = Na verdade, certamente / De fato
-- Lays = Coloca
-- Lead = Liderar / Persuadir
-- Let = Deixar
-- Made (adj) = Feito
-- Manner = Maneira
-- Meal = Refeição
-- Meet (verb) = Encontrar / Atender
-- Met = Conheceu
-- Microwave oven = Micro ondas
-- Mood = Humor
-- Mud = Lama
-- Nutshell = Em resumo / Em suma
-- Painting = Quadro de pintura
-- Pan = Frigideira / Panela
-- Pat = Tapinha
-- Poor = Pobre
-- Postpone = Postergar / Adiar
-- Prevail = Prevalecer
-- Rays = Raios
-- Rent = Alugar
-- Sake = Interesse
-- Shelf = Prateleira
-- Shift = Mudança
-- Shin = Canela
-- Sink = Pia
-- Soon = Breve / Assim que
-- Shopping (noun) = Compras
-- Tap = Torneira
-- Than = que (conjunção)
-- Therefore - Portanto
-- Thought = Pensamento / pensei / reflexão / consideração
-- Throughout = ao longo
-- Tile = Azulejo
-- Tin = Lata
-- Toilet seat = Vaso sanitário
-- Visa = Visto
-- Waiter = Garçon
-- Wardrobe = Armário
-- We used = Nós costumavamos
-- Which (Pronoun) = que
-- Witness = Testemunha
-- Grievous = Grave
-- Guilt = Culpa
-- Carved = Esculpido
-- Bleed = Sangrar
-- Wounds = Ferimentos
-- Flea = Pulga
-- Forgotten = Esquecido
-- Burial = Enterro
-- Melt = Derretido
-- Some (Adj) = Alguns / Algumas
-- Any (Adj) = Qualquer / Algum (Interrogative questions) / Nenhuma (Negative questions)
-- Many (Adj) = Muitos
-- Much (Adj) = Muito
-- Few (Adj) = Poucos
-- Little (Adj) = Pouco
-- AWS exam...
-  - **Upon checking** = Ao verificar
-  - Enforced = Aplicada
-  - Example: Enable the built-in **noun** notification feature = Habilite o recurso integrado de notificação do Trusted Advisor.
-  - Insurance firm = Seguradora
-  - **In charge** = No comando
-  - Afterward = Depois
-  - Although = Embora
-  - Assets = Ativos
-  - Assessment = Avaliação
-  - Appliance = Dispositivo / Utensílio
-  - As well (adv) = Também
-  - As well as (conj) = Assim como
-  - Assert = Afirma
-  - Assign = Atribuir
-  - Breach (noun) = Violação
-  - Comply = Cumprir
-  - Comprises = Compreende
-  - Enforce = Aplicar
-  - Ensure = Garantir
-  - Entails / Implies = Implica
-  - Even = Mesmo / Até
-  - From scratch = Do princípio
-  - Further = Avançar
-  - Gathering = Reunião
-  - Hence = Por isso
-  - Herculean = Hercúlea (Extremamente trabalhoso)
-  - Incoming = Entrada
-  - Insurance = Seguro
-  - Invaluable (adj) = Inestimável
-  - Leading (adj) = Principal
-  - Moreover - Além disso
-  - Ongoing = Contínua
-  - Outage = Interrupção
-  - Outcoming = Saída
-  - Over (adv) = Acima de
-  - Premise (noun) = Local / Premissa
-  - Prone = Propenso
-  - Rectify = Retificar
-  - Reliability = Confiabilidade
-  - Reliable (adj) = Confiável
-  - Relies = Depende
-  - Resemble = assemelhar-se
-  - Retail = Varejo
-  - Right after = Logo depois
-  - Seldom (adv) = Raramente
-  - Several = Diversos
-  - Signs = Sinaliza
-  - Sponsor = Patrocinador
-  - Suitable = Adequado
-  - Tampered = Adulterado
-  - Though = No entanto
-  - Underutilized = Subutilizada
-  - Unpredictable = Imprevisível
-  - Unreachable = Inacessível
-  - Upon = Sobre
-  - Utmost (adj) = Máximo
-  - Whenever = Em qualquer momento
-  - Whether (conj) = Se
-  - Wherein = Em que
-  - Whole = Todo
-  - Cumbersome = Complicado / Pesado
-  - Ingress (noun) = Entrada
-  - Egress (noun) = Saída
-  - Bound = Vinculado
-  - Beverage (noun) = Bebida
-  - Make sure = Certifique-se
-  - Tax return = Imposto de renda
-  - Lodge (verb) = Apresentar
-  - Due (adj) = Devido
-  - Threshold = Limite
-  - Halt (verb) = Parar
-  - Feasible (adj) = Viável
-  - Full-fledged (adj) = De pleno direito
-  - In such a way - De tal maneira
-  - Overall = Geral
-  - Either (adj) - Qualquer
-    - Neither = Nenhum
-  - Assesses = Avalia
-  - Stock trading = Negociação de ações
-  - Surge (noun) = Surto / Onda
-  - Tightly (adv) = Fortemente / Altamente
-  - Household = Doméstico
-  - Nonetheless = Apesar disso
-  - Measure (verb) = Medida / Mensurar
-  - Leaked = Vazou
-  - Slated = Programado
-  - Lax Restriction = Restrição negligente
-  - Instead = Em vez de
-  - Enhance (verb) = Melhorar
-  - seamless (adj) = Sem costura / Sem Emenda
-    - Seamlessly = Sem problemas
-  - Leverage = Aproveitar
-  - Out-of-box = Of a product, existing or ready to use
-  - On your behalf = Em seu nome
-  - Accordingly (adv) = De acordo
-  - Underlying = Abaixo / Subjacente
-  - Account = Conta / Contabilizar
-  - Throttle = Limita / Estragula
-  - Withstand = Suportar / Registir
-  - Turns = Voltas
-    - It turns out (phrasal verb) = Acontece que
-  - Unable (adj) = Impossível / Incapaz
-  - Overwhelmed = Sobrecarregado
-  - So that = Para que
-  - Reliably = Confiável / Seguro
-  - Despite = Apesar de
-  - Regardless = Sem considerar / Indiferente
-  - Whereas = Enquanto
-  - Cope = Lidar
-    - Cope up = Lidar com isso
-  - Outlined = Delineada(o)
-  - Lack = Falta
-  - Bottlenecks = Gargalos
-  - Willing = Disposta(o)
-  - Hardening = Endurecimento (Amadurecimento)
-  - Bear (verb) = Suportar / Carregar
-  - Jeopardizing = Colocando em risco
-  - Thereby = Deste modo
-  - In-house = Interno(a)
-  - Adhere = Aderir
-  - Cater = Atender
+
+| Word           | Type                   | Meaning                       |
+| -------------- | ---------------------- | ----------------------------- |
+| Accountability | Noun                   | Responsabilidade              |
+| Augmentation   | Noun                   | Aumento / Ampliação           |
+| Awareness      | Noun                   | Conhecimento / Consciência    |
+| Beliefs        | Noun                   | Crenças                       |
+| Bias           | Noun                   | Viés                          |
+| Broad          | Adjective              | Geral / Amplo                 |
+| Broadly        | Adverb                 | De modo geral                 |
+| Bought         | Verb (Past of _buy_)   | Comprou / Comprado            |
+| Brought        | Verb (Past of _bring_) | Trouxe                        |
+| Churn          | Noun / Verb            | Rotatividade de clientes      |
+| Cues           | Noun                   | Sinais / Indícios             |
+| Discrete       | Adjective              | Distinto / Discreto           |
+| Disregarded    | Verb (Past Participle) | Desconsiderado                |
+| Epoch          | Noun                   | Época / Ciclo de treinamento  |
+| Explainability | Noun                   | Explicabilidade               |
+| Fairly         | Adverb                 | De forma justa / Com justiça  |
+| Fairness       | Noun                   | Equidade                      |
+| Flawed         | Adjective              | Imperfeito / Defeituoso       |
+| Harness        | Verb                   | Aproveitar / Utilizar         |
+| Harnessing     | Verb (Gerund) / Noun   | Aproveitando / Aproveitamento |
+| Hijack         | Verb                   | Sequestrar                    |
+| Meaning        | Noun                   | Significado                   |
+| Meaningful     | Adjective              | Significativo                 |
+| Narrow         | Adjective              | Estreito                      |
+| Outcomes       | Noun                   | Resultados                    |
+| Overcome       | Verb                   | Superar                       |
+| Oversight      | Noun                   | Supervisão                    |
+| Retrain        | Verb                   | Retreinar                     |
+| Skewed         | Adjective              | Enviesado / Distorcido        |
+| Threshold      | Noun                   | Limite / Limiar               |
+| Whereas        | Conjunction            | Enquanto / Ao passo que       |
+
+```
+
+- Aware = Cientes
+- Foster = Fomentar
+- Roadblocks = Obstáculos
+- Intended = Pretendido
+- Measurement = Medição
+- Sample = Amostra
+- Shelves = Prateleiras
+- Sampling = Amostragem
+- Stick to = Ater-se a
+- Misuse = Mau uso
+- Unseen = Invisível / Não visto
+- Undermines = Mina
+- Throughout = Por todo
+```
